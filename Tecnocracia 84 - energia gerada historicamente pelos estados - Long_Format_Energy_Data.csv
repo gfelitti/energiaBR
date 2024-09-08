@@ -1,0 +1,5997 @@
+Estado,Year,tipo_energia,geracao
+BRASIL,2023,Geração Total,"708,119"
+Rondônia,2023,Geração Total,"27,682"
+Acre,2023,Geração Total,315
+Amazonas,2023,Geração Total,"9,837"
+Roraima,2023,Geração Total,"1,520"
+Pará,2023,Geração Total,"66,059"
+Amapá,2023,Geração Total,"3,216"
+Tocantins,2023,Geração Total,"9,933"
+Maranhão,2023,Geração Total,"11,870"
+Piauí,2023,Geração Total,"17,161"
+Ceará,2023,Geração Total,"10,936"
+Rio G. do Norte,2023,Geração Total,"31,121"
+Paraíba,2023,Geração Total,"5,073"
+Pernambuco,2023,Geração Total,"10,694"
+Alagoas,2023,Geração Total,"13,218"
+Sergipe,2023,Geração Total,"6,702"
+Bahia,2023,Geração Total,"54,197"
+Minas Gerais,2023,Geração Total,"66,853"
+Espírito Santo,2023,Geração Total,"11,489"
+Rio de Janeiro,2023,Geração Total,"43,823"
+São Paulo,2023,Geração Total,"75,589"
+Paraná,2023,Geração Total,"96,448"
+Santa Catarina,2023,Geração Total,"29,423"
+Rio G. do Sul,2023,Geração Total,"34,141"
+Mato G. do Sul,2023,Geração Total,"24,963"
+Mato Grosso,2023,Geração Total,"21,128"
+Goiás,2023,Geração Total,"24,233"
+Distrito Federal,2023,Geração Total,495
+BRASIL,2023,Geração Total,"677,173"
+BRASIL,2022,Geração Total,"677,173"
+Rondônia,2022,Geração Total,"34,665"
+Acre,2022,Geração Total,302
+Amazonas,2022,Geração Total,"9,512"
+Roraima,2022,Geração Total,"1,367"
+Pará,2022,Geração Total,"76,714"
+Amapá,2022,Geração Total,"3,836"
+Tocantins,2022,Geração Total,"10,766"
+Maranhão,2022,Geração Total,"11,139"
+Piauí,2022,Geração Total,"14,684"
+Ceará,2022,Geração Total,"9,873"
+Rio G. do Norte,2022,Geração Total,"25,932"
+Paraíba,2022,Geração Total,"3,483"
+Pernambuco,2022,Geração Total,"9,434"
+Alagoas,2022,Geração Total,"15,230"
+Sergipe,2022,Geração Total,"8,760"
+Bahia,2022,Geração Total,"50,368"
+Minas Gerais,2022,Geração Total,"56,884"
+Espírito Santo,2022,Geração Total,"11,527"
+Rio de Janeiro,2022,Geração Total,"46,830"
+São Paulo,2022,Geração Total,"59,887"
+Paraná,2022,Geração Total,"85,962"
+Santa Catarina,2022,Geração Total,"26,793"
+Rio G. do Sul,2022,Geração Total,"31,643"
+Mato G. do Sul,2022,Geração Total,"22,009"
+Mato Grosso,2022,Geração Total,"24,202"
+Goiás,2022,Geração Total,"25,053"
+Distrito Federal,2022,Geração Total,317
+BRASIL,2022,Geração Total,"656,109"
+Rondônia,2021,Geração Total,"37,604"
+Acre,2021,Geração Total,265
+Amazonas,2021,Geração Total,"11,312"
+Roraima,2021,Geração Total,"1,229"
+Pará,2021,Geração Total,"71,135"
+Amapá,2021,Geração Total,"4,188"
+Tocantins,2021,Geração Total,"10,426"
+Maranhão,2021,Geração Total,"18,445"
+Piauí,2021,Geração Total,"11,499"
+Ceará,2021,Geração Total,"16,609"
+Rio G. do Norte,2021,Geração Total,"24,104"
+Paraíba,2021,Geração Total,"3,434"
+Pernambuco,2021,Geração Total,"12,841"
+Alagoas,2021,Geração Total,"10,255"
+Sergipe,2021,Geração Total,"9,861"
+Bahia,2021,Geração Total,"40,490"
+Minas Gerais,2021,Geração Total,"47,050"
+Espírito Santo,2021,Geração Total,"13,021"
+Rio de Janeiro,2021,Geração Total,"66,743"
+São Paulo,2021,Geração Total,"57,659"
+Paraná,2021,Geração Total,"69,590"
+Santa Catarina,2021,Geração Total,"20,602"
+Rio G. do Sul,2021,Geração Total,"29,037"
+Mato G. do Sul,2021,Geração Total,"22,678"
+Mato Grosso,2021,Geração Total,"23,236"
+Goiás,2021,Geração Total,"22,604"
+Distrito Federal,2021,Geração Total,192
+BRASIL,2020,Geração Total,"621,251"
+Rondônia,2020,Geração Total,"35,272"
+Acre,2020,Geração Total,257
+Amazonas,2020,Geração Total,"10,811"
+Roraima,2020,Geração Total,"1,262"
+Pará,2020,Geração Total,"60,793"
+Amapá,2020,Geração Total,"2,645"
+Tocantins,2020,Geração Total,"10,383"
+Maranhão,2020,Geração Total,"13,634"
+Piauí,2020,Geração Total,"8,172"
+Ceará,2020,Geração Total,"10,345"
+Rio G. do Norte,2020,Geração Total,"17,896"
+Paraíba,2020,Geração Total,"1,501"
+Pernambuco,2020,Geração Total,"10,151"
+Alagoas,2020,Geração Total,"13,976"
+Sergipe,2020,Geração Total,"8,015"
+Bahia,2020,Geração Total,"37,867"
+Minas Gerais,2020,Geração Total,"62,250"
+Espírito Santo,2020,Geração Total,"10,141"
+Rio de Janeiro,2020,Geração Total,"47,940"
+São Paulo,2020,Geração Total,"68,607"
+Paraná,2020,Geração Total,"66,728"
+Santa Catarina,2020,Geração Total,"16,590"
+Rio G. do Sul,2020,Geração Total,"26,107"
+Mato G. do Sul,2020,Geração Total,"25,479"
+Mato Grosso,2020,Geração Total,"24,567"
+Goiás,2020,Geração Total,"29,685"
+Distrito Federal,2020,Geração Total,176
+BRASIL,2019,Geração Total,"626,328"
+Rondônia,2019,Geração Total,"39,064"
+Acre,2019,Geração Total,252
+Amazonas,2019,Geração Total,"10,455"
+Roraima,2019,Geração Total,"1,102"
+Pará,2019,Geração Total,"58,628"
+Amapá,2019,Geração Total,"3,192"
+Tocantins,2019,Geração Total,"8,373"
+Maranhão,2019,Geração Total,"13,209"
+Piauí,2019,Geração Total,"7,765"
+Ceará,2019,Geração Total,"14,396"
+Rio G. do Norte,2019,Geração Total,"16,273"
+Paraíba,2019,Geração Total,"1,570"
+Pernambuco,2019,Geração Total,"10,166"
+Alagoas,2019,Geração Total,"8,211"
+Sergipe,2019,Geração Total,"4,186"
+Bahia,2019,Geração Total,"32,342"
+Minas Gerais,2019,Geração Total,"53,108"
+Espírito Santo,2019,Geração Total,"8,457"
+Rio de Janeiro,2019,Geração Total,"51,725"
+São Paulo,2019,Geração Total,"68,718"
+Paraná,2019,Geração Total,"81,733"
+Santa Catarina,2019,Geração Total,"22,971"
+Rio G. do Sul,2019,Geração Total,"31,629"
+Mato G. do Sul,2019,Geração Total,"25,458"
+Mato Grosso,2019,Geração Total,"26,772"
+Goiás,2019,Geração Total,"26,456"
+Distrito Federal,2019,Geração Total,115
+BRASIL,2018,Geração Total,"601,396"
+Rondônia,2018,Geração Total,"36,625"
+Acre,2018,Geração Total,242
+Amazonas,2018,Geração Total,"8,813"
+Roraima,2018,Geração Total,302
+Pará,2018,Geração Total,"54,142"
+Amapá,2018,Geração Total,"3,161"
+Tocantins,2018,Geração Total,"9,308"
+Maranhão,2018,Geração Total,"13,209"
+Piauí,2018,Geração Total,"7,068"
+Ceará,2018,Geração Total,"12,957"
+Rio G. do Norte,2018,Geração Total,"16,052"
+Paraíba,2018,Geração Total,"1,838"
+Pernambuco,2018,Geração Total,"10,570"
+Alagoas,2018,Geração Total,"5,950"
+Sergipe,2018,Geração Total,"2,834"
+Bahia,2018,Geração Total,"25,911"
+Minas Gerais,2018,Geração Total,"44,239"
+Espírito Santo,2018,Geração Total,"9,472"
+Rio de Janeiro,2018,Geração Total,"51,496"
+São Paulo,2018,Geração Total,"66,495"
+Paraná,2018,Geração Total,"93,737"
+Santa Catarina,2018,Geração Total,"22,425"
+Rio G. do Sul,2018,Geração Total,"30,673"
+Mato G. do Sul,2018,Geração Total,"25,209"
+Mato Grosso,2018,Geração Total,"23,513"
+Goiás,2018,Geração Total,"25,058"
+Distrito Federal,2018,Geração Total,98
+BRASIL,2017,Geração Total,"587,962"
+Rondônia,2017,Geração Total,"34,238"
+Acre,2017,Geração Total,189
+Amazonas,2017,Geração Total,"7,070"
+Roraima,2017,Geração Total,120
+Pará,2017,Geração Total,"43,002"
+Amapá,2017,Geração Total,"2,660"
+Tocantins,2017,Geração Total,"7,484"
+Maranhão,2017,Geração Total,"14,400"
+Piauí,2017,Geração Total,"5,552"
+Ceará,2017,Geração Total,"15,547"
+Rio G. do Norte,2017,Geração Total,"15,922"
+Paraíba,2017,Geração Total,"1,895"
+Pernambuco,2017,Geração Total,"11,767"
+Alagoas,2017,Geração Total,"6,138"
+Sergipe,2017,Geração Total,"2,979"
+Bahia,2017,Geração Total,"21,827"
+Minas Gerais,2017,Geração Total,"44,922"
+Espírito Santo,2017,Geração Total,"7,990"
+Rio de Janeiro,2017,Geração Total,"57,965"
+São Paulo,2017,Geração Total,"72,576"
+Paraná,2017,Geração Total,"96,817"
+Santa Catarina,2017,Geração Total,"21,150"
+Rio G. do Sul,2017,Geração Total,"30,230"
+Mato G. do Sul,2017,Geração Total,"24,129"
+Mato Grosso,2017,Geração Total,"19,952"
+Goiás,2017,Geração Total,"21,375"
+Distrito Federal,2017,Geração Total,67
+BRASIL,2016,Geração Total,"578,898"
+Rondônia,2016,Geração Total,"23,163"
+Acre,2016,Geração Total,241
+Amazonas,2016,Geração Total,"6,699"
+Roraima,2016,Geração Total,156
+Pará,2016,Geração Total,"31,774"
+Amapá,2016,Geração Total,"1,891"
+Tocantins,2016,Geração Total,"8,282"
+Maranhão,2016,Geração Total,"14,741"
+Piauí,2016,Geração Total,"3,619"
+Ceará,2016,Geração Total,"14,343"
+Rio G. do Norte,2016,Geração Total,"13,766"
+Paraíba,2016,Geração Total,"1,496"
+Pernambuco,2016,Geração Total,"10,998"
+Alagoas,2016,Geração Total,"8,504"
+Sergipe,2016,Geração Total,"4,333"
+Bahia,2016,Geração Total,"21,279"
+Minas Gerais,2016,Geração Total,"47,070"
+Espírito Santo,2016,Geração Total,"9,179"
+Rio de Janeiro,2016,Geração Total,"50,728"
+São Paulo,2016,Geração Total,"73,460"
+Paraná,2016,Geração Total,"109,880"
+Santa Catarina,2016,Geração Total,"28,116"
+Rio G. do Sul,2016,Geração Total,"33,229"
+Mato G. do Sul,2016,Geração Total,"24,303"
+Mato Grosso,2016,Geração Total,"13,428"
+Goiás,2016,Geração Total,"24,135"
+Distrito Federal,2016,Geração Total,85
+BRASIL,2015,Geração Total,"581,486"
+Rondônia,2015,Geração Total,"26,463"
+Acre,2015,Geração Total,281
+Amazonas,2015,Geração Total,"9,143"
+Roraima,2015,Geração Total,194
+Pará,2015,Geração Total,"38,304"
+Amapá,2015,Geração Total,"2,380"
+Tocantins,2015,Geração Total,"10,347"
+Maranhão,2015,Geração Total,"13,781"
+Piauí,2015,Geração Total,"1,444"
+Ceará,2015,Geração Total,"16,519"
+Rio G. do Norte,2015,Geração Total,"10,546"
+Paraíba,2015,Geração Total,"3,356"
+Pernambuco,2015,Geração Total,"11,032"
+Alagoas,2015,Geração Total,"10,052"
+Sergipe,2015,Geração Total,"5,233"
+Bahia,2015,Geração Total,"22,289"
+Minas Gerais,2015,Geração Total,"37,695"
+Espírito Santo,2015,Geração Total,"9,757"
+Rio de Janeiro,2015,Geração Total,"58,195"
+São Paulo,2015,Geração Total,"62,654"
+Paraná,2015,Geração Total,"99,410"
+Santa Catarina,2015,Geração Total,"31,258"
+Rio G. do Sul,2015,Geração Total,"36,302"
+Mato G. do Sul,2015,Geração Total,"23,611"
+Mato Grosso,2015,Geração Total,"14,253"
+Goiás,2015,Geração Total,"26,869"
+Distrito Federal,2015,Geração Total,119
+BRASIL,2014,Geração Total,"590,542"
+Rondônia,2014,Geração Total,"15,148"
+Acre,2014,Geração Total,250
+Amazonas,2014,Geração Total,"8,946"
+Roraima,2014,Geração Total,245
+Pará,2014,Geração Total,"41,951"
+Amapá,2014,Geração Total,"1,933"
+Tocantins,2014,Geração Total,"12,228"
+Maranhão,2014,Geração Total,"15,972"
+Piauí,2014,Geração Total,990
+Ceará,2014,Geração Total,"15,957"
+Rio G. do Norte,2014,Geração Total,"7,012"
+Paraíba,2014,Geração Total,"3,435"
+Pernambuco,2014,Geração Total,"12,714"
+Alagoas,2014,Geração Total,"11,375"
+Sergipe,2014,Geração Total,"5,896"
+Bahia,2014,Geração Total,"23,103"
+Minas Gerais,2014,Geração Total,"46,134"
+Espírito Santo,2014,Geração Total,"10,352"
+Rio de Janeiro,2014,Geração Total,"59,298"
+São Paulo,2014,Geração Total,"65,507"
+Paraná,2014,Geração Total,"98,797"
+Santa Catarina,2014,Geração Total,"29,416"
+Rio G. do Sul,2014,Geração Total,"34,036"
+Mato G. do Sul,2014,Geração Total,"24,344"
+Mato Grosso,2014,Geração Total,"14,261"
+Goiás,2014,Geração Total,"31,116"
+Distrito Federal,2014,Geração Total,127
+BRASIL,2013,Geração Total,"570,835"
+Rondônia,2013,Geração Total,"6,407"
+Acre,2013,Geração Total,234
+Amazonas,2013,Geração Total,"9,970"
+Roraima,2013,Geração Total,169
+Pará,2013,Geração Total,"41,191"
+Amapá,2013,Geração Total,"1,816"
+Tocantins,2013,Geração Total,"11,881"
+Maranhão,2013,Geração Total,"11,181"
+Piauí,2013,Geração Total,731
+Ceará,2013,Geração Total,"10,396"
+Rio G. do Norte,2013,Geração Total,"3,756"
+Paraíba,2013,Geração Total,"1,854"
+Pernambuco,2013,Geração Total,"9,733"
+Alagoas,2013,Geração Total,"13,029"
+Sergipe,2013,Geração Total,"6,760"
+Bahia,2013,Geração Total,"22,416"
+Minas Gerais,2013,Geração Total,"54,013"
+Espírito Santo,2013,Geração Total,"8,464"
+Rio de Janeiro,2013,Geração Total,"55,921"
+São Paulo,2013,Geração Total,"75,517"
+Paraná,2013,Geração Total,"103,447"
+Santa Catarina,2013,Geração Total,"25,660"
+Rio G. do Sul,2013,Geração Total,"27,306"
+Mato G. do Sul,2013,Geração Total,"25,281"
+Mato Grosso,2013,Geração Total,"12,361"
+Goiás,2013,Geração Total,"31,212"
+Distrito Federal,2013,Geração Total,129
+BRASIL,2012,Geração Total,"552,498"
+Rondônia,2012,Geração Total,"4,166"
+Acre,2012,Geração Total,372
+Amazonas,2012,Geração Total,"9,556"
+Roraima,2012,Geração Total,128
+Pará,2012,Geração Total,"41,223"
+Amapá,2012,Geração Total,"1,704"
+Tocantins,2012,Geração Total,"12,758"
+Maranhão,2012,Geração Total,"3,621"
+Piauí,2012,Geração Total,723
+Ceará,2012,Geração Total,"4,425"
+Rio G. do Norte,2012,Geração Total,"2,920"
+Paraíba,2012,Geração Total,"1,010"
+Pernambuco,2012,Geração Total,"8,395"
+Alagoas,2012,Geração Total,"19,325"
+Sergipe,2012,Geração Total,"10,042"
+Bahia,2012,Geração Total,"25,816"
+Minas Gerais,2012,Geração Total,"71,655"
+Espírito Santo,2012,Geração Total,"6,995"
+Rio de Janeiro,2012,Geração Total,"47,610"
+São Paulo,2012,Geração Total,"78,539"
+Paraná,2012,Geração Total,"92,819"
+Santa Catarina,2012,Geração Total,"16,963"
+Rio G. do Sul,2012,Geração Total,"17,829"
+Mato G. do Sul,2012,Geração Total,"25,896"
+Mato Grosso,2012,Geração Total,"10,802"
+Goiás,2012,Geração Total,"37,075"
+Distrito Federal,2012,Geração Total,130
+BRASIL,2011,Geração Total,"531,758"
+Rondônia,2011,Geração Total,"3,216"
+Acre,2011,Geração Total,204
+Amazonas,2011,Geração Total,"9,037"
+Roraima,2011,Geração Total,133
+Pará,2011,Geração Total,"43,034"
+Amapá,2011,Geração Total,"1,566"
+Tocantins,2011,Geração Total,"10,650"
+Maranhão,2011,Geração Total,"1,960"
+Piauí,2011,Geração Total,742
+Ceará,2011,Geração Total,"2,584"
+Rio G. do Norte,2011,Geração Total,"1,586"
+Paraíba,2011,Geração Total,384
+Pernambuco,2011,Geração Total,"7,702"
+Alagoas,2011,Geração Total,"18,763"
+Sergipe,2011,Geração Total,"9,672"
+Bahia,2011,Geração Total,"23,565"
+Minas Gerais,2011,Geração Total,"63,771"
+Espírito Santo,2011,Geração Total,"6,590"
+Rio de Janeiro,2011,Geração Total,"38,580"
+São Paulo,2011,Geração Total,"72,148"
+Paraná,2011,Geração Total,"99,399"
+Santa Catarina,2011,Geração Total,"26,821"
+Rio G. do Sul,2011,Geração Total,"27,801"
+Mato G. do Sul,2011,Geração Total,"22,688"
+Mato Grosso,2011,Geração Total,"7,201"
+Goiás,2011,Geração Total,"31,840"
+Distrito Federal,2011,Geração Total,120
+BRASIL,2023,Hidrelétrica,"425,996"
+Rondônia,2023,Hidrelétrica,"27,327"
+Acre,2023,Hidrelétrica,0
+Amazonas,2023,Hidrelétrica,"1,411"
+Roraima,2023,Hidrelétrica,39
+Pará,2023,Hidrelétrica,"64,006"
+Amapá,2023,Hidrelétrica,"3,110"
+Tocantins,2023,Hidrelétrica,"9,274"
+Maranhão,2023,Hidrelétrica,"2,527"
+Piauí,2023,Hidrelétrica,570
+Ceará,2023,Hidrelétrica,0
+Rio G. do Norte,2023,Hidrelétrica,14
+Paraíba,2023,Hidrelétrica,0
+Pernambuco,2023,Hidrelétrica,"2,660"
+Alagoas,2023,Hidrelétrica,"11,825"
+Sergipe,2023,Hidrelétrica,"6,291"
+Bahia,2023,Hidrelétrica,"12,916"
+Minas Gerais,2023,Hidrelétrica,"47,193"
+Espírito Santo,2023,Hidrelétrica,"2,167"
+Rio de Janeiro,2023,Hidrelétrica,"6,249"
+São Paulo,2023,Hidrelétrica,"44,304"
+Paraná,2023,Hidrelétrica,"88,279"
+Santa Catarina,2023,Hidrelétrica,"22,534"
+Rio G. do Sul,2023,Hidrelétrica,"20,061"
+Mato G. do Sul,2023,Hidrelétrica,"15,982"
+Mato Grosso,2023,Hidrelétrica,"18,263"
+Goiás,2023,Hidrelétrica,"18,929"
+Distrito Federal,2023,Hidrelétrica,65
+BRASIL,2022,Hidrelétrica,"427,114"
+Rondônia,2022,Hidrelétrica,"33,894"
+Acre,2022,Hidrelétrica,0
+Amazonas,2022,Hidrelétrica,"1,468"
+Roraima,2022,Hidrelétrica,36
+Pará,2022,Hidrelétrica,"75,188"
+Amapá,2022,Hidrelétrica,"3,789"
+Tocantins,2022,Hidrelétrica,"10,303"
+Maranhão,2022,Hidrelétrica,"2,724"
+Piauí,2022,Hidrelétrica,614
+Ceará,2022,Hidrelétrica,4
+Rio G. do Norte,2022,Hidrelétrica,13
+Paraíba,2022,Hidrelétrica,4
+Pernambuco,2022,Hidrelétrica,"3,212"
+Alagoas,2022,Hidrelétrica,"14,209"
+Sergipe,2022,Hidrelétrica,"7,637"
+Bahia,2022,Hidrelétrica,"15,676"
+Minas Gerais,2022,Hidrelétrica,"44,654"
+Espírito Santo,2022,Hidrelétrica,"2,560"
+Rio de Janeiro,2022,Hidrelétrica,"6,218"
+São Paulo,2022,Hidrelétrica,"32,286"
+Paraná,2022,Hidrelétrica,"78,119"
+Santa Catarina,2022,Hidrelétrica,"20,538"
+Rio G. do Sul,2022,Hidrelétrica,"18,553"
+Mato G. do Sul,2022,Hidrelétrica,"13,944"
+Mato Grosso,2022,Hidrelétrica,"21,047"
+Goiás,2022,Hidrelétrica,"20,348"
+Distrito Federal,2022,Hidrelétrica,72
+BRASIL,2021,Hidrelétrica,"362,818"
+Rondônia,2021,Hidrelétrica,"36,723"
+Acre,2021,Hidrelétrica,0
+Amazonas,2021,Hidrelétrica,"1,522"
+Roraima,2021,Hidrelétrica,6
+Pará,2021,Hidrelétrica,"69,621"
+Amapá,2021,Hidrelétrica,"4,115"
+Tocantins,2021,Hidrelétrica,"10,059"
+Maranhão,2021,Hidrelétrica,"2,848"
+Piauí,2021,Hidrelétrica,565
+Ceará,2021,Hidrelétrica,4
+Rio G. do Norte,2021,Hidrelétrica,14
+Paraíba,2021,Hidrelétrica,3
+Pernambuco,2021,Hidrelétrica,"2,082"
+Alagoas,2021,Hidrelétrica,"9,305"
+Sergipe,2021,Hidrelétrica,"4,949"
+Bahia,2021,Hidrelétrica,"10,186"
+Minas Gerais,2021,Hidrelétrica,"33,947"
+Espírito Santo,2021,Hidrelétrica,"2,157"
+Rio de Janeiro,2021,Hidrelétrica,"5,927"
+São Paulo,2021,Hidrelétrica,"28,311"
+Paraná,2021,Hidrelétrica,"61,548"
+Santa Catarina,2021,Hidrelétrica,"13,784"
+Rio G. do Sul,2021,Hidrelétrica,"13,990"
+Mato G. do Sul,2021,Hidrelétrica,"13,360"
+Mato Grosso,2021,Hidrelétrica,"20,110"
+Goiás,2021,Hidrelétrica,"17,601"
+Distrito Federal,2021,Hidrelétrica,81
+BRASIL,2020,Hidrelétrica,"396,381"
+Rondônia,2020,Hidrelétrica,"34,837"
+Acre,2020,Hidrelétrica,0
+Amazonas,2020,Hidrelétrica,"1,263"
+Roraima,2020,Hidrelétrica,6
+Pará,2020,Hidrelétrica,"59,334"
+Amapá,2020,Hidrelétrica,"2,577"
+Tocantins,2020,Hidrelétrica,"10,044"
+Maranhão,2020,Hidrelétrica,"2,639"
+Piauí,2020,Hidrelétrica,528
+Ceará,2020,Hidrelétrica,4
+Rio G. do Norte,2020,Hidrelétrica,0
+Paraíba,2020,Hidrelétrica,3
+Pernambuco,2020,Hidrelétrica,"2,877"
+Alagoas,2020,Hidrelétrica,"12,982"
+Sergipe,2020,Hidrelétrica,"6,874"
+Bahia,2020,Hidrelétrica,"14,142"
+Minas Gerais,2020,Hidrelétrica,"51,385"
+Espírito Santo,2020,Hidrelétrica,"2,326"
+Rio de Janeiro,2020,Hidrelétrica,"6,215"
+São Paulo,2020,Hidrelétrica,"40,042"
+Paraná,2020,Hidrelétrica,"59,772"
+Santa Catarina,2020,Hidrelétrica,"10,594"
+Rio G. do Sul,2020,Hidrelétrica,"13,528"
+Mato G. do Sul,2020,Hidrelétrica,"17,548"
+Mato Grosso,2020,Hidrelétrica,"22,089"
+Goiás,2020,Hidrelétrica,"24,668"
+Distrito Federal,2020,Hidrelétrica,105
+BRASIL,2019,Hidrelétrica,"397,877"
+Rondônia,2019,Hidrelétrica,"36,159"
+Acre,2019,Hidrelétrica,0
+Amazonas,2019,Hidrelétrica,"1,293"
+Roraima,2019,Hidrelétrica,0
+Pará,2019,Hidrelétrica,"57,229"
+Amapá,2019,Hidrelétrica,"3,129"
+Tocantins,2019,Hidrelétrica,"8,078"
+Maranhão,2019,Hidrelétrica,"2,385"
+Piauí,2019,Hidrelétrica,520
+Ceará,2019,Hidrelétrica,4
+Rio G. do Norte,2019,Hidrelétrica,0
+Paraíba,2019,Hidrelétrica,4
+Pernambuco,2019,Hidrelétrica,"1,664"
+Alagoas,2019,Hidrelétrica,"7,387"
+Sergipe,2019,Hidrelétrica,"3,937"
+Bahia,2019,Hidrelétrica,"7,714"
+Minas Gerais,2019,Hidrelétrica,"42,242"
+Espírito Santo,2019,Hidrelétrica,"1,311"
+Rio de Janeiro,2019,Hidrelétrica,"5,666"
+São Paulo,2019,Hidrelétrica,"41,180"
+Paraná,2019,Hidrelétrica,"76,470"
+Santa Catarina,2019,Hidrelétrica,"17,331"
+Rio G. do Sul,2019,Hidrelétrica,"20,664"
+Mato G. do Sul,2019,Hidrelétrica,"17,246"
+Mato Grosso,2019,Hidrelétrica,"24,300"
+Goiás,2019,Hidrelétrica,"21,877"
+Distrito Federal,2019,Hidrelétrica,88
+BRASIL,2018,Hidrelétrica,"388,971"
+Rondônia,2018,Hidrelétrica,"36,263"
+Acre,2018,Hidrelétrica,0
+Amazonas,2018,Hidrelétrica,889
+Roraima,2018,Hidrelétrica,0
+Pará,2018,Hidrelétrica,"52,500"
+Amapá,2018,Hidrelétrica,"3,103"
+Tocantins,2018,Hidrelétrica,"9,041"
+Maranhão,2018,Hidrelétrica,"2,430"
+Piauí,2018,Hidrelétrica,606
+Ceará,2018,Hidrelétrica,1
+Rio G. do Norte,2018,Hidrelétrica,0
+Paraíba,2018,Hidrelétrica,-1
+Pernambuco,2018,Hidrelétrica,"1,239"
+Alagoas,2018,Hidrelétrica,"5,145"
+Sergipe,2018,Hidrelétrica,"2,588"
+Bahia,2018,Hidrelétrica,"6,093"
+Minas Gerais,2018,Hidrelétrica,"34,947"
+Espírito Santo,2018,Hidrelétrica,"1,932"
+Rio de Janeiro,2018,Hidrelétrica,"5,732"
+São Paulo,2018,Hidrelétrica,"39,918"
+Paraná,2018,Hidrelétrica,"88,746"
+Santa Catarina,2018,Hidrelétrica,"16,887"
+Rio G. do Sul,2018,Hidrelétrica,"20,285"
+Mato G. do Sul,2018,Hidrelétrica,"17,208"
+Mato Grosso,2018,Hidrelétrica,"22,680"
+Goiás,2018,Hidrelétrica,"20,653"
+Distrito Federal,2018,Hidrelétrica,86
+BRASIL,2017,Hidrelétrica,"370,906"
+Rondônia,2017,Hidrelétrica,"33,953"
+Acre,2017,Hidrelétrica,0
+Amazonas,2017,Hidrelétrica,"1,081"
+Roraima,2017,Hidrelétrica,0
+Pará,2017,Hidrelétrica,"41,498"
+Amapá,2017,Hidrelétrica,"2,616"
+Tocantins,2017,Hidrelétrica,"7,215"
+Maranhão,2017,Hidrelétrica,"2,184"
+Piauí,2017,Hidrelétrica,500
+Ceará,2017,Hidrelétrica,5
+Rio G. do Norte,2017,Hidrelétrica,0
+Paraíba,2017,Hidrelétrica,4
+Pernambuco,2017,Hidrelétrica,"1,277"
+Alagoas,2017,Hidrelétrica,"5,377"
+Sergipe,2017,Hidrelétrica,"2,724"
+Bahia,2017,Hidrelétrica,"5,857"
+Minas Gerais,2017,Hidrelétrica,"35,747"
+Espírito Santo,2017,Hidrelétrica,"1,043"
+Rio de Janeiro,2017,Hidrelétrica,"5,310"
+São Paulo,2017,Hidrelétrica,"44,903"
+Paraná,2017,Hidrelétrica,"91,935"
+Santa Catarina,2017,Hidrelétrica,"15,660"
+Rio G. do Sul,2017,Hidrelétrica,"19,935"
+Mato G. do Sul,2017,Hidrelétrica,"16,874"
+Mato Grosso,2017,Hidrelétrica,"18,110"
+Goiás,2017,Hidrelétrica,"17,040"
+Distrito Federal,2017,Hidrelétrica,60
+BRASIL,2016,Hidrelétrica,"380,911"
+Rondônia,2016,Hidrelétrica,"22,541"
+Acre,2016,Hidrelétrica,0
+Amazonas,2016,Hidrelétrica,576
+Roraima,2016,Hidrelétrica,13
+Pará,2016,Hidrelétrica,"30,111"
+Amapá,2016,Hidrelétrica,"1,831"
+Tocantins,2016,Hidrelétrica,"8,026"
+Maranhão,2016,Hidrelétrica,"2,166"
+Piauí,2016,Hidrelétrica,457
+Ceará,2016,Hidrelétrica,4
+Rio G. do Norte,2016,Hidrelétrica,0
+Paraíba,2016,Hidrelétrica,3
+Pernambuco,2016,Hidrelétrica,"1,648"
+Alagoas,2016,Hidrelétrica,"7,680"
+Sergipe,2016,Hidrelétrica,"4,097"
+Bahia,2016,Hidrelétrica,"7,702"
+Minas Gerais,2016,Hidrelétrica,"38,755"
+Espírito Santo,2016,Hidrelétrica,886
+Rio de Janeiro,2016,Hidrelétrica,"4,995"
+São Paulo,2016,Hidrelétrica,"47,422"
+Paraná,2016,Hidrelétrica,"105,678"
+Santa Catarina,2016,Hidrelétrica,"22,765"
+Rio G. do Sul,2016,Hidrelétrica,"23,576"
+Mato G. do Sul,2016,Hidrelétrica,"17,557"
+Mato Grosso,2016,Hidrelétrica,"12,370"
+Goiás,2016,Hidrelétrica,"19,970"
+Distrito Federal,2016,Hidrelétrica,81
+BRASIL,2015,Hidrelétrica,"359,743"
+Rondônia,2015,Hidrelétrica,"24,537"
+Acre,2015,Hidrelétrica,0
+Amazonas,2015,Hidrelétrica,"1,193"
+Roraima,2015,Hidrelétrica,19
+Pará,2015,Hidrelétrica,"36,600"
+Amapá,2015,Hidrelétrica,"1,984"
+Tocantins,2015,Hidrelétrica,"10,084"
+Maranhão,2015,Hidrelétrica,"2,700"
+Piauí,2015,Hidrelétrica,502
+Ceará,2015,Hidrelétrica,18
+Rio G. do Norte,2015,Hidrelétrica,0
+Paraíba,2015,Hidrelétrica,3
+Pernambuco,2015,Hidrelétrica,"1,939"
+Alagoas,2015,Hidrelétrica,"9,290"
+Sergipe,2015,Hidrelétrica,"4,930"
+Bahia,2015,Hidrelétrica,"9,067"
+Minas Gerais,2015,Hidrelétrica,"27,884"
+Espírito Santo,2015,Hidrelétrica,867
+Rio de Janeiro,2015,Hidrelétrica,"3,979"
+São Paulo,2015,Hidrelétrica,"32,961"
+Paraná,2015,Hidrelétrica,"93,835"
+Santa Catarina,2015,Hidrelétrica,"25,045"
+Rio G. do Sul,2015,Hidrelétrica,"26,363"
+Mato G. do Sul,2015,Hidrelétrica,"14,040"
+Mato Grosso,2015,Hidrelétrica,"9,861"
+Goiás,2015,Hidrelétrica,"21,942"
+Distrito Federal,2015,Hidrelétrica,102
+BRASIL,2015,Hidrelétrica,"373,439"
+BRASIL,2014,Hidrelétrica,"373,439"
+Rondônia,2014,Hidrelétrica,"13,060"
+Acre,2014,Hidrelétrica,0
+Amazonas,2014,Hidrelétrica,"1,466"
+Roraima,2014,Hidrelétrica,18
+Pará,2014,Hidrelétrica,"40,431"
+Amapá,2014,Hidrelétrica,736
+Tocantins,2014,Hidrelétrica,"11,958"
+Maranhão,2014,Hidrelétrica,"3,252"
+Piauí,2014,Hidrelétrica,583
+Ceará,2014,Hidrelétrica,8
+Rio G. do Norte,2014,Hidrelétrica,0
+Paraíba,2014,Hidrelétrica,4
+Pernambuco,2014,Hidrelétrica,"2,161"
+Alagoas,2014,Hidrelétrica,"10,456"
+Sergipe,2014,Hidrelétrica,"5,586"
+Bahia,2014,Hidrelétrica,"10,906"
+Minas Gerais,2014,Hidrelétrica,"36,504"
+Espírito Santo,2014,Hidrelétrica,"1,658"
+Rio de Janeiro,2014,Hidrelétrica,"5,018"
+São Paulo,2014,Hidrelétrica,"36,064"
+Paraná,2014,Hidrelétrica,"92,127"
+Santa Catarina,2014,Hidrelétrica,"23,001"
+Rio G. do Sul,2014,Hidrelétrica,"26,222"
+Mato G. do Sul,2014,Hidrelétrica,"15,991"
+Mato Grosso,2014,Hidrelétrica,"10,318"
+Goiás,2014,Hidrelétrica,"25,788"
+Distrito Federal,2014,Hidrelétrica,124
+BRASIL,2014,Hidrelétrica,"390,992"
+BRASIL,2013,Hidrelétrica,"390,992"
+Rondônia,2013,Hidrelétrica,"5,166"
+Acre,2013,Hidrelétrica,0
+Amazonas,2013,Hidrelétrica,"1,448"
+Roraima,2013,Hidrelétrica,19
+Pará,2013,Hidrelétrica,"39,533"
+Amapá,2013,Hidrelétrica,595
+Tocantins,2013,Hidrelétrica,"11,613"
+Maranhão,2013,Hidrelétrica,"3,078"
+Piauí,2013,Hidrelétrica,529
+Ceará,2013,Hidrelétrica,5
+Rio G. do Norte,2013,Hidrelétrica,0
+Paraíba,2013,Hidrelétrica,8
+Pernambuco,2013,Hidrelétrica,"2,542"
+Alagoas,2013,Hidrelétrica,"12,217"
+Sergipe,2013,Hidrelétrica,"6,471"
+Bahia,2013,Hidrelétrica,"12,031"
+Minas Gerais,2013,Hidrelétrica,"46,062"
+Espírito Santo,2013,Hidrelétrica,"2,099"
+Rio de Janeiro,2013,Hidrelétrica,"6,869"
+São Paulo,2013,Hidrelétrica,"47,677"
+Paraná,2013,Hidrelétrica,"98,146"
+Santa Catarina,2013,Hidrelétrica,"18,571"
+Rio G. do Sul,2013,Hidrelétrica,"20,448"
+Mato G. do Sul,2013,Hidrelétrica,"19,056"
+Mato Grosso,2013,Hidrelétrica,"9,606"
+Goiás,2013,Hidrelétrica,"27,076"
+Distrito Federal,2013,Hidrelétrica,126
+BRASIL,2013,Hidrelétrica,"415,342"
+BRASIL,2012,Hidrelétrica,"415,342"
+Rondônia,2012,Hidrelétrica,"2,474"
+Acre,2012,Hidrelétrica,0
+Amazonas,2012,Hidrelétrica,"1,260"
+Roraima,2012,Hidrelétrica,20
+Pará,2012,Hidrelétrica,"39,601"
+Amapá,2012,Hidrelétrica,396
+Tocantins,2012,Hidrelétrica,"12,740"
+Maranhão,2012,Hidrelétrica,"2,669"
+Piauí,2012,Hidrelétrica,572
+Ceará,2012,Hidrelétrica,2
+Rio G. do Norte,2012,Hidrelétrica,0
+Paraíba,2012,Hidrelétrica,10
+Pernambuco,2012,Hidrelétrica,"4,045"
+Alagoas,2012,Hidrelétrica,"18,594"
+Sergipe,2012,Hidrelétrica,"9,831"
+Bahia,2012,Hidrelétrica,"18,532"
+Minas Gerais,2012,Hidrelétrica,"64,716"
+Espírito Santo,2012,Hidrelétrica,"2,058"
+Rio de Janeiro,2012,Hidrelétrica,"6,835"
+São Paulo,2012,Hidrelétrica,"55,722"
+Paraná,2012,Hidrelétrica,"87,912"
+Santa Catarina,2012,Hidrelétrica,"11,123"
+Rio G. do Sul,2012,Hidrelétrica,"11,934"
+Mato G. do Sul,2012,Hidrelétrica,"21,207"
+Mato Grosso,2012,Hidrelétrica,"8,747"
+Goiás,2012,Hidrelétrica,"34,212"
+Distrito Federal,2012,Hidrelétrica,128
+BRASIL,2012,Hidrelétrica,"428,333"
+BRASIL,2011,Hidrelétrica,"428,333"
+Rondônia,2011,Hidrelétrica,895
+Acre,2011,Hidrelétrica,0
+Amazonas,2011,Hidrelétrica,"1,488"
+Roraima,2011,Hidrelétrica,19
+Pará,2011,Hidrelétrica,"41,444"
+Amapá,2011,Hidrelétrica,558
+Tocantins,2011,Hidrelétrica,"10,642"
+Maranhão,2011,Hidrelétrica,"1,505"
+Piauí,2011,Hidrelétrica,663
+Ceará,2011,Hidrelétrica,2
+Rio G. do Norte,2011,Hidrelétrica,0
+Paraíba,2011,Hidrelétrica,14
+Pernambuco,2011,Hidrelétrica,"3,904"
+Alagoas,2011,Hidrelétrica,"17,934"
+Sergipe,2011,Hidrelétrica,"9,510"
+Bahia,2011,Hidrelétrica,"18,343"
+Minas Gerais,2011,Hidrelétrica,"58,452"
+Espírito Santo,2011,Hidrelétrica,"2,184"
+Rio de Janeiro,2011,Hidrelétrica,"6,892"
+São Paulo,2011,Hidrelétrica,"54,154"
+Paraná,2011,Hidrelétrica,"96,674"
+Santa Catarina,2011,Hidrelétrica,"22,504"
+Rio G. do Sul,2011,Hidrelétrica,"23,773"
+Mato G. do Sul,2011,Hidrelétrica,"20,355"
+Mato Grosso,2011,Hidrelétrica,"6,864"
+Goiás,2011,Hidrelétrica,"29,443"
+Distrito Federal,2011,Hidrelétrica,119
+BRASIL,2023,Eólica,"95,801"
+Rondônia,2023,Eólica,0
+Acre,2023,Eólica,0
+Amazonas,2023,Eólica,0
+Roraima,2023,Eólica,0
+Pará,2023,Eólica,0
+Amapá,2023,Eólica,0
+Tocantins,2023,Eólica,0
+Maranhão,2023,Eólica,"1,824"
+Piauí,2023,Eólica,"13,474"
+Ceará,2023,Eólica,"7,776"
+Rio G. do Norte,2023,Eólica,"28,644"
+Paraíba,2023,Eólica,"3,204"
+Pernambuco,2023,Eólica,"4,017"
+Alagoas,2023,Eólica,0
+Sergipe,2023,Eólica,68
+Bahia,2023,Eólica,"30,875"
+Minas Gerais,2023,Eólica,0
+Espírito Santo,2023,Eólica,0
+Rio de Janeiro,2023,Eólica,61
+São Paulo,2023,Eólica,0
+Paraná,2023,Eólica,18
+Santa Catarina,2023,Eólica,552
+Rio G. do Sul,2023,Eólica,"5,288"
+Mato G. do Sul,2023,Eólica,0
+Mato Grosso,2023,Eólica,0
+Goiás,2023,Eólica,0
+Distrito Federal,2023,Eólica,0
+BRASIL,2023,Eólica,"81,632"
+BRASIL,2022,Eólica,"81,632"
+Rondônia,2022,Eólica,0
+Acre,2022,Eólica,0
+Amazonas,2022,Eólica,0
+Roraima,2022,Eólica,0
+Pará,2022,Eólica,0
+Amapá,2022,Eólica,0
+Tocantins,2022,Eólica,0
+Maranhão,2022,Eólica,"1,561"
+Piauí,2022,Eólica,"11,088"
+Ceará,2022,Eólica,"7,614"
+Rio G. do Norte,2022,Eólica,"23,955"
+Paraíba,2022,Eólica,"2,231"
+Pernambuco,2022,Eólica,"3,558"
+Alagoas,2022,Eólica,0
+Sergipe,2022,Eólica,72
+Bahia,2022,Eólica,"25,317"
+Minas Gerais,2022,Eólica,0
+Espírito Santo,2022,Eólica,0
+Rio de Janeiro,2022,Eólica,65
+São Paulo,2022,Eólica,0
+Paraná,2022,Eólica,19
+Santa Catarina,2022,Eólica,569
+Rio G. do Sul,2022,Eólica,"5,581"
+Mato G. do Sul,2022,Eólica,0
+Mato Grosso,2022,Eólica,0
+Goiás,2022,Eólica,0
+Distrito Federal,2022,Eólica,0
+BRASIL,2022,Eólica,"72,286"
+BRASIL,2021,Eólica,"72,286"
+Rondônia,2021,Eólica,0
+Acre,2021,Eólica,0
+Amazonas,2021,Eólica,0
+Roraima,2021,Eólica,0
+Pará,2021,Eólica,0
+Amapá,2021,Eólica,0
+Tocantins,2021,Eólica,0
+Maranhão,2021,Eólica,"1,782"
+Piauí,2021,Eólica,"8,904"
+Ceará,2021,Eólica,"8,287"
+Rio G. do Norte,2021,Eólica,"22,099"
+Paraíba,2021,Eólica,892
+Pernambuco,2021,Eólica,"2,951"
+Alagoas,2021,Eólica,0
+Sergipe,2021,Eólica,61
+Bahia,2021,Eólica,"20,850"
+Minas Gerais,2021,Eólica,0
+Espírito Santo,2021,Eólica,0
+Rio de Janeiro,2021,Eólica,55
+São Paulo,2021,Eólica,0
+Paraná,2021,Eólica,20
+Santa Catarina,2021,Eólica,535
+Rio G. do Sul,2021,Eólica,"5,850"
+Mato G. do Sul,2021,Eólica,0
+Mato Grosso,2021,Eólica,0
+Goiás,2021,Eólica,0
+Distrito Federal,2021,Eólica,0
+BRASIL,2021,Eólica,"57,051"
+BRASIL,2020,Eólica,"57,051"
+Rondônia,2020,Eólica,0
+Acre,2020,Eólica,0
+Amazonas,2020,Eólica,0
+Roraima,2020,Eólica,0
+Pará,2020,Eólica,0
+Amapá,2020,Eólica,0
+Tocantins,2020,Eólica,0
+Maranhão,2020,Eólica,"1,546"
+Piauí,2020,Eólica,"6,354"
+Ceará,2020,Eólica,"6,247"
+Rio G. do Norte,2020,Eólica,"16,099"
+Paraíba,2020,Eólica,524
+Pernambuco,2020,Eólica,"2,823"
+Alagoas,2020,Eólica,0
+Sergipe,2020,Eólica,56
+Bahia,2020,Eólica,"16,765"
+Minas Gerais,2020,Eólica,0
+Espírito Santo,2020,Eólica,0
+Rio de Janeiro,2020,Eólica,54
+São Paulo,2020,Eólica,0
+Paraná,2020,Eólica,21
+Santa Catarina,2020,Eólica,533
+Rio G. do Sul,2020,Eólica,"6,026"
+Mato G. do Sul,2020,Eólica,0
+Mato Grosso,2020,Eólica,0
+Goiás,2020,Eólica,0
+Distrito Federal,2020,Eólica,0
+BRASIL,2020,Eólica,"55,986"
+BRASIL,2019,Eólica,"55,986"
+Rondônia,2019,Eólica,0
+Acre,2019,Eólica,0
+Amazonas,2019,Eólica,0
+Roraima,2019,Eólica,0
+Pará,2019,Eólica,0
+Amapá,2019,Eólica,0
+Tocantins,2019,Eólica,0
+Maranhão,2019,Eólica,"1,615"
+Piauí,2019,Eólica,"6,490"
+Ceará,2019,Eólica,"6,279"
+Rio G. do Norte,2019,Eólica,"14,431"
+Paraíba,2019,Eólica,554
+Pernambuco,2019,Eólica,"3,224"
+Alagoas,2019,Eólica,0
+Sergipe,2019,Eólica,68
+Bahia,2019,Eólica,"17,412"
+Minas Gerais,2019,Eólica,0
+Espírito Santo,2019,Eólica,0
+Rio de Janeiro,2019,Eólica,61
+São Paulo,2019,Eólica,0
+Paraná,2019,Eólica,20
+Santa Catarina,2019,Eólica,368
+Rio G. do Sul,2019,Eólica,"5,465"
+Mato G. do Sul,2019,Eólica,0
+Mato Grosso,2019,Eólica,0
+Goiás,2019,Eólica,0
+Distrito Federal,2019,Eólica,0
+BRASIL,2019,Eólica,"48,475"
+BRASIL,2018,Eólica,"48,475"
+Rondônia,2018,Eólica,0
+Acre,2018,Eólica,0
+Amazonas,2018,Eólica,0
+Roraima,2018,Eólica,0
+Pará,2018,Eólica,0
+Amapá,2018,Eólica,0
+Tocantins,2018,Eólica,0
+Maranhão,2018,Eólica,"1,017"
+Piauí,2018,Eólica,"5,724"
+Ceará,2018,Eólica,"5,828"
+Rio G. do Norte,2018,Eólica,"14,143"
+Paraíba,2018,Eólica,569
+Pernambuco,2018,Eólica,"3,265"
+Alagoas,2018,Eólica,0
+Sergipe,2018,Eólica,80
+Bahia,2018,Eólica,"11,822"
+Minas Gerais,2018,Eólica,0
+Espírito Santo,2018,Eólica,0
+Rio de Janeiro,2018,Eólica,52
+São Paulo,2018,Eólica,0
+Paraná,2018,Eólica,19
+Santa Catarina,2018,Eólica,191
+Rio G. do Sul,2018,Eólica,"5,765"
+Mato G. do Sul,2018,Eólica,0
+Mato Grosso,2018,Eólica,0
+Goiás,2018,Eólica,0
+Distrito Federal,2018,Eólica,0
+BRASIL,2018,Eólica,"42,373"
+BRASIL,2017,Eólica,"42,373"
+Rondônia,2017,Eólica,0
+Acre,2017,Eólica,0
+Amazonas,2017,Eólica,0
+Roraima,2017,Eólica,0
+Pará,2017,Eólica,0
+Amapá,2017,Eólica,0
+Tocantins,2017,Eólica,0
+Maranhão,2017,Eólica,631
+Piauí,2017,Eólica,"4,835"
+Ceará,2017,Eólica,"5,359"
+Rio G. do Norte,2017,Eólica,"13,656"
+Paraíba,2017,Eólica,264
+Pernambuco,2017,Eólica,"3,030"
+Alagoas,2017,Eólica,0
+Sergipe,2017,Eólica,73
+Bahia,2017,Eólica,"8,338"
+Minas Gerais,2017,Eólica,0
+Espírito Santo,2017,Eólica,0
+Rio de Janeiro,2017,Eólica,78
+São Paulo,2017,Eólica,0
+Paraná,2017,Eólica,23
+Santa Catarina,2017,Eólica,255
+Rio G. do Sul,2017,Eólica,"5,830"
+Mato G. do Sul,2017,Eólica,0
+Mato Grosso,2017,Eólica,0
+Goiás,2017,Eólica,0
+Distrito Federal,2017,Eólica,0
+BRASIL,2017,Eólica,"33,489"
+BRASIL,2016,Eólica,"33,489"
+Rondônia,2016,Eólica,0
+Acre,2016,Eólica,0
+Amazonas,2016,Eólica,0
+Roraima,2016,Eólica,0
+Pará,2016,Eólica,0
+Amapá,2016,Eólica,0
+Tocantins,2016,Eólica,0
+Maranhão,2016,Eólica,0
+Piauí,2016,Eólica,"3,133"
+Ceará,2016,Eólica,"5,024"
+Rio G. do Norte,2016,Eólica,"11,529"
+Paraíba,2016,Eólica,163
+Pernambuco,2016,Eólica,"2,142"
+Alagoas,2016,Eólica,0
+Sergipe,2016,Eólica,63
+Bahia,2016,Eólica,"6,295"
+Minas Gerais,2016,Eólica,0
+Espírito Santo,2016,Eólica,0
+Rio de Janeiro,2016,Eólica,68
+São Paulo,2016,Eólica,0
+Paraná,2016,Eólica,20
+Santa Catarina,2016,Eólica,278
+Rio G. do Sul,2016,Eólica,"4,773"
+Mato G. do Sul,2016,Eólica,0
+Mato Grosso,2016,Eólica,0
+Goiás,2016,Eólica,0
+Distrito Federal,2016,Eólica,0
+BRASIL,2016,Eólica,"21,626"
+BRASIL,2015,Eólica,"21,626"
+Rondônia,2015,Eólica,0
+Acre,2015,Eólica,0
+Amazonas,2015,Eólica,0
+Roraima,2015,Eólica,0
+Pará,2015,Eólica,0
+Amapá,2015,Eólica,0
+Tocantins,2015,Eólica,0
+Maranhão,2015,Eólica,0
+Piauí,2015,Eólica,898
+Ceará,2015,Eólica,"4,472"
+Rio G. do Norte,2015,Eólica,"7,469"
+Paraíba,2015,Eólica,158
+Pernambuco,2015,Eólica,648
+Alagoas,2015,Eólica,0
+Sergipe,2015,Eólica,65
+Bahia,2015,Eólica,"3,999"
+Minas Gerais,2015,Eólica,0
+Espírito Santo,2015,Eólica,0
+Rio de Janeiro,2015,Eólica,76
+São Paulo,2015,Eólica,0
+Paraná,2015,Eólica,21
+Santa Catarina,2015,Eólica,320
+Rio G. do Sul,2015,Eólica,"3,499"
+Mato G. do Sul,2015,Eólica,0
+Mato Grosso,2015,Eólica,0
+Goiás,2015,Eólica,0
+Distrito Federal,2015,Eólica,0
+BRASIL,2015,Eólica,"12,210"
+BRASIL,2014,Eólica,"12,210"
+Rondônia,2014,Eólica,0
+Acre,2014,Eólica,0
+Amazonas,2014,Eólica,0
+Roraima,2014,Eólica,0
+Pará,2014,Eólica,0
+Amapá,2014,Eólica,0
+Tocantins,2014,Eólica,0
+Maranhão,2014,Eólica,0
+Piauí,2014,Eólica,279
+Ceará,2014,Eólica,"3,788"
+Rio G. do Norte,2014,Eólica,"3,742"
+Paraíba,2014,Eólica,146
+Pernambuco,2014,Eólica,65
+Alagoas,2014,Eólica,0
+Sergipe,2014,Eólica,65
+Bahia,2014,Eólica,"1,881"
+Minas Gerais,2014,Eólica,0
+Espírito Santo,2014,Eólica,0
+Rio de Janeiro,2014,Eólica,78
+São Paulo,2014,Eólica,0
+Paraná,2014,Eólica,24
+Santa Catarina,2014,Eólica,434
+Rio G. do Sul,2014,Eólica,"1,707"
+Mato G. do Sul,2014,Eólica,0
+Mato Grosso,2014,Eólica,0
+Goiás,2014,Eólica,0
+Distrito Federal,2014,Eólica,0
+BRASIL,2014,Eólica,"6,578"
+BRASIL,2013,Eólica,"6,578"
+Rondônia,2013,Eólica,0
+Acre,2013,Eólica,0
+Amazonas,2013,Eólica,0
+Roraima,2013,Eólica,0
+Pará,2013,Eólica,0
+Amapá,2013,Eólica,0
+Tocantins,2013,Eólica,0
+Maranhão,2013,Eólica,0
+Piauí,2013,Eólica,63
+Ceará,2013,Eólica,"2,349"
+Rio G. do Norte,2013,Eólica,"1,262"
+Paraíba,2013,Eólica,146
+Pernambuco,2013,Eólica,66
+Alagoas,2013,Eólica,0
+Sergipe,2013,Eólica,73
+Bahia,2013,Eólica,775
+Minas Gerais,2013,Eólica,0
+Espírito Santo,2013,Eólica,0
+Rio de Janeiro,2013,Eólica,64
+São Paulo,2013,Eólica,0
+Paraná,2013,Eólica,23
+Santa Catarina,2013,Eólica,491
+Rio G. do Sul,2013,Eólica,"1,265"
+Mato G. do Sul,2013,Eólica,0
+Mato Grosso,2013,Eólica,0
+Goiás,2013,Eólica,0
+Distrito Federal,2013,Eólica,0
+BRASIL,2013,Eólica,"5,050"
+BRASIL,2012,Eólica,"5,050"
+Rondônia,2012,Eólica,0
+Acre,2012,Eólica,0
+Amazonas,2012,Eólica,0
+Roraima,2012,Eólica,0
+Pará,2012,Eólica,0
+Amapá,2012,Eólica,0
+Tocantins,2012,Eólica,0
+Maranhão,2012,Eólica,0
+Piauí,2012,Eólica,71
+Ceará,2012,Eólica,"1,975"
+Rio G. do Norte,2012,Eólica,980
+Paraíba,2012,Eólica,167
+Pernambuco,2012,Eólica,68
+Alagoas,2012,Eólica,0
+Sergipe,2012,Eólica,24
+Bahia,2012,Eólica,163
+Minas Gerais,2012,Eólica,0
+Espírito Santo,2012,Eólica,0
+Rio de Janeiro,2012,Eólica,69
+São Paulo,2012,Eólica,0
+Paraná,2012,Eólica,23
+Santa Catarina,2012,Eólica,476
+Rio G. do Sul,2012,Eólica,"1,035"
+Mato G. do Sul,2012,Eólica,0
+Mato Grosso,2012,Eólica,0
+Goiás,2012,Eólica,0
+Distrito Federal,2012,Eólica,0
+BRASIL,2012,Eólica,"2,705"
+BRASIL,2011,Eólica,"2,705"
+Rondônia,2011,Eólica,0
+Acre,2011,Eólica,0
+Amazonas,2011,Eólica,0
+Roraima,2011,Eólica,0
+Pará,2011,Eólica,0
+Amapá,2011,Eólica,0
+Tocantins,2011,Eólica,0
+Maranhão,2011,Eólica,0
+Piauí,2011,Eólica,49
+Ceará,2011,Eólica,"1,310"
+Rio G. do Norte,2011,Eólica,334
+Paraíba,2011,Eólica,140
+Pernambuco,2011,Eólica,67
+Alagoas,2011,Eólica,0
+Sergipe,2011,Eólica,0
+Bahia,2011,Eólica,0
+Minas Gerais,2011,Eólica,0
+Espírito Santo,2011,Eólica,0
+Rio de Janeiro,2011,Eólica,65
+São Paulo,2011,Eólica,0
+Paraná,2011,Eólica,24
+Santa Catarina,2011,Eólica,17
+Rio G. do Sul,2011,Eólica,699
+Mato G. do Sul,2011,Eólica,0
+Mato Grosso,2011,Eólica,0
+Goiás,2011,Eólica,0
+Distrito Federal,2011,Eólica,0
+BRASIL,2023,Solar,"50,633"
+Rondônia,2023,Solar,323
+Acre,2023,Solar,73
+Amazonas,2023,Solar,144
+Roraima,2023,Solar,45
+Pará,2023,Solar,841
+Amapá,2023,Solar,48
+Tocantins,2023,Solar,401
+Maranhão,2023,Solar,649
+Piauí,2023,Solar,"3,031"
+Ceará,2023,Solar,"2,706"
+Rio G. do Norte,2023,Solar,"1,685"
+Paraíba,2023,Solar,"1,485"
+Pernambuco,2023,Solar,"2,340"
+Alagoas,2023,Solar,325
+Sergipe,2023,Solar,193
+Bahia,2023,Solar,"5,715"
+Minas Gerais,2023,Solar,"11,362"
+Espírito Santo,2023,Solar,638
+Rio de Janeiro,2023,Solar,"1,110"
+São Paulo,2023,Solar,"5,837"
+Paraná,2023,Solar,"2,797"
+Santa Catarina,2023,Solar,"1,217"
+Rio G. do Sul,2023,Solar,"2,998"
+Mato G. do Sul,2023,Solar,"1,111"
+Mato Grosso,2023,Solar,"1,705"
+Goiás,2023,Solar,"1,425"
+Distrito Federal,2023,Solar,428
+BRASIL,2023,Solar,"30,126"
+BRASIL,2022,Solar,"30,126"
+Rondônia,2022,Solar,191
+Acre,2022,Solar,42
+Amazonas,2022,Solar,77
+Roraima,2022,Solar,29
+Pará,2022,Solar,427
+Amapá,2022,Solar,27
+Tocantins,2022,Solar,232
+Maranhão,2022,Solar,397
+Piauí,2022,Solar,"2,928"
+Ceará,2022,Solar,"2,033"
+Rio G. do Norte,2022,Solar,942
+Paraíba,2022,Solar,940
+Pernambuco,2022,Solar,"1,247"
+Alagoas,2022,Solar,165
+Sergipe,2022,Solar,106
+Bahia,2022,Solar,"3,973"
+Minas Gerais,2022,Solar,"4,983"
+Espírito Santo,2022,Solar,315
+Rio de Janeiro,2022,Solar,663
+São Paulo,2022,Solar,"3,491"
+Paraná,2022,Solar,"1,669"
+Santa Catarina,2022,Solar,726
+Rio G. do Sul,2022,Solar,"1,819"
+Mato G. do Sul,2022,Solar,590
+Mato Grosso,2022,Solar,"1,041"
+Goiás,2022,Solar,829
+Distrito Federal,2022,Solar,244
+BRASIL,2022,Solar,"16,752"
+BRASIL,2021,Solar,"16,752"
+Rondônia,2021,Solar,78
+Acre,2021,Solar,19
+Amazonas,2021,Solar,40
+Roraima,2021,Solar,14
+Pará,2021,Solar,203
+Amapá,2021,Solar,17
+Tocantins,2021,Solar,124
+Maranhão,2021,Solar,183
+Piauí,2021,Solar,"1,975"
+Ceará,2021,Solar,"1,037"
+Rio G. do Norte,2021,Solar,474
+Paraíba,2021,Solar,477
+Pernambuco,2021,Solar,570
+Alagoas,2021,Solar,74
+Sergipe,2021,Solar,55
+Bahia,2021,Solar,"2,435"
+Minas Gerais,2021,Solar,"2,917"
+Espírito Santo,2021,Solar,152
+Rio de Janeiro,2021,Solar,330
+São Paulo,2021,Solar,"2,051"
+Paraná,2021,Solar,597
+Santa Catarina,2021,Solar,429
+Rio G. do Sul,2021,Solar,989
+Mato G. do Sul,2021,Solar,290
+Mato Grosso,2021,Solar,636
+Goiás,2021,Solar,480
+Distrito Federal,2021,Solar,107
+BRASIL,2021,Solar,"10,748"
+BRASIL,2020,Solar,"10,748"
+Rondônia,2020,Solar,31
+Acre,2020,Solar,6
+Amazonas,2020,Solar,17
+Roraima,2020,Solar,3
+Pará,2020,Solar,83
+Amapá,2020,Solar,12
+Tocantins,2020,Solar,67
+Maranhão,2020,Solar,73
+Piauí,2020,Solar,"1,228"
+Ceará,2020,Solar,624
+Rio G. do Norte,2020,Solar,369
+Paraíba,2020,Solar,365
+Pernambuco,2020,Solar,200
+Alagoas,2020,Solar,33
+Sergipe,2020,Solar,31
+Bahia,2020,Solar,"1,979"
+Minas Gerais,2020,Solar,"2,127"
+Espírito Santo,2020,Solar,83
+Rio de Janeiro,2020,Solar,176
+São Paulo,2020,Solar,"1,311"
+Paraná,2020,Solar,368
+Santa Catarina,2020,Solar,224
+Rio G. do Sul,2020,Solar,535
+Mato G. do Sul,2020,Solar,150
+Mato Grosso,2020,Solar,324
+Goiás,2020,Solar,260
+Distrito Federal,2020,Solar,66
+BRASIL,2020,Solar,"6,655"
+BRASIL,2019,Solar,"6,655"
+Rondônia,2019,Solar,0
+Acre,2019,Solar,2
+Amazonas,2019,Solar,4
+Roraima,2019,Solar,1
+Pará,2019,Solar,12
+Amapá,2019,Solar,8
+Tocantins,2019,Solar,28
+Maranhão,2019,Solar,25
+Piauí,2019,Solar,694
+Ceará,2019,Solar,469
+Rio G. do Norte,2019,Solar,264
+Paraíba,2019,Solar,287
+Pernambuco,2019,Solar,96
+Alagoas,2019,Solar,11
+Sergipe,2019,Solar,11
+Bahia,2019,Solar,"1,722"
+Minas Gerais,2019,Solar,"1,573"
+Espírito Santo,2019,Solar,28
+Rio de Janeiro,2019,Solar,65
+São Paulo,2019,Solar,629
+Paraná,2019,Solar,177
+Santa Catarina,2019,Solar,102
+Rio G. do Sul,2019,Solar,214
+Mato G. do Sul,2019,Solar,45
+Mato Grosso,2019,Solar,97
+Goiás,2019,Solar,64
+Distrito Federal,2019,Solar,23
+BRASIL,2019,Solar,"3,461"
+BRASIL,2018,Solar,"3,461"
+Rondônia,2018,Solar,2
+Acre,2018,Solar,1
+Amazonas,2018,Solar,1
+Roraima,2018,Solar,0
+Pará,2018,Solar,3
+Amapá,2018,Solar,7
+Tocantins,2018,Solar,5
+Maranhão,2018,Solar,7
+Piauí,2018,Solar,677
+Ceará,2018,Solar,66
+Rio G. do Norte,2018,Solar,196
+Paraíba,2018,Solar,67
+Pernambuco,2018,Solar,35
+Alagoas,2018,Solar,4
+Sergipe,2018,Solar,4
+Bahia,2018,Solar,"1,052"
+Minas Gerais,2018,Solar,817
+Espírito Santo,2018,Solar,8
+Rio de Janeiro,2018,Solar,23
+São Paulo,2018,Solar,278
+Paraná,2018,Solar,30
+Santa Catarina,2018,Solar,39
+Rio G. do Sul,2018,Solar,76
+Mato G. do Sul,2018,Solar,10
+Mato Grosso,2018,Solar,23
+Goiás,2018,Solar,21
+Distrito Federal,2018,Solar,10
+BRASIL,2018,Solar,832
+BRASIL,2017,Solar,832
+Rondônia,2017,Solar,0
+Acre,2017,Solar,0
+Amazonas,2017,Solar,0
+Roraima,2017,Solar,0
+Pará,2017,Solar,1
+Amapá,2017,Solar,6
+Tocantins,2017,Solar,1
+Maranhão,2017,Solar,3
+Piauí,2017,Solar,187
+Ceará,2017,Solar,16
+Rio G. do Norte,2017,Solar,18
+Paraíba,2017,Solar,2
+Pernambuco,2017,Solar,22
+Alagoas,2017,Solar,1
+Sergipe,2017,Solar,1
+Bahia,2017,Solar,333
+Minas Gerais,2017,Solar,143
+Espírito Santo,2017,Solar,3
+Rio de Janeiro,2017,Solar,11
+São Paulo,2017,Solar,23
+Paraná,2017,Solar,10
+Santa Catarina,2017,Solar,12
+Rio G. do Sul,2017,Solar,21
+Mato G. do Sul,2017,Solar,2
+Mato Grosso,2017,Solar,5
+Goiás,2017,Solar,6
+Distrito Federal,2017,Solar,4
+BRASIL,2017,Solar,85
+BRASIL,2016,Solar,85
+Rondônia,2016,Solar,0
+Acre,2016,Solar,0
+Amazonas,2016,Solar,0
+Roraima,2016,Solar,0
+Pará,2016,Solar,0
+Amapá,2016,Solar,0
+Tocantins,2016,Solar,0
+Maranhão,2016,Solar,1
+Piauí,2016,Solar,0
+Ceará,2016,Solar,8
+Rio G. do Norte,2016,Solar,3
+Paraíba,2016,Solar,0
+Pernambuco,2016,Solar,21
+Alagoas,2016,Solar,0
+Sergipe,2016,Solar,0
+Bahia,2016,Solar,5
+Minas Gerais,2016,Solar,11
+Espírito Santo,2016,Solar,1
+Rio de Janeiro,2016,Solar,4
+São Paulo,2016,Solar,8
+Paraná,2016,Solar,4
+Santa Catarina,2016,Solar,7
+Rio G. do Sul,2016,Solar,5
+Mato G. do Sul,2016,Solar,1
+Mato Grosso,2016,Solar,1
+Goiás,2016,Solar,1
+Distrito Federal,2016,Solar,1
+BRASIL,2016,Solar,59
+BRASIL,2015,Solar,59
+Rondônia,2015,Solar,0
+Acre,2015,Solar,0
+Amazonas,2015,Solar,0
+Roraima,2015,Solar,0
+Pará,2015,Solar,0
+Amapá,2015,Solar,0
+Tocantins,2015,Solar,0
+Maranhão,2015,Solar,1
+Piauí,2015,Solar,0
+Ceará,2015,Solar,2
+Rio G. do Norte,2015,Solar,4
+Paraíba,2015,Solar,0
+Pernambuco,2015,Solar,25
+Alagoas,2015,Solar,0
+Sergipe,2015,Solar,0
+Bahia,2015,Solar,5
+Minas Gerais,2015,Solar,6
+Espírito Santo,2015,Solar,0
+Rio de Janeiro,2015,Solar,2
+São Paulo,2015,Solar,3
+Paraná,2015,Solar,1
+Santa Catarina,2015,Solar,5
+Rio G. do Sul,2015,Solar,2
+Mato G. do Sul,2015,Solar,1
+Mato Grosso,2015,Solar,0
+Goiás,2015,Solar,0
+Distrito Federal,2015,Solar,1
+BRASIL,2015,Solar,16
+BRASIL,2014,Solar,16
+Rondônia,2014,Solar,0
+Acre,2014,Solar,0
+Amazonas,2014,Solar,0
+Roraima,2014,Solar,0
+Pará,2014,Solar,0
+Amapá,2014,Solar,0
+Tocantins,2014,Solar,0
+Maranhão,2014,Solar,0
+Piauí,2014,Solar,0
+Ceará,2014,Solar,4
+Rio G. do Norte,2014,Solar,1
+Paraíba,2014,Solar,0
+Pernambuco,2014,Solar,1
+Alagoas,2014,Solar,0
+Sergipe,2014,Solar,0
+Bahia,2014,Solar,3
+Minas Gerais,2014,Solar,1
+Espírito Santo,2014,Solar,0
+Rio de Janeiro,2014,Solar,1
+São Paulo,2014,Solar,2
+Paraná,2014,Solar,0
+Santa Catarina,2014,Solar,3
+Rio G. do Sul,2014,Solar,0
+Mato G. do Sul,2014,Solar,0
+Mato Grosso,2014,Solar,0
+Goiás,2014,Solar,0
+Distrito Federal,2014,Solar,0
+BRASIL,2014,Solar,5
+BRASIL,2013,Solar,5
+Rondônia,2013,Solar,0
+Acre,2013,Solar,0
+Amazonas,2013,Solar,0
+Roraima,2013,Solar,0
+Pará,2013,Solar,0
+Amapá,2013,Solar,0
+Tocantins,2013,Solar,0
+Maranhão,2013,Solar,0
+Piauí,2013,Solar,0
+Ceará,2013,Solar,1
+Rio G. do Norte,2013,Solar,0
+Paraíba,2013,Solar,0
+Pernambuco,2013,Solar,0
+Alagoas,2013,Solar,0
+Sergipe,2013,Solar,0
+Bahia,2013,Solar,2
+Minas Gerais,2013,Solar,0
+Espírito Santo,2013,Solar,0
+Rio de Janeiro,2013,Solar,0
+São Paulo,2013,Solar,2
+Paraná,2013,Solar,0
+Santa Catarina,2013,Solar,0
+Rio G. do Sul,2013,Solar,0
+Mato G. do Sul,2013,Solar,0
+Mato Grosso,2013,Solar,0
+Goiás,2013,Solar,0
+Distrito Federal,2013,Solar,0
+BRASIL,2013,Solar,2
+BRASIL,2012,Solar,2
+Rondônia,2012,Solar,0
+Acre,2012,Solar,0
+Amazonas,2012,Solar,0
+Roraima,2012,Solar,0
+Pará,2012,Solar,0
+Amapá,2012,Solar,0
+Tocantins,2012,Solar,0
+Maranhão,2012,Solar,0
+Piauí,2012,Solar,0
+Ceará,2012,Solar,2
+Rio G. do Norte,2012,Solar,0
+Paraíba,2012,Solar,0
+Pernambuco,2012,Solar,0
+Alagoas,2012,Solar,0
+Sergipe,2012,Solar,0
+Bahia,2012,Solar,0
+Minas Gerais,2012,Solar,0
+Espírito Santo,2012,Solar,0
+Rio de Janeiro,2012,Solar,0
+São Paulo,2012,Solar,0
+Paraná,2012,Solar,0
+Santa Catarina,2012,Solar,0
+Rio G. do Sul,2012,Solar,0
+Mato G. do Sul,2012,Solar,0
+Mato Grosso,2012,Solar,0
+Goiás,2012,Solar,0
+Distrito Federal,2012,Solar,0
+BRASIL,2012,Solar,1
+BRASIL,2011,Solar,1
+Rondônia,2011,Solar,0
+Acre,2011,Solar,0
+Amazonas,2011,Solar,0
+Roraima,2011,Solar,0
+Pará,2011,Solar,0
+Amapá,2011,Solar,0
+Tocantins,2011,Solar,0
+Maranhão,2011,Solar,0
+Piauí,2011,Solar,0
+Ceará,2011,Solar,1
+Rio G. do Norte,2011,Solar,0
+Paraíba,2011,Solar,0
+Pernambuco,2011,Solar,0
+Alagoas,2011,Solar,0
+Sergipe,2011,Solar,0
+Bahia,2011,Solar,0
+Minas Gerais,2011,Solar,0
+Espírito Santo,2011,Solar,0
+Rio de Janeiro,2011,Solar,0
+São Paulo,2011,Solar,0
+Paraná,2011,Solar,0
+Santa Catarina,2011,Solar,0
+Rio G. do Sul,2011,Solar,0
+Mato G. do Sul,2011,Solar,0
+Mato Grosso,2011,Solar,0
+Goiás,2011,Solar,0
+Distrito Federal,2011,Solar,0
+BRASIL,2023,Nuclear,"14,504"
+Rondônia,2023,Nuclear,0
+Acre,2023,Nuclear,0
+Amazonas,2023,Nuclear,0
+Roraima,2023,Nuclear,0
+Pará,2023,Nuclear,0
+Amapá,2023,Nuclear,0
+Tocantins,2023,Nuclear,0
+Maranhão,2023,Nuclear,0
+Piauí,2023,Nuclear,0
+Ceará,2023,Nuclear,0
+Rio G. do Norte,2023,Nuclear,0
+Paraíba,2023,Nuclear,0
+Pernambuco,2023,Nuclear,0
+Alagoas,2023,Nuclear,0
+Sergipe,2023,Nuclear,0
+Bahia,2023,Nuclear,0
+Minas Gerais,2023,Nuclear,0
+Espírito Santo,2023,Nuclear,0
+Rio de Janeiro,2023,Nuclear,"14,504"
+São Paulo,2023,Nuclear,0
+Paraná,2023,Nuclear,0
+Santa Catarina,2023,Nuclear,0
+Rio G. do Sul,2023,Nuclear,0
+Mato G. do Sul,2023,Nuclear,0
+Mato Grosso,2023,Nuclear,0
+Goiás,2023,Nuclear,0
+Distrito Federal,2023,Nuclear,0
+BRASIL,2023,Nuclear,"14,559"
+BRASIL,2022,Nuclear,"14,559"
+Rondônia,2022,Nuclear,0
+Acre,2022,Nuclear,0
+Amazonas,2022,Nuclear,0
+Roraima,2022,Nuclear,0
+Pará,2022,Nuclear,0
+Amapá,2022,Nuclear,0
+Tocantins,2022,Nuclear,0
+Maranhão,2022,Nuclear,0
+Piauí,2022,Nuclear,0
+Ceará,2022,Nuclear,0
+Rio G. do Norte,2022,Nuclear,0
+Paraíba,2022,Nuclear,0
+Pernambuco,2022,Nuclear,0
+Alagoas,2022,Nuclear,0
+Sergipe,2022,Nuclear,0
+Bahia,2022,Nuclear,0
+Minas Gerais,2022,Nuclear,0
+Espírito Santo,2022,Nuclear,0
+Rio de Janeiro,2022,Nuclear,"14,559"
+São Paulo,2022,Nuclear,0
+Paraná,2022,Nuclear,0
+Santa Catarina,2022,Nuclear,0
+Rio G. do Sul,2022,Nuclear,0
+Mato G. do Sul,2022,Nuclear,0
+Mato Grosso,2022,Nuclear,0
+Goiás,2022,Nuclear,0
+Distrito Federal,2022,Nuclear,0
+BRASIL,2022,Nuclear,"14,705"
+BRASIL,2021,Nuclear,"14,705"
+Rondônia,2021,Nuclear,0
+Acre,2021,Nuclear,0
+Amazonas,2021,Nuclear,0
+Roraima,2021,Nuclear,0
+Pará,2021,Nuclear,0
+Amapá,2021,Nuclear,0
+Tocantins,2021,Nuclear,0
+Maranhão,2021,Nuclear,0
+Piauí,2021,Nuclear,0
+Ceará,2021,Nuclear,0
+Rio G. do Norte,2021,Nuclear,0
+Paraíba,2021,Nuclear,0
+Pernambuco,2021,Nuclear,0
+Alagoas,2021,Nuclear,0
+Sergipe,2021,Nuclear,0
+Bahia,2021,Nuclear,0
+Minas Gerais,2021,Nuclear,0
+Espírito Santo,2021,Nuclear,0
+Rio de Janeiro,2021,Nuclear,"14,705"
+São Paulo,2021,Nuclear,0
+Paraná,2021,Nuclear,0
+Santa Catarina,2021,Nuclear,0
+Rio G. do Sul,2021,Nuclear,0
+Mato G. do Sul,2021,Nuclear,0
+Mato Grosso,2021,Nuclear,0
+Goiás,2021,Nuclear,0
+Distrito Federal,2021,Nuclear,0
+BRASIL,2021,Nuclear,"14,053"
+BRASIL,2020,Nuclear,"14,053"
+Rondônia,2020,Nuclear,0
+Acre,2020,Nuclear,0
+Amazonas,2020,Nuclear,0
+Roraima,2020,Nuclear,0
+Pará,2020,Nuclear,0
+Amapá,2020,Nuclear,0
+Tocantins,2020,Nuclear,0
+Maranhão,2020,Nuclear,0
+Piauí,2020,Nuclear,0
+Ceará,2020,Nuclear,0
+Rio G. do Norte,2020,Nuclear,0
+Paraíba,2020,Nuclear,0
+Pernambuco,2020,Nuclear,0
+Alagoas,2020,Nuclear,0
+Sergipe,2020,Nuclear,0
+Bahia,2020,Nuclear,0
+Minas Gerais,2020,Nuclear,0
+Espírito Santo,2020,Nuclear,0
+Rio de Janeiro,2020,Nuclear,"14,053"
+São Paulo,2020,Nuclear,0
+Paraná,2020,Nuclear,0
+Santa Catarina,2020,Nuclear,0
+Rio G. do Sul,2020,Nuclear,0
+Mato G. do Sul,2020,Nuclear,0
+Mato Grosso,2020,Nuclear,0
+Goiás,2020,Nuclear,0
+Distrito Federal,2020,Nuclear,0
+BRASIL,2020,Nuclear,"16,129"
+BRASIL,2019,Nuclear,"16,129"
+Rondônia,2019,Nuclear,0
+Acre,2019,Nuclear,0
+Amazonas,2019,Nuclear,0
+Roraima,2019,Nuclear,0
+Pará,2019,Nuclear,0
+Amapá,2019,Nuclear,0
+Tocantins,2019,Nuclear,0
+Maranhão,2019,Nuclear,0
+Piauí,2019,Nuclear,0
+Ceará,2019,Nuclear,0
+Rio G. do Norte,2019,Nuclear,0
+Paraíba,2019,Nuclear,0
+Pernambuco,2019,Nuclear,0
+Alagoas,2019,Nuclear,0
+Sergipe,2019,Nuclear,0
+Bahia,2019,Nuclear,0
+Minas Gerais,2019,Nuclear,0
+Espírito Santo,2019,Nuclear,0
+Rio de Janeiro,2019,Nuclear,"16,129"
+São Paulo,2019,Nuclear,0
+Paraná,2019,Nuclear,0
+Santa Catarina,2019,Nuclear,0
+Rio G. do Sul,2019,Nuclear,0
+Mato G. do Sul,2019,Nuclear,0
+Mato Grosso,2019,Nuclear,0
+Goiás,2019,Nuclear,0
+Distrito Federal,2019,Nuclear,0
+BRASIL,2019,Nuclear,"15,674"
+BRASIL,2018,Nuclear,"15,674"
+Rondônia,2018,Nuclear,0
+Acre,2018,Nuclear,0
+Amazonas,2018,Nuclear,0
+Roraima,2018,Nuclear,0
+Pará,2018,Nuclear,0
+Amapá,2018,Nuclear,0
+Tocantins,2018,Nuclear,0
+Maranhão,2018,Nuclear,0
+Piauí,2018,Nuclear,0
+Ceará,2018,Nuclear,0
+Rio G. do Norte,2018,Nuclear,0
+Paraíba,2018,Nuclear,0
+Pernambuco,2018,Nuclear,0
+Alagoas,2018,Nuclear,0
+Sergipe,2018,Nuclear,0
+Bahia,2018,Nuclear,0
+Minas Gerais,2018,Nuclear,0
+Espírito Santo,2018,Nuclear,0
+Rio de Janeiro,2018,Nuclear,"15,674"
+São Paulo,2018,Nuclear,0
+Paraná,2018,Nuclear,0
+Santa Catarina,2018,Nuclear,0
+Rio G. do Sul,2018,Nuclear,0
+Mato G. do Sul,2018,Nuclear,0
+Mato Grosso,2018,Nuclear,0
+Goiás,2018,Nuclear,0
+Distrito Federal,2018,Nuclear,0
+BRASIL,2018,Nuclear,"15,739"
+BRASIL,2017,Nuclear,"15,739"
+Rondônia,2017,Nuclear,0
+Acre,2017,Nuclear,0
+Amazonas,2017,Nuclear,0
+Roraima,2017,Nuclear,0
+Pará,2017,Nuclear,0
+Amapá,2017,Nuclear,0
+Tocantins,2017,Nuclear,0
+Maranhão,2017,Nuclear,0
+Piauí,2017,Nuclear,0
+Ceará,2017,Nuclear,0
+Rio G. do Norte,2017,Nuclear,0
+Paraíba,2017,Nuclear,0
+Pernambuco,2017,Nuclear,0
+Alagoas,2017,Nuclear,0
+Sergipe,2017,Nuclear,0
+Bahia,2017,Nuclear,0
+Minas Gerais,2017,Nuclear,0
+Espírito Santo,2017,Nuclear,0
+Rio de Janeiro,2017,Nuclear,"15,739"
+São Paulo,2017,Nuclear,0
+Paraná,2017,Nuclear,0
+Santa Catarina,2017,Nuclear,0
+Rio G. do Sul,2017,Nuclear,0
+Mato G. do Sul,2017,Nuclear,0
+Mato Grosso,2017,Nuclear,0
+Goiás,2017,Nuclear,0
+Distrito Federal,2017,Nuclear,0
+BRASIL,2017,Nuclear,"15,864"
+BRASIL,2016,Nuclear,"15,864"
+Rondônia,2016,Nuclear,0
+Acre,2016,Nuclear,0
+Amazonas,2016,Nuclear,0
+Roraima,2016,Nuclear,0
+Pará,2016,Nuclear,0
+Amapá,2016,Nuclear,0
+Tocantins,2016,Nuclear,0
+Maranhão,2016,Nuclear,0
+Piauí,2016,Nuclear,0
+Ceará,2016,Nuclear,0
+Rio G. do Norte,2016,Nuclear,0
+Paraíba,2016,Nuclear,0
+Pernambuco,2016,Nuclear,0
+Alagoas,2016,Nuclear,0
+Sergipe,2016,Nuclear,0
+Bahia,2016,Nuclear,0
+Minas Gerais,2016,Nuclear,0
+Espírito Santo,2016,Nuclear,0
+Rio de Janeiro,2016,Nuclear,"15,864"
+São Paulo,2016,Nuclear,0
+Paraná,2016,Nuclear,0
+Santa Catarina,2016,Nuclear,0
+Rio G. do Sul,2016,Nuclear,0
+Mato G. do Sul,2016,Nuclear,0
+Mato Grosso,2016,Nuclear,0
+Goiás,2016,Nuclear,0
+Distrito Federal,2016,Nuclear,0
+BRASIL,2016,Nuclear,"14,734"
+BRASIL,2015,Nuclear,"14,734"
+Rondônia,2015,Nuclear,0
+Acre,2015,Nuclear,0
+Amazonas,2015,Nuclear,0
+Roraima,2015,Nuclear,0
+Pará,2015,Nuclear,0
+Amapá,2015,Nuclear,0
+Tocantins,2015,Nuclear,0
+Maranhão,2015,Nuclear,0
+Piauí,2015,Nuclear,0
+Ceará,2015,Nuclear,0
+Rio G. do Norte,2015,Nuclear,0
+Paraíba,2015,Nuclear,0
+Pernambuco,2015,Nuclear,0
+Alagoas,2015,Nuclear,0
+Sergipe,2015,Nuclear,0
+Bahia,2015,Nuclear,0
+Minas Gerais,2015,Nuclear,0
+Espírito Santo,2015,Nuclear,0
+Rio de Janeiro,2015,Nuclear,"14,734"
+São Paulo,2015,Nuclear,0
+Paraná,2015,Nuclear,0
+Santa Catarina,2015,Nuclear,0
+Rio G. do Sul,2015,Nuclear,0
+Mato G. do Sul,2015,Nuclear,0
+Mato Grosso,2015,Nuclear,0
+Goiás,2015,Nuclear,0
+Distrito Federal,2015,Nuclear,0
+BRASIL,2015,Nuclear,"15,378"
+BRASIL,2014,Nuclear,"15,378"
+Rondônia,2014,Nuclear,0
+Acre,2014,Nuclear,0
+Amazonas,2014,Nuclear,0
+Roraima,2014,Nuclear,0
+Pará,2014,Nuclear,0
+Amapá,2014,Nuclear,0
+Tocantins,2014,Nuclear,0
+Maranhão,2014,Nuclear,0
+Piauí,2014,Nuclear,0
+Ceará,2014,Nuclear,0
+Rio G. do Norte,2014,Nuclear,0
+Paraíba,2014,Nuclear,0
+Pernambuco,2014,Nuclear,0
+Alagoas,2014,Nuclear,0
+Sergipe,2014,Nuclear,0
+Bahia,2014,Nuclear,0
+Minas Gerais,2014,Nuclear,0
+Espírito Santo,2014,Nuclear,0
+Rio de Janeiro,2014,Nuclear,"15,378"
+São Paulo,2014,Nuclear,0
+Paraná,2014,Nuclear,0
+Santa Catarina,2014,Nuclear,0
+Rio G. do Sul,2014,Nuclear,0
+Mato G. do Sul,2014,Nuclear,0
+Mato Grosso,2014,Nuclear,0
+Goiás,2014,Nuclear,0
+Distrito Federal,2014,Nuclear,0
+BRASIL,2014,Nuclear,"15,450"
+BRASIL,2013,Nuclear,"15,450"
+Rondônia,2013,Nuclear,0
+Acre,2013,Nuclear,0
+Amazonas,2013,Nuclear,0
+Roraima,2013,Nuclear,0
+Pará,2013,Nuclear,0
+Amapá,2013,Nuclear,0
+Tocantins,2013,Nuclear,0
+Maranhão,2013,Nuclear,0
+Piauí,2013,Nuclear,0
+Ceará,2013,Nuclear,0
+Rio G. do Norte,2013,Nuclear,0
+Paraíba,2013,Nuclear,0
+Pernambuco,2013,Nuclear,0
+Alagoas,2013,Nuclear,0
+Sergipe,2013,Nuclear,0
+Bahia,2013,Nuclear,0
+Minas Gerais,2013,Nuclear,0
+Espírito Santo,2013,Nuclear,0
+Rio de Janeiro,2013,Nuclear,"15,450"
+São Paulo,2013,Nuclear,0
+Paraná,2013,Nuclear,0
+Santa Catarina,2013,Nuclear,0
+Rio G. do Sul,2013,Nuclear,0
+Mato G. do Sul,2013,Nuclear,0
+Mato Grosso,2013,Nuclear,0
+Goiás,2013,Nuclear,0
+Distrito Federal,2013,Nuclear,0
+BRASIL,2013,Nuclear,"16,038"
+BRASIL,2012,Nuclear,"16,038"
+Rondônia,2012,Nuclear,0
+Acre,2012,Nuclear,0
+Amazonas,2012,Nuclear,0
+Roraima,2012,Nuclear,0
+Pará,2012,Nuclear,0
+Amapá,2012,Nuclear,0
+Tocantins,2012,Nuclear,0
+Maranhão,2012,Nuclear,0
+Piauí,2012,Nuclear,0
+Ceará,2012,Nuclear,0
+Rio G. do Norte,2012,Nuclear,0
+Paraíba,2012,Nuclear,0
+Pernambuco,2012,Nuclear,0
+Alagoas,2012,Nuclear,0
+Sergipe,2012,Nuclear,0
+Bahia,2012,Nuclear,0
+Minas Gerais,2012,Nuclear,0
+Espírito Santo,2012,Nuclear,0
+Rio de Janeiro,2012,Nuclear,"16,038"
+São Paulo,2012,Nuclear,0
+Paraná,2012,Nuclear,0
+Santa Catarina,2012,Nuclear,0
+Rio G. do Sul,2012,Nuclear,0
+Mato G. do Sul,2012,Nuclear,0
+Mato Grosso,2012,Nuclear,0
+Goiás,2012,Nuclear,0
+Distrito Federal,2012,Nuclear,0
+BRASIL,2012,Nuclear,"15,659"
+BRASIL,2011,Nuclear,"15,659"
+Rondônia,2011,Nuclear,0
+Acre,2011,Nuclear,0
+Amazonas,2011,Nuclear,0
+Roraima,2011,Nuclear,0
+Pará,2011,Nuclear,0
+Amapá,2011,Nuclear,0
+Tocantins,2011,Nuclear,0
+Maranhão,2011,Nuclear,0
+Piauí,2011,Nuclear,0
+Ceará,2011,Nuclear,0
+Rio G. do Norte,2011,Nuclear,0
+Paraíba,2011,Nuclear,0
+Pernambuco,2011,Nuclear,0
+Alagoas,2011,Nuclear,0
+Sergipe,2011,Nuclear,0
+Bahia,2011,Nuclear,0
+Minas Gerais,2011,Nuclear,0
+Espírito Santo,2011,Nuclear,0
+Rio de Janeiro,2011,Nuclear,"15,658"
+São Paulo,2011,Nuclear,0
+Paraná,2011,Nuclear,0
+Santa Catarina,2011,Nuclear,0
+Rio G. do Sul,2011,Nuclear,0
+Mato G. do Sul,2011,Nuclear,0
+Mato Grosso,2011,Nuclear,0
+Goiás,2011,Nuclear,0
+Distrito Federal,2011,Nuclear,0
+BRASIL,2023,Termelétrica,"121,186"
+Rondônia,2023,Termelétrica,33
+Acre,2023,Termelétrica,242
+Amazonas,2023,Termelétrica,"8,283"
+Roraima,2023,Termelétrica,"1,436"
+Pará,2023,Termelétrica,"1,211"
+Amapá,2023,Termelétrica,58
+Tocantins,2023,Termelétrica,258
+Maranhão,2023,Termelétrica,"6,869"
+Piauí,2023,Termelétrica,86
+Ceará,2023,Termelétrica,454
+Rio G. do Norte,2023,Termelétrica,778
+Paraíba,2023,Termelétrica,384
+Pernambuco,2023,Termelétrica,"1,678"
+Alagoas,2023,Termelétrica,"1,068"
+Sergipe,2023,Termelétrica,151
+Bahia,2023,Termelétrica,"4,692"
+Minas Gerais,2023,Termelétrica,"8,298"
+Espírito Santo,2023,Termelétrica,"8,684"
+Rio de Janeiro,2023,Termelétrica,"21,899"
+São Paulo,2023,Termelétrica,"25,448"
+Paraná,2023,Termelétrica,"5,354"
+Santa Catarina,2023,Termelétrica,"5,120"
+Rio G. do Sul,2023,Termelétrica,"5,794"
+Mato G. do Sul,2023,Termelétrica,"7,871"
+Mato Grosso,2023,Termelétrica,"1,160"
+Goiás,2023,Termelétrica,"3,879"
+Distrito Federal,2023,Termelétrica,2
+BRASIL,2023,Termelétrica,"123,742"
+BRASIL,2022,Termelétrica,"123,742"
+Rondônia,2022,Termelétrica,580
+Acre,2022,Termelétrica,260
+Amazonas,2022,Termelétrica,"7,966"
+Roraima,2022,Termelétrica,"1,303"
+Pará,2022,Termelétrica,"1,099"
+Amapá,2022,Termelétrica,19
+Tocantins,2022,Termelétrica,231
+Maranhão,2022,Termelétrica,"6,457"
+Piauí,2022,Termelétrica,53
+Ceará,2022,Termelétrica,221
+Rio G. do Norte,2022,Termelétrica,"1,022"
+Paraíba,2022,Termelétrica,308
+Pernambuco,2022,Termelétrica,"1,417"
+Alagoas,2022,Termelétrica,856
+Sergipe,2022,Termelétrica,944
+Bahia,2022,Termelétrica,"5,401"
+Minas Gerais,2022,Termelétrica,"7,247"
+Espírito Santo,2022,Termelétrica,"8,653"
+Rio de Janeiro,2022,Termelétrica,"25,325"
+São Paulo,2022,Termelétrica,"24,110"
+Paraná,2022,Termelétrica,"6,155"
+Santa Catarina,2022,Termelétrica,"4,960"
+Rio G. do Sul,2022,Termelétrica,"5,690"
+Mato G. do Sul,2022,Termelétrica,"7,475"
+Mato Grosso,2022,Termelétrica,"2,114"
+Goiás,2022,Termelétrica,"3,876"
+Distrito Federal,2022,Termelétrica,1
+BRASIL,2022,Termelétrica,"189,548"
+BRASIL,2021,Termelétrica,"189,548"
+Rondônia,2021,Termelétrica,804
+Acre,2021,Termelétrica,246
+Amazonas,2021,Termelétrica,"9,750"
+Roraima,2021,Termelétrica,"1,209"
+Pará,2021,Termelétrica,"1,311"
+Amapá,2021,Termelétrica,55
+Tocantins,2021,Termelétrica,242
+Maranhão,2021,Termelétrica,"13,632"
+Piauí,2021,Termelétrica,55
+Ceará,2021,Termelétrica,"7,281"
+Rio G. do Norte,2021,Termelétrica,"1,517"
+Paraíba,2021,Termelétrica,"2,062"
+Pernambuco,2021,Termelétrica,"7,238"
+Alagoas,2021,Termelétrica,875
+Sergipe,2021,Termelétrica,"4,796"
+Bahia,2021,Termelétrica,"7,019"
+Minas Gerais,2021,Termelétrica,"10,185"
+Espírito Santo,2021,Termelétrica,"10,712"
+Rio de Janeiro,2021,Termelétrica,"45,726"
+São Paulo,2021,Termelétrica,"27,297"
+Paraná,2021,Termelétrica,"7,426"
+Santa Catarina,2021,Termelétrica,"5,854"
+Rio G. do Sul,2021,Termelétrica,"8,209"
+Mato G. do Sul,2021,Termelétrica,"9,027"
+Mato Grosso,2021,Termelétrica,"2,489"
+Goiás,2021,Termelétrica,"4,523"
+Distrito Federal,2021,Termelétrica,5
+BRASIL,2021,Termelétrica,"143,018"
+BRASIL,2020,Termelétrica,"143,018"
+Rondônia,2020,Termelétrica,403
+Acre,2020,Termelétrica,251
+Amazonas,2020,Termelétrica,"9,531"
+Roraima,2020,Termelétrica,"1,252"
+Pará,2020,Termelétrica,"1,376"
+Amapá,2020,Termelétrica,57
+Tocantins,2020,Termelétrica,272
+Maranhão,2020,Termelétrica,"9,375"
+Piauí,2020,Termelétrica,62
+Ceará,2020,Termelétrica,"3,470"
+Rio G. do Norte,2020,Termelétrica,"1,428"
+Paraíba,2020,Termelétrica,609
+Pernambuco,2020,Termelétrica,"4,250"
+Alagoas,2020,Termelétrica,961
+Sergipe,2020,Termelétrica,"1,054"
+Bahia,2020,Termelétrica,"4,981"
+Minas Gerais,2020,Termelétrica,"8,737"
+Espírito Santo,2020,Termelétrica,"7,731"
+Rio de Janeiro,2020,Termelétrica,"27,442"
+São Paulo,2020,Termelétrica,"27,254"
+Paraná,2020,Termelétrica,"6,567"
+Santa Catarina,2020,Termelétrica,"5,238"
+Rio G. do Sul,2020,Termelétrica,"6,018"
+Mato G. do Sul,2020,Termelétrica,"7,781"
+Mato Grosso,2020,Termelétrica,"2,154"
+Goiás,2020,Termelétrica,"4,757"
+Distrito Federal,2020,Termelétrica,5
+BRASIL,2020,Termelétrica,"149,682"
+BRASIL,2019,Termelétrica,"149,682"
+Rondônia,2019,Termelétrica,"2,905"
+Acre,2019,Termelétrica,251
+Amazonas,2019,Termelétrica,"9,157"
+Roraima,2019,Termelétrica,"1,101"
+Pará,2019,Termelétrica,"1,386"
+Amapá,2019,Termelétrica,55
+Tocantins,2019,Termelétrica,267
+Maranhão,2019,Termelétrica,"9,185"
+Piauí,2019,Termelétrica,61
+Ceará,2019,Termelétrica,"7,643"
+Rio G. do Norte,2019,Termelétrica,"1,578"
+Paraíba,2019,Termelétrica,726
+Pernambuco,2019,Termelétrica,"5,183"
+Alagoas,2019,Termelétrica,813
+Sergipe,2019,Termelétrica,170
+Bahia,2019,Termelétrica,"5,495"
+Minas Gerais,2019,Termelétrica,"9,293"
+Espírito Santo,2019,Termelétrica,"7,119"
+Rio de Janeiro,2019,Termelétrica,"29,804"
+São Paulo,2019,Termelétrica,"26,908"
+Paraná,2019,Termelétrica,"5,066"
+Santa Catarina,2019,Termelétrica,"5,169"
+Rio G. do Sul,2019,Termelétrica,"5,286"
+Mato G. do Sul,2019,Termelétrica,"8,167"
+Mato Grosso,2019,Termelétrica,"2,375"
+Goiás,2019,Termelétrica,"4,515"
+Distrito Federal,2019,Termelétrica,5
+BRASIL,2019,Termelétrica,"144,815"
+BRASIL,2018,Termelétrica,"144,815"
+Rondônia,2018,Termelétrica,360
+Acre,2018,Termelétrica,242
+Amazonas,2018,Termelétrica,"7,923"
+Roraima,2018,Termelétrica,301
+Pará,2018,Termelétrica,"1,638"
+Amapá,2018,Termelétrica,51
+Tocantins,2018,Termelétrica,262
+Maranhão,2018,Termelétrica,"9,756"
+Piauí,2018,Termelétrica,60
+Ceará,2018,Termelétrica,"7,062"
+Rio G. do Norte,2018,Termelétrica,"1,713"
+Paraíba,2018,Termelétrica,"1,203"
+Pernambuco,2018,Termelétrica,"6,031"
+Alagoas,2018,Termelétrica,801
+Sergipe,2018,Termelétrica,163
+Bahia,2018,Termelétrica,"6,944"
+Minas Gerais,2018,Termelétrica,"8,475"
+Espírito Santo,2018,Termelétrica,"7,532"
+Rio de Janeiro,2018,Termelétrica,"30,015"
+São Paulo,2018,Termelétrica,"26,298"
+Paraná,2018,Termelétrica,"4,942"
+Santa Catarina,2018,Termelétrica,"5,308"
+Rio G. do Sul,2018,Termelétrica,"4,547"
+Mato G. do Sul,2018,Termelétrica,"7,991"
+Mato Grosso,2018,Termelétrica,810
+Goiás,2018,Termelétrica,"4,384"
+Distrito Federal,2018,Termelétrica,2
+BRASIL,2018,Termelétrica,"158,111"
+BRASIL,2017,Termelétrica,"158,111"
+Rondônia,2017,Termelétrica,285
+Acre,2017,Termelétrica,189
+Amazonas,2017,Termelétrica,"5,988"
+Roraima,2017,Termelétrica,120
+Pará,2017,Termelétrica,"1,503"
+Amapá,2017,Termelétrica,38
+Tocantins,2017,Termelétrica,268
+Maranhão,2017,Termelétrica,"11,582"
+Piauí,2017,Termelétrica,31
+Ceará,2017,Termelétrica,"10,167"
+Rio G. do Norte,2017,Termelétrica,"2,248"
+Paraíba,2017,Termelétrica,"1,625"
+Pernambuco,2017,Termelétrica,"7,438"
+Alagoas,2017,Termelétrica,760
+Sergipe,2017,Termelétrica,181
+Bahia,2017,Termelétrica,"7,298"
+Minas Gerais,2017,Termelétrica,"9,032"
+Espírito Santo,2017,Termelétrica,"6,944"
+Rio de Janeiro,2017,Termelétrica,"36,827"
+São Paulo,2017,Termelétrica,"27,650"
+Paraná,2017,Termelétrica,"4,849"
+Santa Catarina,2017,Termelétrica,"5,222"
+Rio G. do Sul,2017,Termelétrica,"4,444"
+Mato G. do Sul,2017,Termelétrica,"7,253"
+Mato Grosso,2017,Termelétrica,"1,837"
+Goiás,2017,Termelétrica,"4,329"
+Distrito Federal,2017,Termelétrica,3
+BRASIL,2017,Termelétrica,"148,549"
+BRASIL,2016,Termelétrica,"148,549"
+Rondônia,2016,Termelétrica,622
+Acre,2016,Termelétrica,241
+Amazonas,2016,Termelétrica,"6,123"
+Roraima,2016,Termelétrica,144
+Pará,2016,Termelétrica,"1,663"
+Amapá,2016,Termelétrica,60
+Tocantins,2016,Termelétrica,256
+Maranhão,2016,Termelétrica,"12,573"
+Piauí,2016,Termelétrica,29
+Ceará,2016,Termelétrica,"9,307"
+Rio G. do Norte,2016,Termelétrica,"2,234"
+Paraíba,2016,Termelétrica,"1,329"
+Pernambuco,2016,Termelétrica,"7,187"
+Alagoas,2016,Termelétrica,824
+Sergipe,2016,Termelétrica,173
+Bahia,2016,Termelétrica,"7,277"
+Minas Gerais,2016,Termelétrica,"8,303"
+Espírito Santo,2016,Termelétrica,"8,293"
+Rio de Janeiro,2016,Termelétrica,"29,795"
+São Paulo,2016,Termelétrica,"26,030"
+Paraná,2016,Termelétrica,"4,179"
+Santa Catarina,2016,Termelétrica,"5,066"
+Rio G. do Sul,2016,Termelétrica,"4,874"
+Mato G. do Sul,2016,Termelétrica,"6,745"
+Mato Grosso,2016,Termelétrica,"1,056"
+Goiás,2016,Termelétrica,"4,164"
+Distrito Federal,2016,Termelétrica,3
+BRASIL,2016,Termelétrica,"185,325"
+BRASIL,2015,Termelétrica,"185,325"
+Rondônia,2015,Termelétrica,"1,926"
+Acre,2015,Termelétrica,281
+Amazonas,2015,Termelétrica,"7,949"
+Roraima,2015,Termelétrica,175
+Pará,2015,Termelétrica,"1,703"
+Amapá,2015,Termelétrica,396
+Tocantins,2015,Termelétrica,263
+Maranhão,2015,Termelétrica,"11,080"
+Piauí,2015,Termelétrica,44
+Ceará,2015,Termelétrica,"12,027"
+Rio G. do Norte,2015,Termelétrica,"3,074"
+Paraíba,2015,Termelétrica,"3,195"
+Pernambuco,2015,Termelétrica,"8,421"
+Alagoas,2015,Termelétrica,762
+Sergipe,2015,Termelétrica,238
+Bahia,2015,Termelétrica,"9,218"
+Minas Gerais,2015,Termelétrica,"9,805"
+Espírito Santo,2015,Termelétrica,"8,890"
+Rio de Janeiro,2015,Termelétrica,"39,403"
+São Paulo,2015,Termelétrica,"29,690"
+Paraná,2015,Termelétrica,"5,553"
+Santa Catarina,2015,Termelétrica,"5,888"
+Rio G. do Sul,2015,Termelétrica,"6,438"
+Mato G. do Sul,2015,Termelétrica,"9,570"
+Mato Grosso,2015,Termelétrica,"4,392"
+Goiás,2015,Termelétrica,"4,928"
+Distrito Federal,2015,Termelétrica,16
+BRASIL,2015,Termelétrica,"189,498"
+BRASIL,2014,Termelétrica,"189,498"
+Rondônia,2014,Termelétrica,"2,088"
+Acre,2014,Termelétrica,250
+Amazonas,2014,Termelétrica,"7,480"
+Roraima,2014,Termelétrica,226
+Pará,2014,Termelétrica,"1,520"
+Amapá,2014,Termelétrica,"1,197"
+Tocantins,2014,Termelétrica,269
+Maranhão,2014,Termelétrica,"12,720"
+Piauí,2014,Termelétrica,128
+Ceará,2014,Termelétrica,"12,157"
+Rio G. do Norte,2014,Termelétrica,"3,268"
+Paraíba,2014,Termelétrica,"3,285"
+Pernambuco,2014,Termelétrica,"10,486"
+Alagoas,2014,Termelétrica,920
+Sergipe,2014,Termelétrica,245
+Bahia,2014,Termelétrica,"10,314"
+Minas Gerais,2014,Termelétrica,"9,628"
+Espírito Santo,2014,Termelétrica,"8,694"
+Rio de Janeiro,2014,Termelétrica,"38,823"
+São Paulo,2014,Termelétrica,"29,442"
+Paraná,2014,Termelétrica,"6,647"
+Santa Catarina,2014,Termelétrica,"5,978"
+Rio G. do Sul,2014,Termelétrica,"6,106"
+Mato G. do Sul,2014,Termelétrica,"8,353"
+Mato Grosso,2014,Termelétrica,"3,943"
+Goiás,2014,Termelétrica,"5,328"
+Distrito Federal,2014,Termelétrica,3
+BRASIL,2014,Termelétrica,"157,810"
+BRASIL,2013,Termelétrica,"157,810"
+Rondônia,2013,Termelétrica,"1,241"
+Acre,2013,Termelétrica,234
+Amazonas,2013,Termelétrica,"8,522"
+Roraima,2013,Termelétrica,151
+Pará,2013,Termelétrica,"1,658"
+Amapá,2013,Termelétrica,"1,221"
+Tocantins,2013,Termelétrica,268
+Maranhão,2013,Termelétrica,"8,102"
+Piauí,2013,Termelétrica,138
+Ceará,2013,Termelétrica,"8,041"
+Rio G. do Norte,2013,Termelétrica,"2,494"
+Paraíba,2013,Termelétrica,"1,700"
+Pernambuco,2013,Termelétrica,"7,125"
+Alagoas,2013,Termelétrica,813
+Sergipe,2013,Termelétrica,216
+Bahia,2013,Termelétrica,"9,608"
+Minas Gerais,2013,Termelétrica,"7,951"
+Espírito Santo,2013,Termelétrica,"6,364"
+Rio de Janeiro,2013,Termelétrica,"33,539"
+São Paulo,2013,Termelétrica,"27,839"
+Paraná,2013,Termelétrica,"5,277"
+Santa Catarina,2013,Termelétrica,"6,598"
+Rio G. do Sul,2013,Termelétrica,"5,593"
+Mato G. do Sul,2013,Termelétrica,"6,224"
+Mato Grosso,2013,Termelétrica,"2,755"
+Goiás,2013,Termelétrica,"4,137"
+Distrito Federal,2013,Termelétrica,3
+BRASIL,2013,Termelétrica,"116,066"
+BRASIL,2012,Termelétrica,"116,066"
+Rondônia,2012,Termelétrica,"1,692"
+Acre,2012,Termelétrica,372
+Amazonas,2012,Termelétrica,"8,296"
+Roraima,2012,Termelétrica,108
+Pará,2012,Termelétrica,"1,622"
+Amapá,2012,Termelétrica,"1,308"
+Tocantins,2012,Termelétrica,17
+Maranhão,2012,Termelétrica,952
+Piauí,2012,Termelétrica,80
+Ceará,2012,Termelétrica,"2,446"
+Rio G. do Norte,2012,Termelétrica,"1,940"
+Paraíba,2012,Termelétrica,833
+Pernambuco,2012,Termelétrica,"4,281"
+Alagoas,2012,Termelétrica,731
+Sergipe,2012,Termelétrica,186
+Bahia,2012,Termelétrica,"7,121"
+Minas Gerais,2012,Termelétrica,"6,938"
+Espírito Santo,2012,Termelétrica,"4,936"
+Rio de Janeiro,2012,Termelétrica,"24,668"
+São Paulo,2012,Termelétrica,"22,818"
+Paraná,2012,Termelétrica,"4,884"
+Santa Catarina,2012,Termelétrica,"5,364"
+Rio G. do Sul,2012,Termelétrica,"4,861"
+Mato G. do Sul,2012,Termelétrica,"4,689"
+Mato Grosso,2012,Termelétrica,"2,056"
+Goiás,2012,Termelétrica,"2,863"
+Distrito Federal,2012,Termelétrica,2
+BRASIL,2012,Termelétrica,"85,060"
+BRASIL,2011,Termelétrica,"85,060"
+Rondônia,2011,Termelétrica,"2,313"
+Acre,2011,Termelétrica,198
+Amazonas,2011,Termelétrica,"7,544"
+Roraima,2011,Termelétrica,114
+Pará,2011,Termelétrica,"1,597"
+Amapá,2011,Termelétrica,"1,008"
+Tocantins,2011,Termelétrica,20
+Maranhão,2011,Termelétrica,454
+Piauí,2011,Termelétrica,30
+Ceará,2011,Termelétrica,"1,271"
+Rio G. do Norte,2011,Termelétrica,"1,253"
+Paraíba,2011,Termelétrica,231
+Pernambuco,2011,Termelétrica,"3,732"
+Alagoas,2011,Termelétrica,829
+Sergipe,2011,Termelétrica,162
+Bahia,2011,Termelétrica,"5,222"
+Minas Gerais,2011,Termelétrica,"5,320"
+Espírito Santo,2011,Termelétrica,"4,406"
+Rio de Janeiro,2011,Termelétrica,"15,965"
+São Paulo,2011,Termelétrica,"17,994"
+Paraná,2011,Termelétrica,"2,702"
+Santa Catarina,2011,Termelétrica,"4,300"
+Rio G. do Sul,2011,Termelétrica,"3,329"
+Mato G. do Sul,2011,Termelétrica,"2,333"
+Mato Grosso,2011,Termelétrica,337
+Goiás,2011,Termelétrica,"2,397"
+Distrito Federal,2011,Termelétrica,2
+BRASIL,2023,Bagaço de Cana,"36,532"
+Rondônia,2023,Bagaço de Cana,0
+Acre,2023,Bagaço de Cana,0
+Amazonas,2023,Bagaço de Cana,16
+Roraima,2023,Bagaço de Cana,0
+Pará,2023,Bagaço de Cana,40
+Amapá,2023,Bagaço de Cana,0
+Tocantins,2023,Bagaço de Cana,257
+Maranhão,2023,Bagaço de Cana,14
+Piauí,2023,Bagaço de Cana,85
+Ceará,2023,Bagaço de Cana,0
+Rio G. do Norte,2023,Bagaço de Cana,196
+Paraíba,2023,Bagaço de Cana,277
+Pernambuco,2023,Bagaço de Cana,891
+Alagoas,2023,Bagaço de Cana,"1,016"
+Sergipe,2023,Bagaço de Cana,118
+Bahia,2023,Bagaço de Cana,38
+Minas Gerais,2023,Bagaço de Cana,"5,055"
+Espírito Santo,2023,Bagaço de Cana,77
+Rio de Janeiro,2023,Bagaço de Cana,662
+São Paulo,2023,Bagaço de Cana,"18,321"
+Paraná,2023,Bagaço de Cana,"1,657"
+Santa Catarina,2023,Bagaço de Cana,29
+Rio G. do Sul,2023,Bagaço de Cana,0
+Mato G. do Sul,2023,Bagaço de Cana,"3,722"
+Mato Grosso,2023,Bagaço de Cana,596
+Goiás,2023,Bagaço de Cana,"3,463"
+Distrito Federal,2023,Bagaço de Cana,1
+BRASIL,2023,Bagaço de Cana,"32,250"
+BRASIL,2022,Bagaço de Cana,"32,250"
+Rondônia,2022,Bagaço de Cana,0
+Acre,2022,Bagaço de Cana,0
+Amazonas,2022,Bagaço de Cana,14
+Roraima,2022,Bagaço de Cana,0
+Pará,2022,Bagaço de Cana,36
+Amapá,2022,Bagaço de Cana,0
+Tocantins,2022,Bagaço de Cana,230
+Maranhão,2022,Bagaço de Cana,13
+Piauí,2022,Bagaço de Cana,52
+Ceará,2022,Bagaço de Cana,0
+Rio G. do Norte,2022,Bagaço de Cana,175
+Paraíba,2022,Bagaço de Cana,247
+Pernambuco,2022,Bagaço de Cana,817
+Alagoas,2022,Bagaço de Cana,810
+Sergipe,2022,Bagaço de Cana,104
+Bahia,2022,Bagaço de Cana,48
+Minas Gerais,2022,Bagaço de Cana,"4,406"
+Espírito Santo,2022,Bagaço de Cana,185
+Rio de Janeiro,2022,Bagaço de Cana,596
+São Paulo,2022,Bagaço de Cana,"15,988"
+Paraná,2022,Bagaço de Cana,"1,504"
+Santa Catarina,2022,Bagaço de Cana,24
+Rio G. do Sul,2022,Bagaço de Cana,0
+Mato G. do Sul,2022,Bagaço de Cana,"3,032"
+Mato Grosso,2022,Bagaço de Cana,541
+Goiás,2022,Bagaço de Cana,"3,430"
+Distrito Federal,2022,Bagaço de Cana,0
+BRASIL,2022,Bagaço de Cana,"34,342"
+BRASIL,2021,Bagaço de Cana,"34,342"
+Rondônia,2021,Bagaço de Cana,0
+Acre,2021,Bagaço de Cana,0
+Amazonas,2021,Bagaço de Cana,15
+Roraima,2021,Bagaço de Cana,0
+Pará,2021,Bagaço de Cana,38
+Amapá,2021,Bagaço de Cana,0
+Tocantins,2021,Bagaço de Cana,241
+Maranhão,2021,Bagaço de Cana,13
+Piauí,2021,Bagaço de Cana,54
+Ceará,2021,Bagaço de Cana,0
+Rio G. do Norte,2021,Bagaço de Cana,184
+Paraíba,2021,Bagaço de Cana,263
+Pernambuco,2021,Bagaço de Cana,856
+Alagoas,2021,Bagaço de Cana,851
+Sergipe,2021,Bagaço de Cana,128
+Bahia,2021,Bagaço de Cana,50
+Minas Gerais,2021,Bagaço de Cana,"4,679"
+Espírito Santo,2021,Bagaço de Cana,196
+Rio de Janeiro,2021,Bagaço de Cana,714
+São Paulo,2021,Bagaço de Cana,"17,092"
+Paraná,2021,Bagaço de Cana,"1,434"
+Santa Catarina,2021,Bagaço de Cana,44
+Rio G. do Sul,2021,Bagaço de Cana,0
+Mato G. do Sul,2021,Bagaço de Cana,"3,245"
+Mato Grosso,2021,Bagaço de Cana,584
+Goiás,2021,Bagaço de Cana,"3,660"
+Distrito Federal,2021,Bagaço de Cana,0
+BRASIL,2021,Bagaço de Cana,"38,776"
+BRASIL,2020,Bagaço de Cana,"38,776"
+Rondônia,2020,Bagaço de Cana,0
+Acre,2020,Bagaço de Cana,0
+Amazonas,2020,Bagaço de Cana,17
+Roraima,2020,Bagaço de Cana,0
+Pará,2020,Bagaço de Cana,42
+Amapá,2020,Bagaço de Cana,0
+Tocantins,2020,Bagaço de Cana,271
+Maranhão,2020,Bagaço de Cana,15
+Piauí,2020,Bagaço de Cana,61
+Ceará,2020,Bagaço de Cana,0
+Rio G. do Norte,2020,Bagaço de Cana,193
+Paraíba,2020,Bagaço de Cana,283
+Pernambuco,2020,Bagaço de Cana,"1,026"
+Alagoas,2020,Bagaço de Cana,939
+Sergipe,2020,Bagaço de Cana,135
+Bahia,2020,Bagaço de Cana,54
+Minas Gerais,2020,Bagaço de Cana,"5,159"
+Espírito Santo,2020,Bagaço de Cana,219
+Rio de Janeiro,2020,Bagaço de Cana,798
+São Paulo,2020,Bagaço de Cana,"19,410"
+Paraná,2020,Bagaço de Cana,"1,780"
+Santa Catarina,2020,Bagaço de Cana,56
+Rio G. do Sul,2020,Bagaço de Cana,0
+Mato G. do Sul,2020,Bagaço de Cana,"3,527"
+Mato Grosso,2020,Bagaço de Cana,607
+Goiás,2020,Bagaço de Cana,"4,184"
+Distrito Federal,2020,Bagaço de Cana,0
+BRASIL,2020,Bagaço de Cana,"36,827"
+BRASIL,2019,Bagaço de Cana,"36,827"
+Rondônia,2019,Bagaço de Cana,0
+Acre,2019,Bagaço de Cana,0
+Amazonas,2019,Bagaço de Cana,12
+Roraima,2019,Bagaço de Cana,0
+Pará,2019,Bagaço de Cana,30
+Amapá,2019,Bagaço de Cana,0
+Tocantins,2019,Bagaço de Cana,266
+Maranhão,2019,Bagaço de Cana,11
+Piauí,2019,Bagaço de Cana,60
+Ceará,2019,Bagaço de Cana,0
+Rio G. do Norte,2019,Bagaço de Cana,189
+Paraíba,2019,Bagaço de Cana,253
+Pernambuco,2019,Bagaço de Cana,931
+Alagoas,2019,Bagaço de Cana,784
+Sergipe,2019,Bagaço de Cana,125
+Bahia,2019,Bagaço de Cana,46
+Minas Gerais,2019,Bagaço de Cana,"4,830"
+Espírito Santo,2019,Bagaço de Cana,208
+Rio de Janeiro,2019,Bagaço de Cana,724
+São Paulo,2019,Bagaço de Cana,"18,261"
+Paraná,2019,Bagaço de Cana,"1,548"
+Santa Catarina,2019,Bagaço de Cana,50
+Rio G. do Sul,2019,Bagaço de Cana,0
+Mato G. do Sul,2019,Bagaço de Cana,"3,757"
+Mato Grosso,2019,Bagaço de Cana,585
+Goiás,2019,Bagaço de Cana,"4,158"
+Distrito Federal,2019,Bagaço de Cana,0
+BRASIL,2019,Bagaço de Cana,"35,435"
+BRASIL,2018,Bagaço de Cana,"35,435"
+Rondônia,2018,Bagaço de Cana,0
+Acre,2018,Bagaço de Cana,0
+Amazonas,2018,Bagaço de Cana,12
+Roraima,2018,Bagaço de Cana,0
+Pará,2018,Bagaço de Cana,30
+Amapá,2018,Bagaço de Cana,0
+Tocantins,2018,Bagaço de Cana,261
+Maranhão,2018,Bagaço de Cana,10
+Piauí,2018,Bagaço de Cana,59
+Ceará,2018,Bagaço de Cana,0
+Rio G. do Norte,2018,Bagaço de Cana,186
+Paraíba,2018,Bagaço de Cana,250
+Pernambuco,2018,Bagaço de Cana,895
+Alagoas,2018,Bagaço de Cana,771
+Sergipe,2018,Bagaço de Cana,117
+Bahia,2018,Bagaço de Cana,46
+Minas Gerais,2018,Bagaço de Cana,"4,570"
+Espírito Santo,2018,Bagaço de Cana,183
+Rio de Janeiro,2018,Bagaço de Cana,615
+São Paulo,2018,Bagaço de Cana,"17,738"
+Paraná,2018,Bagaço de Cana,"1,517"
+Santa Catarina,2018,Bagaço de Cana,61
+Rio G. do Sul,2018,Bagaço de Cana,0
+Mato G. do Sul,2018,Bagaço de Cana,"3,516"
+Mato Grosso,2018,Bagaço de Cana,574
+Goiás,2018,Bagaço de Cana,"4,026"
+Distrito Federal,2018,Bagaço de Cana,0
+BRASIL,2018,Bagaço de Cana,"35,655"
+BRASIL,2017,Bagaço de Cana,"35,655"
+Rondônia,2017,Bagaço de Cana,0
+Acre,2017,Bagaço de Cana,0
+Amazonas,2017,Bagaço de Cana,12
+Roraima,2017,Bagaço de Cana,0
+Pará,2017,Bagaço de Cana,3
+Amapá,2017,Bagaço de Cana,0
+Tocantins,2017,Bagaço de Cana,268
+Maranhão,2017,Bagaço de Cana,11
+Piauí,2017,Bagaço de Cana,29
+Ceará,2017,Bagaço de Cana,0
+Rio G. do Norte,2017,Bagaço de Cana,191
+Paraíba,2017,Bagaço de Cana,252
+Pernambuco,2017,Bagaço de Cana,942
+Alagoas,2017,Bagaço de Cana,730
+Sergipe,2017,Bagaço de Cana,136
+Bahia,2017,Bagaço de Cana,47
+Minas Gerais,2017,Bagaço de Cana,"4,711"
+Espírito Santo,2017,Bagaço de Cana,53
+Rio de Janeiro,2017,Bagaço de Cana,517
+São Paulo,2017,Bagaço de Cana,"18,237"
+Paraná,2017,Bagaço de Cana,"1,510"
+Santa Catarina,2017,Bagaço de Cana,61
+Rio G. do Sul,2017,Bagaço de Cana,0
+Mato G. do Sul,2017,Bagaço de Cana,"3,381"
+Mato Grosso,2017,Bagaço de Cana,589
+Goiás,2017,Bagaço de Cana,"3,975"
+Distrito Federal,2017,Bagaço de Cana,0
+BRASIL,2017,Bagaço de Cana,"35,236"
+BRASIL,2016,Bagaço de Cana,"35,236"
+Rondônia,2016,Bagaço de Cana,0
+Acre,2016,Bagaço de Cana,13
+Amazonas,2016,Bagaço de Cana,8
+Roraima,2016,Bagaço de Cana,0
+Pará,2016,Bagaço de Cana,3
+Amapá,2016,Bagaço de Cana,0
+Tocantins,2016,Bagaço de Cana,255
+Maranhão,2016,Bagaço de Cana,10
+Piauí,2016,Bagaço de Cana,28
+Ceará,2016,Bagaço de Cana,0
+Rio G. do Norte,2016,Bagaço de Cana,182
+Paraíba,2016,Bagaço de Cana,207
+Pernambuco,2016,Bagaço de Cana,927
+Alagoas,2016,Bagaço de Cana,793
+Sergipe,2016,Bagaço de Cana,128
+Bahia,2016,Bagaço de Cana,45
+Minas Gerais,2016,Bagaço de Cana,"4,610"
+Espírito Santo,2016,Bagaço de Cana,51
+Rio de Janeiro,2016,Bagaço de Cana,350
+São Paulo,2016,Bagaço de Cana,"18,228"
+Paraná,2016,Bagaço de Cana,"1,575"
+Santa Catarina,2016,Bagaço de Cana,51
+Rio G. do Sul,2016,Bagaço de Cana,0
+Mato G. do Sul,2016,Bagaço de Cana,"3,280"
+Mato Grosso,2016,Bagaço de Cana,492
+Goiás,2016,Bagaço de Cana,"4,000"
+Distrito Federal,2016,Bagaço de Cana,0
+BRASIL,2016,Bagaço de Cana,"34,163"
+BRASIL,2015,Bagaço de Cana,"34,163"
+Rondônia,2015,Bagaço de Cana,0
+Acre,2015,Bagaço de Cana,13
+Amazonas,2015,Bagaço de Cana,20
+Roraima,2015,Bagaço de Cana,0
+Pará,2015,Bagaço de Cana,102
+Amapá,2015,Bagaço de Cana,0
+Tocantins,2015,Bagaço de Cana,263
+Maranhão,2015,Bagaço de Cana,11
+Piauí,2015,Bagaço de Cana,29
+Ceará,2015,Bagaço de Cana,9
+Rio G. do Norte,2015,Bagaço de Cana,187
+Paraíba,2015,Bagaço de Cana,159
+Pernambuco,2015,Bagaço de Cana,976
+Alagoas,2015,Bagaço de Cana,731
+Sergipe,2015,Bagaço de Cana,187
+Bahia,2015,Bagaço de Cana,46
+Minas Gerais,2015,Bagaço de Cana,"4,301"
+Espírito Santo,2015,Bagaço de Cana,52
+Rio de Janeiro,2015,Bagaço de Cana,144
+São Paulo,2015,Bagaço de Cana,"17,833"
+Paraná,2015,Bagaço de Cana,"1,437"
+Santa Catarina,2015,Bagaço de Cana,59
+Rio G. do Sul,2015,Bagaço de Cana,0
+Mato G. do Sul,2015,Bagaço de Cana,"3,488"
+Mato Grosso,2015,Bagaço de Cana,492
+Goiás,2015,Bagaço de Cana,"3,610"
+Distrito Federal,2015,Bagaço de Cana,14
+BRASIL,2015,Bagaço de Cana,"32,557"
+BRASIL,2014,Bagaço de Cana,"32,557"
+Rondônia,2014,Bagaço de Cana,0
+Acre,2014,Bagaço de Cana,0
+Amazonas,2014,Bagaço de Cana,0
+Roraima,2014,Bagaço de Cana,0
+Pará,2014,Bagaço de Cana,3
+Amapá,2014,Bagaço de Cana,0
+Tocantins,2014,Bagaço de Cana,269
+Maranhão,2014,Bagaço de Cana,11
+Piauí,2014,Bagaço de Cana,30
+Ceará,2014,Bagaço de Cana,0
+Rio G. do Norte,2014,Bagaço de Cana,192
+Paraíba,2014,Bagaço de Cana,163
+Pernambuco,2014,Bagaço de Cana,903
+Alagoas,2014,Bagaço de Cana,888
+Sergipe,2014,Bagaço de Cana,190
+Bahia,2014,Bagaço de Cana,47
+Minas Gerais,2014,Bagaço de Cana,"3,803"
+Espírito Santo,2014,Bagaço de Cana,54
+Rio de Janeiro,2014,Bagaço de Cana,148
+São Paulo,2014,Bagaço de Cana,"17,724"
+Paraná,2014,Bagaço de Cana,"1,466"
+Santa Catarina,2014,Bagaço de Cana,33
+Rio G. do Sul,2014,Bagaço de Cana,0
+Mato G. do Sul,2014,Bagaço de Cana,"2,642"
+Mato Grosso,2014,Bagaço de Cana,495
+Goiás,2014,Bagaço de Cana,"3,498"
+Distrito Federal,2014,Bagaço de Cana,0
+BRASIL,2014,Bagaço de Cana,"29,876"
+BRASIL,2013,Bagaço de Cana,"29,876"
+Rondônia,2013,Bagaço de Cana,0
+Acre,2013,Bagaço de Cana,0
+Amazonas,2013,Bagaço de Cana,55
+Roraima,2013,Bagaço de Cana,0
+Pará,2013,Bagaço de Cana,6
+Amapá,2013,Bagaço de Cana,0
+Tocantins,2013,Bagaço de Cana,267
+Maranhão,2013,Bagaço de Cana,8
+Piauí,2013,Bagaço de Cana,29
+Ceará,2013,Bagaço de Cana,0
+Rio G. do Norte,2013,Bagaço de Cana,190
+Paraíba,2013,Bagaço de Cana,162
+Pernambuco,2013,Bagaço de Cana,870
+Alagoas,2013,Bagaço de Cana,749
+Sergipe,2013,Bagaço de Cana,189
+Bahia,2013,Bagaço de Cana,47
+Minas Gerais,2013,Bagaço de Cana,"3,158"
+Espírito Santo,2013,Bagaço de Cana,80
+Rio de Janeiro,2013,Bagaço de Cana,175
+São Paulo,2013,Bagaço de Cana,"16,384"
+Paraná,2013,Bagaço de Cana,"1,300"
+Santa Catarina,2013,Bagaço de Cana,14
+Rio G. do Sul,2013,Bagaço de Cana,0
+Mato G. do Sul,2013,Bagaço de Cana,"2,611"
+Mato Grosso,2013,Bagaço de Cana,483
+Goiás,2013,Bagaço de Cana,"3,099"
+Distrito Federal,2013,Bagaço de Cana,0
+BRASIL,2013,Bagaço de Cana,"25,066"
+BRASIL,2012,Bagaço de Cana,
+Rondônia,2012,Bagaço de Cana,
+Acre,2012,Bagaço de Cana,
+Amazonas,2012,Bagaço de Cana,
+Roraima,2012,Bagaço de Cana,
+Pará,2012,Bagaço de Cana,
+Amapá,2012,Bagaço de Cana,
+Tocantins,2012,Bagaço de Cana,
+Maranhão,2012,Bagaço de Cana,
+Piauí,2012,Bagaço de Cana,
+Ceará,2012,Bagaço de Cana,
+Rio G. do Norte,2012,Bagaço de Cana,
+Paraíba,2012,Bagaço de Cana,
+Pernambuco,2012,Bagaço de Cana,
+Alagoas,2012,Bagaço de Cana,
+Sergipe,2012,Bagaço de Cana,
+Bahia,2012,Bagaço de Cana,
+Minas Gerais,2012,Bagaço de Cana,
+Espírito Santo,2012,Bagaço de Cana,
+Rio de Janeiro,2012,Bagaço de Cana,
+São Paulo,2012,Bagaço de Cana,
+Paraná,2012,Bagaço de Cana,
+Santa Catarina,2012,Bagaço de Cana,
+Rio G. do Sul,2012,Bagaço de Cana,
+Mato G. do Sul,2012,Bagaço de Cana,
+Mato Grosso,2012,Bagaço de Cana,
+Goiás,2012,Bagaço de Cana,
+Distrito Federal,2012,Bagaço de Cana,
+BRASIL,2011,Bagaço de Cana,"22,240"
+Rondônia,2011,Bagaço de Cana,0
+Acre,2011,Bagaço de Cana,1
+Amazonas,2011,Bagaço de Cana,2
+Roraima,2011,Bagaço de Cana,0
+Pará,2011,Bagaço de Cana,37
+Amapá,2011,Bagaço de Cana,0
+Tocantins,2011,Bagaço de Cana,20
+Maranhão,2011,Bagaço de Cana,30
+Piauí,2011,Bagaço de Cana,29
+Ceará,2011,Bagaço de Cana,30
+Rio G. do Norte,2011,Bagaço de Cana,155
+Paraíba,2011,Bagaço de Cana,207
+Pernambuco,2011,Bagaço de Cana,858
+Alagoas,2011,Bagaço de Cana,771
+Sergipe,2011,Bagaço de Cana,138
+Bahia,2011,Bagaço de Cana,77
+Minas Gerais,2011,Bagaço de Cana,"2,697"
+Espírito Santo,2011,Bagaço de Cana,83
+Rio de Janeiro,2011,Bagaço de Cana,56
+São Paulo,2011,Bagaço de Cana,"12,159"
+Paraná,2011,Bagaço de Cana,"1,254"
+Santa Catarina,2011,Bagaço de Cana,3
+Rio G. do Sul,2011,Bagaço de Cana,20
+Mato G. do Sul,2011,Bagaço de Cana,"1,310"
+Mato Grosso,2011,Bagaço de Cana,222
+Goiás,2011,Bagaço de Cana,"2,083"
+Distrito Federal,2011,Bagaço de Cana,0
+BRASIL,2023,Lenha,"2,206"
+Rondônia,2023,Lenha,5
+Acre,2023,Lenha,3
+Amazonas,2023,Lenha,7
+Roraima,2023,Lenha,0
+Pará,2023,Lenha,29
+Amapá,2023,Lenha,0
+Tocantins,2023,Lenha,0
+Maranhão,2023,Lenha,0
+Piauí,2023,Lenha,0
+Ceará,2023,Lenha,0
+Rio G. do Norte,2023,Lenha,0
+Paraíba,2023,Lenha,0
+Pernambuco,2023,Lenha,0
+Alagoas,2023,Lenha,0
+Sergipe,2023,Lenha,2
+Bahia,2023,Lenha,81
+Minas Gerais,2023,Lenha,128
+Espírito Santo,2023,Lenha,98
+Rio de Janeiro,2023,Lenha,89
+São Paulo,2023,Lenha,238
+Paraná,2023,Lenha,481
+Santa Catarina,2023,Lenha,437
+Rio G. do Sul,2023,Lenha,53
+Mato G. do Sul,2023,Lenha,160
+Mato Grosso,2023,Lenha,376
+Goiás,2023,Lenha,20
+Distrito Federal,2023,Lenha,0
+BRASIL,2023,Lenha,"2,239"
+BRASIL,2022,Lenha,"2,239"
+Rondônia,2022,Lenha,6
+Acre,2022,Lenha,3
+Amazonas,2022,Lenha,53
+Roraima,2022,Lenha,172
+Pará,2022,Lenha,30
+Amapá,2022,Lenha,0
+Tocantins,2022,Lenha,0
+Maranhão,2022,Lenha,0
+Piauí,2022,Lenha,0
+Ceará,2022,Lenha,0
+Rio G. do Norte,2022,Lenha,0
+Paraíba,2022,Lenha,0
+Pernambuco,2022,Lenha,0
+Alagoas,2022,Lenha,0
+Sergipe,2022,Lenha,2
+Bahia,2022,Lenha,70
+Minas Gerais,2022,Lenha,101
+Espírito Santo,2022,Lenha,91
+Rio de Janeiro,2022,Lenha,92
+São Paulo,2022,Lenha,253
+Paraná,2022,Lenha,427
+Santa Catarina,2022,Lenha,456
+Rio G. do Sul,2022,Lenha,32
+Mato G. do Sul,2022,Lenha,120
+Mato Grosso,2022,Lenha,319
+Goiás,2022,Lenha,13
+Distrito Federal,2022,Lenha,0
+BRASIL,2022,Lenha,"2,224"
+BRASIL,2021,Lenha,"2,224"
+Rondônia,2021,Lenha,6
+Acre,2021,Lenha,8
+Amazonas,2021,Lenha,0
+Roraima,2021,Lenha,0
+Pará,2021,Lenha,48
+Amapá,2021,Lenha,0
+Tocantins,2021,Lenha,0
+Maranhão,2021,Lenha,0
+Piauí,2021,Lenha,0
+Ceará,2021,Lenha,0
+Rio G. do Norte,2021,Lenha,0
+Paraíba,2021,Lenha,0
+Pernambuco,2021,Lenha,0
+Alagoas,2021,Lenha,0
+Sergipe,2021,Lenha,8
+Bahia,2021,Lenha,95
+Minas Gerais,2021,Lenha,162
+Espírito Santo,2021,Lenha,96
+Rio de Janeiro,2021,Lenha,92
+São Paulo,2021,Lenha,287
+Paraná,2021,Lenha,534
+Santa Catarina,2021,Lenha,484
+Rio G. do Sul,2021,Lenha,21
+Mato G. do Sul,2021,Lenha,64
+Mato Grosso,2021,Lenha,297
+Goiás,2021,Lenha,23
+Distrito Federal,2021,Lenha,0
+BRASIL,2021,Lenha,"2,362"
+BRASIL,2020,Lenha,"2,362"
+Rondônia,2020,Lenha,6
+Acre,2020,Lenha,7
+Amazonas,2020,Lenha,55
+Roraima,2020,Lenha,0
+Pará,2020,Lenha,61
+Amapá,2020,Lenha,0
+Tocantins,2020,Lenha,0
+Maranhão,2020,Lenha,0
+Piauí,2020,Lenha,0
+Ceará,2020,Lenha,0
+Rio G. do Norte,2020,Lenha,0
+Paraíba,2020,Lenha,0
+Pernambuco,2020,Lenha,0
+Alagoas,2020,Lenha,0
+Sergipe,2020,Lenha,9
+Bahia,2020,Lenha,130
+Minas Gerais,2020,Lenha,245
+Espírito Santo,2020,Lenha,90
+Rio de Janeiro,2020,Lenha,87
+São Paulo,2020,Lenha,277
+Paraná,2020,Lenha,486
+Santa Catarina,2020,Lenha,505
+Rio G. do Sul,2020,Lenha,18
+Mato G. do Sul,2020,Lenha,67
+Mato Grosso,2020,Lenha,276
+Goiás,2020,Lenha,43
+Distrito Federal,2020,Lenha,0
+BRASIL,2020,Lenha,"2,274"
+BRASIL,2019,Lenha,"2,274"
+Rondônia,2019,Lenha,2
+Acre,2019,Lenha,7
+Amazonas,2019,Lenha,0
+Roraima,2019,Lenha,0
+Pará,2019,Lenha,77
+Amapá,2019,Lenha,0
+Tocantins,2019,Lenha,0
+Maranhão,2019,Lenha,0
+Piauí,2019,Lenha,0
+Ceará,2019,Lenha,0
+Rio G. do Norte,2019,Lenha,0
+Paraíba,2019,Lenha,0
+Pernambuco,2019,Lenha,0
+Alagoas,2019,Lenha,0
+Sergipe,2019,Lenha,8
+Bahia,2019,Lenha,128
+Minas Gerais,2019,Lenha,244
+Espírito Santo,2019,Lenha,84
+Rio de Janeiro,2019,Lenha,104
+São Paulo,2019,Lenha,257
+Paraná,2019,Lenha,474
+Santa Catarina,2019,Lenha,553
+Rio G. do Sul,2019,Lenha,19
+Mato G. do Sul,2019,Lenha,61
+Mato Grosso,2019,Lenha,211
+Goiás,2019,Lenha,42
+Distrito Federal,2019,Lenha,0
+BRASIL,2019,Lenha,"2,360"
+BRASIL,2018,Lenha,"2,360"
+Rondônia,2018,Lenha,0
+Acre,2018,Lenha,7
+Amazonas,2018,Lenha,47
+Roraima,2018,Lenha,0
+Pará,2018,Lenha,73
+Amapá,2018,Lenha,0
+Tocantins,2018,Lenha,0
+Maranhão,2018,Lenha,0
+Piauí,2018,Lenha,0
+Ceará,2018,Lenha,0
+Rio G. do Norte,2018,Lenha,0
+Paraíba,2018,Lenha,0
+Pernambuco,2018,Lenha,0
+Alagoas,2018,Lenha,0
+Sergipe,2018,Lenha,8
+Bahia,2018,Lenha,130
+Minas Gerais,2018,Lenha,245
+Espírito Santo,2018,Lenha,98
+Rio de Janeiro,2018,Lenha,107
+São Paulo,2018,Lenha,283
+Paraná,2018,Lenha,482
+Santa Catarina,2018,Lenha,586
+Rio G. do Sul,2018,Lenha,19
+Mato G. do Sul,2018,Lenha,63
+Mato Grosso,2018,Lenha,170
+Goiás,2018,Lenha,42
+Distrito Federal,2018,Lenha,0
+BRASIL,2018,Lenha,"2,037"
+BRASIL,2017,Lenha,"2,037"
+Rondônia,2017,Lenha,0
+Acre,2017,Lenha,7
+Amazonas,2017,Lenha,29
+Roraima,2017,Lenha,0
+Pará,2017,Lenha,114
+Amapá,2017,Lenha,0
+Tocantins,2017,Lenha,0
+Maranhão,2017,Lenha,0
+Piauí,2017,Lenha,0
+Ceará,2017,Lenha,0
+Rio G. do Norte,2017,Lenha,0
+Paraíba,2017,Lenha,0
+Pernambuco,2017,Lenha,0
+Alagoas,2017,Lenha,0
+Sergipe,2017,Lenha,8
+Bahia,2017,Lenha,139
+Minas Gerais,2017,Lenha,189
+Espírito Santo,2017,Lenha,0
+Rio de Janeiro,2017,Lenha,106
+São Paulo,2017,Lenha,203
+Paraná,2017,Lenha,422
+Santa Catarina,2017,Lenha,485
+Rio G. do Sul,2017,Lenha,19
+Mato G. do Sul,2017,Lenha,48
+Mato Grosso,2017,Lenha,224
+Goiás,2017,Lenha,42
+Distrito Federal,2017,Lenha,0
+BRASIL,2017,Lenha,"1,970"
+BRASIL,2016,Lenha,"1,970"
+Rondônia,2016,Lenha,0
+Acre,2016,Lenha,7
+Amazonas,2016,Lenha,0
+Roraima,2016,Lenha,0
+Pará,2016,Lenha,118
+Amapá,2016,Lenha,0
+Tocantins,2016,Lenha,0
+Maranhão,2016,Lenha,0
+Piauí,2016,Lenha,0
+Ceará,2016,Lenha,0
+Rio G. do Norte,2016,Lenha,0
+Paraíba,2016,Lenha,0
+Pernambuco,2016,Lenha,0
+Alagoas,2016,Lenha,0
+Sergipe,2016,Lenha,8
+Bahia,2016,Lenha,120
+Minas Gerais,2016,Lenha,175
+Espírito Santo,2016,Lenha,99
+Rio de Janeiro,2016,Lenha,99
+São Paulo,2016,Lenha,168
+Paraná,2016,Lenha,486
+Santa Catarina,2016,Lenha,362
+Rio G. do Sul,2016,Lenha,9
+Mato G. do Sul,2016,Lenha,76
+Mato Grosso,2016,Lenha,218
+Goiás,2016,Lenha,24
+Distrito Federal,2016,Lenha,0
+BRASIL,2016,Lenha,"2,180"
+BRASIL,2015,Lenha,"2,180"
+Rondônia,2015,Lenha,21
+Acre,2015,Lenha,7
+Amazonas,2015,Lenha,46
+Roraima,2015,Lenha,35
+Pará,2015,Lenha,53
+Amapá,2015,Lenha,0
+Tocantins,2015,Lenha,0
+Maranhão,2015,Lenha,0
+Piauí,2015,Lenha,0
+Ceará,2015,Lenha,0
+Rio G. do Norte,2015,Lenha,0
+Paraíba,2015,Lenha,0
+Pernambuco,2015,Lenha,0
+Alagoas,2015,Lenha,0
+Sergipe,2015,Lenha,8
+Bahia,2015,Lenha,122
+Minas Gerais,2015,Lenha,261
+Espírito Santo,2015,Lenha,116
+Rio de Janeiro,2015,Lenha,0
+São Paulo,2015,Lenha,211
+Paraná,2015,Lenha,479
+Santa Catarina,2015,Lenha,451
+Rio G. do Sul,2015,Lenha,32
+Mato G. do Sul,2015,Lenha,63
+Mato Grosso,2015,Lenha,248
+Goiás,2015,Lenha,26
+Distrito Federal,2015,Lenha,0
+BRASIL,2015,Lenha,"1,952"
+BRASIL,2014,Lenha,"1,952"
+Rondônia,2014,Lenha,0
+Acre,2014,Lenha,7
+Amazonas,2014,Lenha,0
+Roraima,2014,Lenha,23
+Pará,2014,Lenha,16
+Amapá,2014,Lenha,0
+Tocantins,2014,Lenha,0
+Maranhão,2014,Lenha,0
+Piauí,2014,Lenha,0
+Ceará,2014,Lenha,0
+Rio G. do Norte,2014,Lenha,0
+Paraíba,2014,Lenha,0
+Pernambuco,2014,Lenha,0
+Alagoas,2014,Lenha,0
+Sergipe,2014,Lenha,8
+Bahia,2014,Lenha,127
+Minas Gerais,2014,Lenha,167
+Espírito Santo,2014,Lenha,104
+Rio de Janeiro,2014,Lenha,0
+São Paulo,2014,Lenha,191
+Paraná,2014,Lenha,491
+Santa Catarina,2014,Lenha,497
+Rio G. do Sul,2014,Lenha,8
+Mato G. do Sul,2014,Lenha,64
+Mato Grosso,2014,Lenha,222
+Goiás,2014,Lenha,26
+Distrito Federal,2014,Lenha,0
+BRASIL,2014,Lenha,"1,735"
+BRASIL,2013,Lenha,"1,735"
+Rondônia,2013,Lenha,0
+Acre,2013,Lenha,8
+Amazonas,2013,Lenha,0
+Roraima,2013,Lenha,25
+Pará,2013,Lenha,72
+Amapá,2013,Lenha,0
+Tocantins,2013,Lenha,0
+Maranhão,2013,Lenha,0
+Piauí,2013,Lenha,0
+Ceará,2013,Lenha,0
+Rio G. do Norte,2013,Lenha,0
+Paraíba,2013,Lenha,0
+Pernambuco,2013,Lenha,0
+Alagoas,2013,Lenha,0
+Sergipe,2013,Lenha,6
+Bahia,2013,Lenha,39
+Minas Gerais,2013,Lenha,46
+Espírito Santo,2013,Lenha,103
+Rio de Janeiro,2013,Lenha,0
+São Paulo,2013,Lenha,263
+Paraná,2013,Lenha,466
+Santa Catarina,2013,Lenha,466
+Rio G. do Sul,2013,Lenha,35
+Mato G. do Sul,2013,Lenha,51
+Mato Grosso,2013,Lenha,152
+Goiás,2013,Lenha,3
+Distrito Federal,2013,Lenha,0
+BRASIL,2013,Lenha,"1,626"
+BRASIL,2012,Lenha,"1,626"
+Rondônia,2012,Lenha,0
+Acre,2012,Lenha,0
+Amazonas,2012,Lenha,44
+Roraima,2012,Lenha,24
+Pará,2012,Lenha,68
+Amapá,2012,Lenha,0
+Tocantins,2012,Lenha,0
+Maranhão,2012,Lenha,0
+Piauí,2012,Lenha,0
+Ceará,2012,Lenha,0
+Rio G. do Norte,2012,Lenha,0
+Paraíba,2012,Lenha,0
+Pernambuco,2012,Lenha,0
+Alagoas,2012,Lenha,0
+Sergipe,2012,Lenha,0
+Bahia,2012,Lenha,39
+Minas Gerais,2012,Lenha,56
+Espírito Santo,2012,Lenha,104
+Rio de Janeiro,2012,Lenha,0
+São Paulo,2012,Lenha,310
+Paraná,2012,Lenha,417
+Santa Catarina,2012,Lenha,413
+Rio G. do Sul,2012,Lenha,42
+Mato G. do Sul,2012,Lenha,23
+Mato Grosso,2012,Lenha,83
+Goiás,2012,Lenha,2
+Distrito Federal,2012,Lenha,0
+BRASIL,2012,Lenha,"1,532"
+BRASIL,2011,Lenha,"1,532"
+Rondônia,2011,Lenha,0
+Acre,2011,Lenha,0
+Amazonas,2011,Lenha,42
+Roraima,2011,Lenha,24
+Pará,2011,Lenha,70
+Amapá,2011,Lenha,0
+Tocantins,2011,Lenha,0
+Maranhão,2011,Lenha,0
+Piauí,2011,Lenha,0
+Ceará,2011,Lenha,0
+Rio G. do Norte,2011,Lenha,0
+Paraíba,2011,Lenha,0
+Pernambuco,2011,Lenha,0
+Alagoas,2011,Lenha,0
+Sergipe,2011,Lenha,0
+Bahia,2011,Lenha,43
+Minas Gerais,2011,Lenha,51
+Espírito Santo,2011,Lenha,96
+Rio de Janeiro,2011,Lenha,0
+São Paulo,2011,Lenha,200
+Paraná,2011,Lenha,497
+Santa Catarina,2011,Lenha,354
+Rio G. do Sul,2011,Lenha,43
+Mato G. do Sul,2011,Lenha,23
+Mato Grosso,2011,Lenha,86
+Goiás,2011,Lenha,2
+Distrito Federal,2011,Lenha,0
+BRASIL,2023,Lixívia,"15,116"
+Rondônia,2023,Lixívia,0
+Acre,2023,Lixívia,0
+Amazonas,2023,Lixívia,0
+Roraima,2023,Lixívia,0
+Pará,2023,Lixívia,0
+Amapá,2023,Lixívia,0
+Tocantins,2023,Lixívia,0
+Maranhão,2023,Lixívia,"1,731"
+Piauí,2023,Lixívia,0
+Ceará,2023,Lixívia,0
+Rio G. do Norte,2023,Lixívia,0
+Paraíba,2023,Lixívia,0
+Pernambuco,2023,Lixívia,0
+Alagoas,2023,Lixívia,0
+Sergipe,2023,Lixívia,0
+Bahia,2023,Lixívia,"2,448"
+Minas Gerais,2023,Lixívia,868
+Espírito Santo,2023,Lixívia,"1,243"
+Rio de Janeiro,2023,Lixívia,0
+São Paulo,2023,Lixívia,"1,199"
+Paraná,2023,Lixívia,"2,352"
+Santa Catarina,2023,Lixívia,468
+Rio G. do Sul,2023,Lixívia,"1,100"
+Mato G. do Sul,2023,Lixívia,"3,709"
+Mato Grosso,2023,Lixívia,0
+Goiás,2023,Lixívia,0
+Distrito Federal,2023,Lixívia,0
+BRASIL,2023,Lixívia,"17,294"
+BRASIL,2022,Lixívia,"17,294"
+Rondônia,2022,Lixívia,0
+Acre,2022,Lixívia,0
+Amazonas,2022,Lixívia,0
+Roraima,2022,Lixívia,0
+Pará,2022,Lixívia,0
+Amapá,2022,Lixívia,0
+Tocantins,2022,Lixívia,0
+Maranhão,2022,Lixívia,"1,751"
+Piauí,2022,Lixívia,0
+Ceará,2022,Lixívia,0
+Rio G. do Norte,2022,Lixívia,0
+Paraíba,2022,Lixívia,0
+Pernambuco,2022,Lixívia,0
+Alagoas,2022,Lixívia,0
+Sergipe,2022,Lixívia,0
+Bahia,2022,Lixívia,"2,739"
+Minas Gerais,2022,Lixívia,612
+Espírito Santo,2022,Lixívia,"1,142"
+Rio de Janeiro,2022,Lixívia,0
+São Paulo,2022,Lixívia,"2,256"
+Paraná,2022,Lixívia,"3,203"
+Santa Catarina,2022,Lixívia,361
+Rio G. do Sul,2022,Lixívia,"1,252"
+Mato G. do Sul,2022,Lixívia,"3,978"
+Mato Grosso,2022,Lixívia,0
+Goiás,2022,Lixívia,0
+Distrito Federal,2022,Lixívia,0
+BRASIL,2022,Lixívia,"15,144"
+BRASIL,2021,Lixívia,"15,144"
+Rondônia,2021,Lixívia,0
+Acre,2021,Lixívia,0
+Amazonas,2021,Lixívia,0
+Roraima,2021,Lixívia,0
+Pará,2021,Lixívia,0
+Amapá,2021,Lixívia,0
+Tocantins,2021,Lixívia,0
+Maranhão,2021,Lixívia,"1,386"
+Piauí,2021,Lixívia,0
+Ceará,2021,Lixívia,0
+Rio G. do Norte,2021,Lixívia,0
+Paraíba,2021,Lixívia,0
+Pernambuco,2021,Lixívia,0
+Alagoas,2021,Lixívia,0
+Sergipe,2021,Lixívia,0
+Bahia,2021,Lixívia,"2,650"
+Minas Gerais,2021,Lixívia,579
+Espírito Santo,2021,Lixívia,"1,209"
+Rio de Janeiro,2021,Lixívia,0
+São Paulo,2021,Lixívia,"1,625"
+Paraná,2021,Lixívia,"2,444"
+Santa Catarina,2021,Lixívia,371
+Rio G. do Sul,2021,Lixívia,"1,387"
+Mato G. do Sul,2021,Lixívia,"3,494"
+Mato Grosso,2021,Lixívia,0
+Goiás,2021,Lixívia,0
+Distrito Federal,2021,Lixívia,0
+BRASIL,2021,Lixívia,"14,475"
+BRASIL,2020,Lixívia,"14,475"
+Rondônia,2020,Lixívia,0
+Acre,2020,Lixívia,0
+Amazonas,2020,Lixívia,0
+Roraima,2020,Lixívia,0
+Pará,2020,Lixívia,0
+Amapá,2020,Lixívia,0
+Tocantins,2020,Lixívia,0
+Maranhão,2020,Lixívia,"1,594"
+Piauí,2020,Lixívia,0
+Ceará,2020,Lixívia,0
+Rio G. do Norte,2020,Lixívia,0
+Paraíba,2020,Lixívia,0
+Pernambuco,2020,Lixívia,0
+Alagoas,2020,Lixívia,0
+Sergipe,2020,Lixívia,0
+Bahia,2020,Lixívia,"2,452"
+Minas Gerais,2020,Lixívia,539
+Espírito Santo,2020,Lixívia,"1,129"
+Rio de Janeiro,2020,Lixívia,0
+São Paulo,2020,Lixívia,"1,620"
+Paraná,2020,Lixívia,"2,342"
+Santa Catarina,2020,Lixívia,327
+Rio G. do Sul,2020,Lixívia,"1,379"
+Mato G. do Sul,2020,Lixívia,"3,093"
+Mato Grosso,2020,Lixívia,0
+Goiás,2020,Lixívia,0
+Distrito Federal,2020,Lixívia,0
+BRASIL,2020,Lixívia,"13,010"
+BRASIL,2019,Lixívia,"13,010"
+Rondônia,2019,Lixívia,0
+Acre,2019,Lixívia,0
+Amazonas,2019,Lixívia,0
+Roraima,2019,Lixívia,0
+Pará,2019,Lixívia,0
+Amapá,2019,Lixívia,0
+Tocantins,2019,Lixívia,0
+Maranhão,2019,Lixívia,"1,251"
+Piauí,2019,Lixívia,0
+Ceará,2019,Lixívia,0
+Rio G. do Norte,2019,Lixívia,0
+Paraíba,2019,Lixívia,0
+Pernambuco,2019,Lixívia,0
+Alagoas,2019,Lixívia,0
+Sergipe,2019,Lixívia,0
+Bahia,2019,Lixívia,"2,410"
+Minas Gerais,2019,Lixívia,507
+Espírito Santo,2019,Lixívia,"1,061"
+Rio de Janeiro,2019,Lixívia,0
+São Paulo,2019,Lixívia,"1,510"
+Paraná,2019,Lixívia,"2,177"
+Santa Catarina,2019,Lixívia,318
+Rio G. do Sul,2019,Lixívia,828
+Mato G. do Sul,2019,Lixívia,"2,949"
+Mato Grosso,2019,Lixívia,0
+Goiás,2019,Lixívia,0
+Distrito Federal,2019,Lixívia,0
+BRASIL,2019,Lixívia,"14,081"
+BRASIL,2018,Lixívia,"14,081"
+Rondônia,2018,Lixívia,0
+Acre,2018,Lixívia,0
+Amazonas,2018,Lixívia,0
+Roraima,2018,Lixívia,0
+Pará,2018,Lixívia,0
+Amapá,2018,Lixívia,0
+Tocantins,2018,Lixívia,0
+Maranhão,2018,Lixívia,"1,669"
+Piauí,2018,Lixívia,0
+Ceará,2018,Lixívia,0
+Rio G. do Norte,2018,Lixívia,0
+Paraíba,2018,Lixívia,0
+Pernambuco,2018,Lixívia,0
+Alagoas,2018,Lixívia,0
+Sergipe,2018,Lixívia,0
+Bahia,2018,Lixívia,"2,644"
+Minas Gerais,2018,Lixívia,542
+Espírito Santo,2018,Lixívia,"1,273"
+Rio de Janeiro,2018,Lixívia,0
+São Paulo,2018,Lixívia,"1,546"
+Paraná,2018,Lixívia,"2,165"
+Santa Catarina,2018,Lixívia,361
+Rio G. do Sul,2018,Lixívia,836
+Mato G. do Sul,2018,Lixívia,"3,044"
+Mato Grosso,2018,Lixívia,0
+Goiás,2018,Lixívia,0
+Distrito Federal,2018,Lixívia,0
+BRASIL,2018,Lixívia,"11,693"
+BRASIL,2017,Lixívia,"11,693"
+Rondônia,2017,Lixívia,0
+Acre,2017,Lixívia,0
+Amazonas,2017,Lixívia,0
+Roraima,2017,Lixívia,0
+Pará,2017,Lixívia,0
+Amapá,2017,Lixívia,0
+Tocantins,2017,Lixívia,0
+Maranhão,2017,Lixívia,"1,706"
+Piauí,2017,Lixívia,0
+Ceará,2017,Lixívia,0
+Rio G. do Norte,2017,Lixívia,0
+Paraíba,2017,Lixívia,0
+Pernambuco,2017,Lixívia,0
+Alagoas,2017,Lixívia,0
+Sergipe,2017,Lixívia,0
+Bahia,2017,Lixívia,"2,834"
+Minas Gerais,2017,Lixívia,542
+Espírito Santo,2017,Lixívia,117
+Rio de Janeiro,2017,Lixívia,0
+São Paulo,2017,Lixívia,"1,560"
+Paraná,2017,Lixívia,"1,995"
+Santa Catarina,2017,Lixívia,332
+Rio G. do Sul,2017,Lixívia,559
+Mato G. do Sul,2017,Lixívia,"2,047"
+Mato Grosso,2017,Lixívia,0
+Goiás,2017,Lixívia,0
+Distrito Federal,2017,Lixívia,0
+BRASIL,2017,Lixívia,"12,031"
+BRASIL,2016,Lixívia,"12,031"
+Rondônia,2016,Lixívia,0
+Acre,2016,Lixívia,0
+Amazonas,2016,Lixívia,0
+Roraima,2016,Lixívia,0
+Pará,2016,Lixívia,0
+Amapá,2016,Lixívia,0
+Tocantins,2016,Lixívia,0
+Maranhão,2016,Lixívia,"1,574"
+Piauí,2016,Lixívia,0
+Ceará,2016,Lixívia,0
+Rio G. do Norte,2016,Lixívia,0
+Paraíba,2016,Lixívia,0
+Pernambuco,2016,Lixívia,0
+Alagoas,2016,Lixívia,0
+Sergipe,2016,Lixívia,0
+Bahia,2016,Lixívia,"2,666"
+Minas Gerais,2016,Lixívia,688
+Espírito Santo,2016,Lixívia,"1,313"
+Rio de Janeiro,2016,Lixívia,0
+São Paulo,2016,Lixívia,"1,357"
+Paraná,2016,Lixívia,"1,364"
+Santa Catarina,2016,Lixívia,292
+Rio G. do Sul,2016,Lixívia,781
+Mato G. do Sul,2016,Lixívia,"1,997"
+Mato Grosso,2016,Lixívia,0
+Goiás,2016,Lixívia,0
+Distrito Federal,2016,Lixívia,0
+BRASIL,2016,Lixívia,"11,051"
+BRASIL,2015,Lixívia,"11,051"
+Rondônia,2015,Lixívia,0
+Acre,2015,Lixívia,0
+Amazonas,2015,Lixívia,0
+Roraima,2015,Lixívia,0
+Pará,2015,Lixívia,0
+Amapá,2015,Lixívia,0
+Tocantins,2015,Lixívia,0
+Maranhão,2015,Lixívia,"1,610"
+Piauí,2015,Lixívia,0
+Ceará,2015,Lixívia,0
+Rio G. do Norte,2015,Lixívia,0
+Paraíba,2015,Lixívia,0
+Pernambuco,2015,Lixívia,0
+Alagoas,2015,Lixívia,0
+Sergipe,2015,Lixívia,0
+Bahia,2015,Lixívia,"2,319"
+Minas Gerais,2015,Lixívia,498
+Espírito Santo,2015,Lixívia,"1,404"
+Rio de Janeiro,2015,Lixívia,0
+São Paulo,2015,Lixívia,"1,592"
+Paraná,2015,Lixívia,325
+Santa Catarina,2015,Lixívia,320
+Rio G. do Sul,2015,Lixívia,726
+Mato G. do Sul,2015,Lixívia,"2,258"
+Mato Grosso,2015,Lixívia,0
+Goiás,2015,Lixívia,0
+Distrito Federal,2015,Lixívia,0
+BRASIL,2015,Lixívia,"10,478"
+BRASIL,2014,Lixívia,"10,478"
+Rondônia,2014,Lixívia,0
+Acre,2014,Lixívia,0
+Amazonas,2014,Lixívia,0
+Roraima,2014,Lixívia,0
+Pará,2014,Lixívia,0
+Amapá,2014,Lixívia,0
+Tocantins,2014,Lixívia,0
+Maranhão,2014,Lixívia,"1,117"
+Piauí,2014,Lixívia,0
+Ceará,2014,Lixívia,0
+Rio G. do Norte,2014,Lixívia,0
+Paraíba,2014,Lixívia,0
+Pernambuco,2014,Lixívia,0
+Alagoas,2014,Lixívia,0
+Sergipe,2014,Lixívia,0
+Bahia,2014,Lixívia,"2,499"
+Minas Gerais,2014,Lixívia,498
+Espírito Santo,2014,Lixívia,"1,398"
+Rio de Janeiro,2014,Lixívia,0
+São Paulo,2014,Lixívia,"1,568"
+Paraná,2014,Lixívia,334
+Santa Catarina,2014,Lixívia,346
+Rio G. do Sul,2014,Lixívia,435
+Mato G. do Sul,2014,Lixívia,"2,282"
+Mato Grosso,2014,Lixívia,0
+Goiás,2014,Lixívia,0
+Distrito Federal,2014,Lixívia,0
+BRASIL,2014,Lixívia,"8,073"
+BRASIL,2013,Lixívia,"8,073"
+Rondônia,2013,Lixívia,0
+Acre,2013,Lixívia,0
+Amazonas,2013,Lixívia,0
+Roraima,2013,Lixívia,0
+Pará,2013,Lixívia,219
+Amapá,2013,Lixívia,0
+Tocantins,2013,Lixívia,0
+Maranhão,2013,Lixívia,0
+Piauí,2013,Lixívia,0
+Ceará,2013,Lixívia,0
+Rio G. do Norte,2013,Lixívia,0
+Paraíba,2013,Lixívia,0
+Pernambuco,2013,Lixívia,0
+Alagoas,2013,Lixívia,0
+Sergipe,2013,Lixívia,0
+Bahia,2013,Lixívia,"2,226"
+Minas Gerais,2013,Lixívia,498
+Espírito Santo,2013,Lixívia,"1,353"
+Rio de Janeiro,2013,Lixívia,0
+São Paulo,2013,Lixívia,"1,831"
+Paraná,2013,Lixívia,408
+Santa Catarina,2013,Lixívia,327
+Rio G. do Sul,2013,Lixívia,189
+Mato G. do Sul,2013,Lixívia,"1,023"
+Mato Grosso,2013,Lixívia,0
+Goiás,2013,Lixívia,0
+Distrito Federal,2013,Lixívia,0
+BRASIL,2013,Lixívia,"8,014"
+BRASIL,2012,Lixívia,"8,014"
+Rondônia,2012,Lixívia,0
+Acre,2012,Lixívia,0
+Amazonas,2012,Lixívia,0
+Roraima,2012,Lixívia,0
+Pará,2012,Lixívia,206
+Amapá,2012,Lixívia,0
+Tocantins,2012,Lixívia,0
+Maranhão,2012,Lixívia,0
+Piauí,2012,Lixívia,0
+Ceará,2012,Lixívia,0
+Rio G. do Norte,2012,Lixívia,0
+Paraíba,2012,Lixívia,0
+Pernambuco,2012,Lixívia,0
+Alagoas,2012,Lixívia,0
+Sergipe,2012,Lixívia,0
+Bahia,2012,Lixívia,"2,317"
+Minas Gerais,2012,Lixívia,674
+Espírito Santo,2012,Lixívia,"1,414"
+Rio de Janeiro,2012,Lixívia,0
+São Paulo,2012,Lixívia,"1,580"
+Paraná,2012,Lixívia,366
+Santa Catarina,2012,Lixívia,283
+Rio G. do Sul,2012,Lixívia,217
+Mato G. do Sul,2012,Lixívia,958
+Mato Grosso,2012,Lixívia,0
+Goiás,2012,Lixívia,0
+Distrito Federal,2012,Lixívia,0
+BRASIL,2012,Lixívia,"7,861"
+BRASIL,2011,Lixívia,"7,861"
+Rondônia,2011,Lixívia,0
+Acre,2011,Lixívia,0
+Amazonas,2011,Lixívia,0
+Roraima,2011,Lixívia,0
+Pará,2011,Lixívia,210
+Amapá,2011,Lixívia,0
+Tocantins,2011,Lixívia,0
+Maranhão,2011,Lixívia,0
+Piauí,2011,Lixívia,0
+Ceará,2011,Lixívia,0
+Rio G. do Norte,2011,Lixívia,0
+Paraíba,2011,Lixívia,0
+Pernambuco,2011,Lixívia,0
+Alagoas,2011,Lixívia,0
+Sergipe,2011,Lixívia,0
+Bahia,2011,Lixívia,"2,420"
+Minas Gerais,2011,Lixívia,674
+Espírito Santo,2011,Lixívia,"1,276"
+Rio de Janeiro,2011,Lixívia,0
+São Paulo,2011,Lixívia,"1,480"
+Paraná,2011,Lixívia,381
+Santa Catarina,2011,Lixívia,277
+Rio G. do Sul,2011,Lixívia,208
+Mato G. do Sul,2011,Lixívia,935
+Mato Grosso,2011,Lixívia,0
+Goiás,2011,Lixívia,0
+Distrito Federal,2011,Lixívia,
+BRASIL,2023,Outras Renováveis,"3,546"
+Rondônia,2023,Outras Renováveis,12
+Acre,2023,Outras Renováveis,8
+Amazonas,2023,Outras Renováveis,5
+Roraima,2023,Outras Renováveis,296
+Pará,2023,Outras Renováveis,15
+Amapá,2023,Outras Renováveis,0
+Tocantins,2023,Outras Renováveis,1
+Maranhão,2023,Outras Renováveis,232
+Piauí,2023,Outras Renováveis,0
+Ceará,2023,Outras Renováveis,1
+Rio G. do Norte,2023,Outras Renováveis,0
+Paraíba,2023,Outras Renováveis,49
+Pernambuco,2023,Outras Renováveis,213
+Alagoas,2023,Outras Renováveis,13
+Sergipe,2023,Outras Renováveis,0
+Bahia,2023,Outras Renováveis,98
+Minas Gerais,2023,Outras Renováveis,962
+Espírito Santo,2023,Outras Renováveis,40
+Rio de Janeiro,2023,Outras Renováveis,442
+São Paulo,2023,Outras Renováveis,420
+Paraná,2023,Outras Renováveis,175
+Santa Catarina,2023,Outras Renováveis,77
+Rio G. do Sul,2023,Outras Renováveis,133
+Mato G. do Sul,2023,Outras Renováveis,127
+Mato Grosso,2023,Outras Renováveis,177
+Goiás,2023,Outras Renováveis,52
+Distrito Federal,2023,Outras Renováveis,0
+BRASIL,2023,Outras Renováveis,"2,810"
+BRASIL,2022,Outras Renováveis,"2,810"
+Rondônia,2022,Outras Renováveis,10
+Acre,2022,Outras Renováveis,0
+Amazonas,2022,Outras Renováveis,5
+Roraima,2022,Outras Renováveis,9
+Pará,2022,Outras Renováveis,11
+Amapá,2022,Outras Renováveis,0
+Tocantins,2022,Outras Renováveis,1
+Maranhão,2022,Outras Renováveis,189
+Piauí,2022,Outras Renováveis,0
+Ceará,2022,Outras Renováveis,0
+Rio G. do Norte,2022,Outras Renováveis,0
+Paraíba,2022,Outras Renováveis,43
+Pernambuco,2022,Outras Renováveis,212
+Alagoas,2022,Outras Renováveis,7
+Sergipe,2022,Outras Renováveis,0
+Bahia,2022,Outras Renováveis,121
+Minas Gerais,2022,Outras Renováveis,668
+Espírito Santo,2022,Outras Renováveis,41
+Rio de Janeiro,2022,Outras Renováveis,447
+São Paulo,2022,Outras Renováveis,446
+Paraná,2022,Outras Renováveis,112
+Santa Catarina,2022,Outras Renováveis,71
+Rio G. do Sul,2022,Outras Renováveis,124
+Mato G. do Sul,2022,Outras Renováveis,141
+Mato Grosso,2022,Outras Renováveis,107
+Goiás,2022,Outras Renováveis,45
+Distrito Federal,2022,Outras Renováveis,0
+BRASIL,2022,Outras Renováveis,"3,308"
+BRASIL,2021,Outras Renováveis,"3,308"
+Rondônia,2021,Outras Renováveis,21
+Acre,2021,Outras Renováveis,0
+Amazonas,2021,Outras Renováveis,16
+Roraima,2021,Outras Renováveis,0
+Pará,2021,Outras Renováveis,21
+Amapá,2021,Outras Renováveis,0
+Tocantins,2021,Outras Renováveis,1
+Maranhão,2021,Outras Renováveis,182
+Piauí,2021,Outras Renováveis,0
+Ceará,2021,Outras Renováveis,0
+Rio G. do Norte,2021,Outras Renováveis,0
+Paraíba,2021,Outras Renováveis,33
+Pernambuco,2021,Outras Renováveis,165
+Alagoas,2021,Outras Renováveis,2
+Sergipe,2021,Outras Renováveis,0
+Bahia,2021,Outras Renováveis,116
+Minas Gerais,2021,Outras Renováveis,"1,047"
+Espírito Santo,2021,Outras Renováveis,42
+Rio de Janeiro,2021,Outras Renováveis,464
+São Paulo,2021,Outras Renováveis,371
+Paraná,2021,Outras Renováveis,92
+Santa Catarina,2021,Outras Renováveis,51
+Rio G. do Sul,2021,Outras Renováveis,187
+Mato G. do Sul,2021,Outras Renováveis,194
+Mato Grosso,2021,Outras Renováveis,262
+Goiás,2021,Outras Renováveis,38
+Distrito Federal,2021,Outras Renováveis,3
+BRASIL,2021,Outras Renováveis,"2,574"
+BRASIL,2020,Outras Renováveis,"2,574"
+Rondônia,2020,Outras Renováveis,43
+Acre,2020,Outras Renováveis,3
+Amazonas,2020,Outras Renováveis,13
+Roraima,2020,Outras Renováveis,0
+Pará,2020,Outras Renováveis,23
+Amapá,2020,Outras Renováveis,0
+Tocantins,2020,Outras Renováveis,1
+Maranhão,2020,Outras Renováveis,173
+Piauí,2020,Outras Renováveis,0
+Ceará,2020,Outras Renováveis,0
+Rio G. do Norte,2020,Outras Renováveis,0
+Paraíba,2020,Outras Renováveis,25
+Pernambuco,2020,Outras Renováveis,128
+Alagoas,2020,Outras Renováveis,0
+Sergipe,2020,Outras Renováveis,0
+Bahia,2020,Outras Renováveis,186
+Minas Gerais,2020,Outras Renováveis,717
+Espírito Santo,2020,Outras Renováveis,34
+Rio de Janeiro,2020,Outras Renováveis,419
+São Paulo,2020,Outras Renováveis,261
+Paraná,2020,Outras Renováveis,81
+Santa Catarina,2020,Outras Renováveis,32
+Rio G. do Sul,2020,Outras Renováveis,171
+Mato G. do Sul,2020,Outras Renováveis,97
+Mato Grosso,2020,Outras Renováveis,147
+Goiás,2020,Outras Renováveis,19
+Distrito Federal,2020,Outras Renováveis,3
+BRASIL,2020,Outras Renováveis,"2,377"
+BRASIL,2019,Outras Renováveis,"2,377"
+Rondônia,2019,Outras Renováveis,16
+Acre,2019,Outras Renováveis,0
+Amazonas,2019,Outras Renováveis,60
+Roraima,2019,Outras Renováveis,0
+Pará,2019,Outras Renováveis,23
+Amapá,2019,Outras Renováveis,0
+Tocantins,2019,Outras Renováveis,1
+Maranhão,2019,Outras Renováveis,172
+Piauí,2019,Outras Renováveis,0
+Ceará,2019,Outras Renováveis,0
+Rio G. do Norte,2019,Outras Renováveis,0
+Paraíba,2019,Outras Renováveis,18
+Pernambuco,2019,Outras Renováveis,37
+Alagoas,2019,Outras Renováveis,0
+Sergipe,2019,Outras Renováveis,0
+Bahia,2019,Outras Renováveis,199
+Minas Gerais,2019,Outras Renováveis,664
+Espírito Santo,2019,Outras Renováveis,21
+Rio de Janeiro,2019,Outras Renováveis,410
+São Paulo,2019,Outras Renováveis,274
+Paraná,2019,Outras Renováveis,77
+Santa Catarina,2019,Outras Renováveis,30
+Rio G. do Sul,2019,Outras Renováveis,210
+Mato G. do Sul,2019,Outras Renováveis,97
+Mato Grosso,2019,Outras Renováveis,57
+Goiás,2019,Outras Renováveis,9
+Distrito Federal,2019,Outras Renováveis,3
+BRASIL,2019,Outras Renováveis,"2,116"
+BRASIL,2018,Outras Renováveis,"2,116"
+Rondônia,2018,Outras Renováveis,16
+Acre,2018,Outras Renováveis,0
+Amazonas,2018,Outras Renováveis,0
+Roraima,2018,Outras Renováveis,0
+Pará,2018,Outras Renováveis,23
+Amapá,2018,Outras Renováveis,0
+Tocantins,2018,Outras Renováveis,1
+Maranhão,2018,Outras Renováveis,158
+Piauí,2018,Outras Renováveis,0
+Ceará,2018,Outras Renováveis,0
+Rio G. do Norte,2018,Outras Renováveis,0
+Paraíba,2018,Outras Renováveis,1
+Pernambuco,2018,Outras Renováveis,0
+Alagoas,2018,Outras Renováveis,0
+Sergipe,2018,Outras Renováveis,0
+Bahia,2018,Outras Renováveis,258
+Minas Gerais,2018,Outras Renováveis,701
+Espírito Santo,2018,Outras Renováveis,22
+Rio de Janeiro,2018,Outras Renováveis,299
+São Paulo,2018,Outras Renováveis,235
+Paraná,2018,Outras Renováveis,58
+Santa Catarina,2018,Outras Renováveis,28
+Rio G. do Sul,2018,Outras Renováveis,157
+Mato G. do Sul,2018,Outras Renováveis,108
+Mato Grosso,2018,Outras Renováveis,48
+Goiás,2018,Outras Renováveis,5
+Distrito Federal,2018,Outras Renováveis,0
+BRASIL,2018,Outras Renováveis,"1,887"
+BRASIL,2017,Outras Renováveis,"1,887"
+Rondônia,2017,Outras Renováveis,16
+Acre,2017,Outras Renováveis,0
+Amazonas,2017,Outras Renováveis,0
+Roraima,2017,Outras Renováveis,0
+Pará,2017,Outras Renováveis,23
+Amapá,2017,Outras Renováveis,0
+Tocantins,2017,Outras Renováveis,0
+Maranhão,2017,Outras Renováveis,162
+Piauí,2017,Outras Renováveis,0
+Ceará,2017,Outras Renováveis,0
+Rio G. do Norte,2017,Outras Renováveis,0
+Paraíba,2017,Outras Renováveis,0
+Pernambuco,2017,Outras Renováveis,0
+Alagoas,2017,Outras Renováveis,0
+Sergipe,2017,Outras Renováveis,0
+Bahia,2017,Outras Renováveis,247
+Minas Gerais,2017,Outras Renováveis,595
+Espírito Santo,2017,Outras Renováveis,20
+Rio de Janeiro,2017,Outras Renováveis,279
+São Paulo,2017,Outras Renováveis,222
+Paraná,2017,Outras Renováveis,55
+Santa Catarina,2017,Outras Renováveis,19
+Rio G. do Sul,2017,Outras Renováveis,145
+Mato G. do Sul,2017,Outras Renováveis,77
+Mato Grosso,2017,Outras Renováveis,22
+Goiás,2017,Outras Renováveis,4
+Distrito Federal,2017,Outras Renováveis,1
+BRASIL,2017,Outras Renováveis,"1,804"
+BRASIL,2016,Outras Renováveis,"1,804"
+Rondônia,2016,Outras Renováveis,16
+Acre,2016,Outras Renováveis,0
+Amazonas,2016,Outras Renováveis,46
+Roraima,2016,Outras Renováveis,0
+Pará,2016,Outras Renováveis,22
+Amapá,2016,Outras Renováveis,0
+Tocantins,2016,Outras Renováveis,0
+Maranhão,2016,Outras Renováveis,119
+Piauí,2016,Outras Renováveis,0
+Ceará,2016,Outras Renováveis,0
+Rio G. do Norte,2016,Outras Renováveis,0
+Paraíba,2016,Outras Renováveis,0
+Pernambuco,2016,Outras Renováveis,0
+Alagoas,2016,Outras Renováveis,0
+Sergipe,2016,Outras Renováveis,0
+Bahia,2016,Outras Renováveis,227
+Minas Gerais,2016,Outras Renováveis,543
+Espírito Santo,2016,Outras Renováveis,22
+Rio de Janeiro,2016,Outras Renováveis,154
+São Paulo,2016,Outras Renováveis,189
+Paraná,2016,Outras Renováveis,44
+Santa Catarina,2016,Outras Renováveis,20
+Rio G. do Sul,2016,Outras Renováveis,153
+Mato G. do Sul,2016,Outras Renováveis,79
+Mato Grosso,2016,Outras Renováveis,169
+Goiás,2016,Outras Renováveis,1
+Distrito Federal,2016,Outras Renováveis,2
+BRASIL,2016,Outras Renováveis,"1,592"
+BRASIL,2015,Outras Renováveis,"1,592"
+Rondônia,2015,Outras Renováveis,16
+Acre,2015,Outras Renováveis,0
+Amazonas,2015,Outras Renováveis,32
+Roraima,2015,Outras Renováveis,0
+Pará,2015,Outras Renováveis,26
+Amapá,2015,Outras Renováveis,0
+Tocantins,2015,Outras Renováveis,0
+Maranhão,2015,Outras Renováveis,152
+Piauí,2015,Outras Renováveis,0
+Ceará,2015,Outras Renováveis,0
+Rio G. do Norte,2015,Outras Renováveis,0
+Paraíba,2015,Outras Renováveis,0
+Pernambuco,2015,Outras Renováveis,0
+Alagoas,2015,Outras Renováveis,0
+Sergipe,2015,Outras Renováveis,0
+Bahia,2015,Outras Renováveis,267
+Minas Gerais,2015,Outras Renováveis,333
+Espírito Santo,2015,Outras Renováveis,24
+Rio de Janeiro,2015,Outras Renováveis,0
+São Paulo,2015,Outras Renováveis,186
+Paraná,2015,Outras Renováveis,46
+Santa Catarina,2015,Outras Renováveis,20
+Rio G. do Sul,2015,Outras Renováveis,194
+Mato G. do Sul,2015,Outras Renováveis,75
+Mato Grosso,2015,Outras Renováveis,185
+Goiás,2015,Outras Renováveis,35
+Distrito Federal,2015,Outras Renováveis,0
+BRASIL,2015,Outras Renováveis,"1,397"
+BRASIL,2014,Outras Renováveis,"1,397"
+Rondônia,2014,Outras Renováveis,16
+Acre,2014,Outras Renováveis,0
+Amazonas,2014,Outras Renováveis,37
+Roraima,2014,Outras Renováveis,0
+Pará,2014,Outras Renováveis,34
+Amapá,2014,Outras Renováveis,0
+Tocantins,2014,Outras Renováveis,0
+Maranhão,2014,Outras Renováveis,166
+Piauí,2014,Outras Renováveis,0
+Ceará,2014,Outras Renováveis,0
+Rio G. do Norte,2014,Outras Renováveis,0
+Paraíba,2014,Outras Renováveis,0
+Pernambuco,2014,Outras Renováveis,0
+Alagoas,2014,Outras Renováveis,0
+Sergipe,2014,Outras Renováveis,0
+Bahia,2014,Outras Renováveis,239
+Minas Gerais,2014,Outras Renováveis,245
+Espírito Santo,2014,Outras Renováveis,24
+Rio de Janeiro,2014,Outras Renováveis,0
+São Paulo,2014,Outras Renováveis,133
+Paraná,2014,Outras Renováveis,51
+Santa Catarina,2014,Outras Renováveis,11
+Rio G. do Sul,2014,Outras Renováveis,181
+Mato G. do Sul,2014,Outras Renováveis,75
+Mato Grosso,2014,Outras Renováveis,185
+Goiás,2014,Outras Renováveis,0
+Distrito Federal,2014,Outras Renováveis,0
+BRASIL,2014,Outras Renováveis,792
+BRASIL,2013,Outras Renováveis,792
+Rondônia,2013,Outras Renováveis,11
+Acre,2013,Outras Renováveis,0
+Amazonas,2013,Outras Renováveis,39
+Roraima,2013,Outras Renováveis,0
+Pará,2013,Outras Renováveis,2
+Amapá,2013,Outras Renováveis,0
+Tocantins,2013,Outras Renováveis,0
+Maranhão,2013,Outras Renováveis,148
+Piauí,2013,Outras Renováveis,0
+Ceará,2013,Outras Renováveis,0
+Rio G. do Norte,2013,Outras Renováveis,0
+Paraíba,2013,Outras Renováveis,0
+Pernambuco,2013,Outras Renováveis,0
+Alagoas,2013,Outras Renováveis,40
+Sergipe,2013,Outras Renováveis,0
+Bahia,2013,Outras Renováveis,174
+Minas Gerais,2013,Outras Renováveis,123
+Espírito Santo,2013,Outras Renováveis,2
+Rio de Janeiro,2013,Outras Renováveis,0
+São Paulo,2013,Outras Renováveis,86
+Paraná,2013,Outras Renováveis,45
+Santa Catarina,2013,Outras Renováveis,6
+Rio G. do Sul,2013,Outras Renováveis,101
+Mato G. do Sul,2013,Outras Renováveis,16
+Mato Grosso,2013,Outras Renováveis,0
+Goiás,2013,Outras Renováveis,0
+Distrito Federal,2013,Outras Renováveis,0
+BRASIL,2013,Outras Renováveis,588
+BRASIL,2012,Outras Renováveis,588
+Rondônia,2012,Outras Renováveis,0
+Acre,2012,Outras Renováveis,0
+Amazonas,2012,Outras Renováveis,0
+Roraima,2012,Outras Renováveis,0
+Pará,2012,Outras Renováveis,2
+Amapá,2012,Outras Renováveis,0
+Tocantins,2012,Outras Renováveis,0
+Maranhão,2012,Outras Renováveis,86
+Piauí,2012,Outras Renováveis,0
+Ceará,2012,Outras Renováveis,0
+Rio G. do Norte,2012,Outras Renováveis,0
+Paraíba,2012,Outras Renováveis,0
+Pernambuco,2012,Outras Renováveis,0
+Alagoas,2012,Outras Renováveis,0
+Sergipe,2012,Outras Renováveis,0
+Bahia,2012,Outras Renováveis,146
+Minas Gerais,2012,Outras Renováveis,91
+Espírito Santo,2012,Outras Renováveis,2
+Rio de Janeiro,2012,Outras Renováveis,0
+São Paulo,2012,Outras Renováveis,96
+Paraná,2012,Outras Renováveis,45
+Santa Catarina,2012,Outras Renováveis,6
+Rio G. do Sul,2012,Outras Renováveis,102
+Mato G. do Sul,2012,Outras Renováveis,13
+Mato Grosso,2012,Outras Renováveis,0
+Goiás,2012,Outras Renováveis,0
+Distrito Federal,2012,Outras Renováveis,0
+BRASIL,2012,Outras Renováveis,601
+BRASIL,2011,Outras Renováveis,601
+Rondônia,2011,Outras Renováveis,0
+Acre,2011,Outras Renováveis,0
+Amazonas,2011,Outras Renováveis,0
+Roraima,2011,Outras Renováveis,0
+Pará,2011,Outras Renováveis,2
+Amapá,2011,Outras Renováveis,0
+Tocantins,2011,Outras Renováveis,0
+Maranhão,2011,Outras Renováveis,74
+Piauí,2011,Outras Renováveis,0
+Ceará,2011,Outras Renováveis,0
+Rio G. do Norte,2011,Outras Renováveis,0
+Paraíba,2011,Outras Renováveis,0
+Pernambuco,2011,Outras Renováveis,0
+Alagoas,2011,Outras Renováveis,0
+Sergipe,2011,Outras Renováveis,0
+Bahia,2011,Outras Renováveis,131
+Minas Gerais,2011,Outras Renováveis,145
+Espírito Santo,2011,Outras Renováveis,2
+Rio de Janeiro,2011,Outras Renováveis,0
+São Paulo,2011,Outras Renováveis,129
+Paraná,2011,Outras Renováveis,41
+Santa Catarina,2011,Outras Renováveis,6
+Rio G. do Sul,2011,Outras Renováveis,60
+Mato G. do Sul,2011,Outras Renováveis,11
+Mato Grosso,2011,Outras Renováveis,0
+Goiás,2011,Outras Renováveis,0
+Distrito Federal,2011,Outras Renováveis,0
+BRASIL,2023,Carvão,"8,770"
+Rondônia,2023,Carvão,0
+Acre,2023,Carvão,0
+Amazonas,2023,Carvão,0
+Roraima,2023,Carvão,0
+Pará,2023,Carvão,608
+Amapá,2023,Carvão,0
+Tocantins,2023,Carvão,0
+Maranhão,2023,Carvão,472
+Piauí,2023,Carvão,0
+Ceará,2023,Carvão,169
+Rio G. do Norte,2023,Carvão,0
+Paraíba,2023,Carvão,0
+Pernambuco,2023,Carvão,0
+Alagoas,2023,Carvão,0
+Sergipe,2023,Carvão,0
+Bahia,2023,Carvão,0
+Minas Gerais,2023,Carvão,0
+Espírito Santo,2023,Carvão,0
+Rio de Janeiro,2023,Carvão,0
+São Paulo,2023,Carvão,0
+Paraná,2023,Carvão,46
+Santa Catarina,2023,Carvão,"4,003"
+Rio G. do Sul,2023,Carvão,"3,472"
+Mato G. do Sul,2023,Carvão,0
+Mato Grosso,2023,Carvão,0
+Goiás,2023,Carvão,0
+Distrito Federal,2023,Carvão,0
+BRASIL,2023,Carvão,"7,988"
+BRASIL,2022,Carvão,"7,988"
+Rondônia,2022,Carvão,0
+Acre,2022,Carvão,0
+Amazonas,2022,Carvão,0
+Roraima,2022,Carvão,0
+Pará,2022,Carvão,576
+Amapá,2022,Carvão,0
+Tocantins,2022,Carvão,0
+Maranhão,2022,Carvão,420
+Piauí,2022,Carvão,0
+Ceará,2022,Carvão,12
+Rio G. do Norte,2022,Carvão,0
+Paraíba,2022,Carvão,0
+Pernambuco,2022,Carvão,0
+Alagoas,2022,Carvão,0
+Sergipe,2022,Carvão,0
+Bahia,2022,Carvão,0
+Minas Gerais,2022,Carvão,0
+Espírito Santo,2022,Carvão,0
+Rio de Janeiro,2022,Carvão,0
+São Paulo,2022,Carvão,0
+Paraná,2022,Carvão,18
+Santa Catarina,2022,Carvão,"3,947"
+Rio G. do Sul,2022,Carvão,"3,017"
+Mato G. do Sul,2022,Carvão,0
+Mato Grosso,2022,Carvão,0
+Goiás,2022,Carvão,0
+Distrito Federal,2022,Carvão,0
+BRASIL,2022,Carvão,"17,585"
+BRASIL,2021,Carvão,"17,585"
+Rondônia,2021,Carvão,0
+Acre,2021,Carvão,0
+Amazonas,2021,Carvão,0
+Roraima,2021,Carvão,0
+Pará,2021,Carvão,576
+Amapá,2021,Carvão,0
+Tocantins,2021,Carvão,0
+Maranhão,2021,Carvão,"2,189"
+Piauí,2021,Carvão,0
+Ceará,2021,Carvão,"5,880"
+Rio G. do Norte,2021,Carvão,0
+Paraíba,2021,Carvão,0
+Pernambuco,2021,Carvão,0
+Alagoas,2021,Carvão,0
+Sergipe,2021,Carvão,0
+Bahia,2021,Carvão,0
+Minas Gerais,2021,Carvão,0
+Espírito Santo,2021,Carvão,0
+Rio de Janeiro,2021,Carvão,0
+São Paulo,2021,Carvão,0
+Paraná,2021,Carvão,0
+Santa Catarina,2021,Carvão,"4,791"
+Rio G. do Sul,2021,Carvão,"4,148"
+Mato G. do Sul,2021,Carvão,0
+Mato Grosso,2021,Carvão,0
+Goiás,2021,Carvão,0
+Distrito Federal,2021,Carvão,0
+BRASIL,2021,Carvão,"11,946"
+BRASIL,2020,Carvão,"11,946"
+Rondônia,2020,Carvão,0
+Acre,2020,Carvão,0
+Amazonas,2020,Carvão,0
+Roraima,2020,Carvão,0
+Pará,2020,Carvão,548
+Amapá,2020,Carvão,0
+Tocantins,2020,Carvão,0
+Maranhão,2020,Carvão,"1,510"
+Piauí,2020,Carvão,0
+Ceará,2020,Carvão,"2,796"
+Rio G. do Norte,2020,Carvão,0
+Paraíba,2020,Carvão,0
+Pernambuco,2020,Carvão,0
+Alagoas,2020,Carvão,0
+Sergipe,2020,Carvão,0
+Bahia,2020,Carvão,0
+Minas Gerais,2020,Carvão,0
+Espírito Santo,2020,Carvão,0
+Rio de Janeiro,2020,Carvão,0
+São Paulo,2020,Carvão,0
+Paraná,2020,Carvão,0
+Santa Catarina,2020,Carvão,"4,216"
+Rio G. do Sul,2020,Carvão,"2,875"
+Mato G. do Sul,2020,Carvão,0
+Mato Grosso,2020,Carvão,0
+Goiás,2020,Carvão,0
+Distrito Federal,2020,Carvão,0
+BRASIL,2020,Carvão,"15,327"
+BRASIL,2019,Carvão,"15,327"
+Rondônia,2019,Carvão,0
+Acre,2019,Carvão,0
+Amazonas,2019,Carvão,0
+Roraima,2019,Carvão,0
+Pará,2019,Carvão,546
+Amapá,2019,Carvão,0
+Tocantins,2019,Carvão,0
+Maranhão,2019,Carvão,"1,835"
+Piauí,2019,Carvão,0
+Ceará,2019,Carvão,"5,802"
+Rio G. do Norte,2019,Carvão,0
+Paraíba,2019,Carvão,0
+Pernambuco,2019,Carvão,0
+Alagoas,2019,Carvão,0
+Sergipe,2019,Carvão,0
+Bahia,2019,Carvão,0
+Minas Gerais,2019,Carvão,0
+Espírito Santo,2019,Carvão,0
+Rio de Janeiro,2019,Carvão,0
+São Paulo,2019,Carvão,0
+Paraná,2019,Carvão,0
+Santa Catarina,2019,Carvão,"4,108"
+Rio G. do Sul,2019,Carvão,"3,037"
+Mato G. do Sul,2019,Carvão,0
+Mato Grosso,2019,Carvão,0
+Goiás,2019,Carvão,0
+Distrito Federal,2019,Carvão,0
+BRASIL,2019,Carvão,"14,204"
+BRASIL,2018,Carvão,"14,204"
+Rondônia,2018,Carvão,0
+Acre,2018,Carvão,0
+Amazonas,2018,Carvão,0
+Roraima,2018,Carvão,0
+Pará,2018,Carvão,546
+Amapá,2018,Carvão,0
+Tocantins,2018,Carvão,0
+Maranhão,2018,Carvão,"1,555"
+Piauí,2018,Carvão,0
+Ceará,2018,Carvão,"5,898"
+Rio G. do Norte,2018,Carvão,0
+Paraíba,2018,Carvão,0
+Pernambuco,2018,Carvão,0
+Alagoas,2018,Carvão,0
+Sergipe,2018,Carvão,0
+Bahia,2018,Carvão,0
+Minas Gerais,2018,Carvão,0
+Espírito Santo,2018,Carvão,0
+Rio de Janeiro,2018,Carvão,0
+São Paulo,2018,Carvão,0
+Paraná,2018,Carvão,50
+Santa Catarina,2018,Carvão,"4,148"
+Rio G. do Sul,2018,Carvão,"2,007"
+Mato G. do Sul,2018,Carvão,0
+Mato Grosso,2018,Carvão,0
+Goiás,2018,Carvão,0
+Distrito Federal,2018,Carvão,0
+BRASIL,2018,Carvão,"16,257"
+BRASIL,2017,Carvão,"16,257"
+Rondônia,2017,Carvão,0
+Acre,2017,Carvão,0
+Amazonas,2017,Carvão,0
+Roraima,2017,Carvão,0
+Pará,2017,Carvão,546
+Amapá,2017,Carvão,0
+Tocantins,2017,Carvão,0
+Maranhão,2017,Carvão,"2,063"
+Piauí,2017,Carvão,0
+Ceará,2017,Carvão,"7,424"
+Rio G. do Norte,2017,Carvão,0
+Paraíba,2017,Carvão,0
+Pernambuco,2017,Carvão,0
+Alagoas,2017,Carvão,0
+Sergipe,2017,Carvão,0
+Bahia,2017,Carvão,0
+Minas Gerais,2017,Carvão,0
+Espírito Santo,2017,Carvão,0
+Rio de Janeiro,2017,Carvão,0
+São Paulo,2017,Carvão,0
+Paraná,2017,Carvão,86
+Santa Catarina,2017,Carvão,"4,208"
+Rio G. do Sul,2017,Carvão,"1,929"
+Mato G. do Sul,2017,Carvão,0
+Mato Grosso,2017,Carvão,0
+Goiás,2017,Carvão,0
+Distrito Federal,2017,Carvão,0
+BRASIL,2017,Carvão,"17,001"
+BRASIL,2016,Carvão,"17,001"
+Rondônia,2016,Carvão,0
+Acre,2016,Carvão,0
+Amazonas,2016,Carvão,0
+Roraima,2016,Carvão,0
+Pará,2016,Carvão,570
+Amapá,2016,Carvão,0
+Tocantins,2016,Carvão,0
+Maranhão,2016,Carvão,"2,182"
+Piauí,2016,Carvão,0
+Ceará,2016,Carvão,"7,010"
+Rio G. do Norte,2016,Carvão,0
+Paraíba,2016,Carvão,0
+Pernambuco,2016,Carvão,0
+Alagoas,2016,Carvão,0
+Sergipe,2016,Carvão,0
+Bahia,2016,Carvão,0
+Minas Gerais,2016,Carvão,0
+Espírito Santo,2016,Carvão,0
+Rio de Janeiro,2016,Carvão,0
+São Paulo,2016,Carvão,0
+Paraná,2016,Carvão,76
+Santa Catarina,2016,Carvão,"4,247"
+Rio G. do Sul,2016,Carvão,"2,917"
+Mato G. do Sul,2016,Carvão,0
+Mato Grosso,2016,Carvão,0
+Goiás,2016,Carvão,0
+Distrito Federal,2016,Carvão,0
+BRASIL,2016,Carvão,"19,096"
+BRASIL,2015,Carvão,"19,096"
+Rondônia,2015,Carvão,0
+Acre,2015,Carvão,0
+Amazonas,2015,Carvão,0
+Roraima,2015,Carvão,0
+Pará,2015,Carvão,546
+Amapá,2015,Carvão,0
+Tocantins,2015,Carvão,0
+Maranhão,2015,Carvão,"2,805"
+Piauí,2015,Carvão,0
+Ceará,2015,Carvão,"7,931"
+Rio G. do Norte,2015,Carvão,0
+Paraíba,2015,Carvão,0
+Pernambuco,2015,Carvão,0
+Alagoas,2015,Carvão,0
+Sergipe,2015,Carvão,0
+Bahia,2015,Carvão,0
+Minas Gerais,2015,Carvão,0
+Espírito Santo,2015,Carvão,0
+Rio de Janeiro,2015,Carvão,0
+São Paulo,2015,Carvão,0
+Paraná,2015,Carvão,81
+Santa Catarina,2015,Carvão,"4,921"
+Rio G. do Sul,2015,Carvão,"2,814"
+Mato G. do Sul,2015,Carvão,0
+Mato Grosso,2015,Carvão,0
+Goiás,2015,Carvão,0
+Distrito Federal,2015,Carvão,0
+BRASIL,2015,Carvão,"18,385"
+BRASIL,2014,Carvão,"18,385"
+Rondônia,2014,Carvão,0
+Acre,2014,Carvão,0
+Amazonas,2014,Carvão,0
+Roraima,2014,Carvão,0
+Pará,2014,Carvão,546
+Amapá,2014,Carvão,0
+Tocantins,2014,Carvão,0
+Maranhão,2014,Carvão,"2,708"
+Piauí,2014,Carvão,0
+Ceará,2014,Carvão,"7,173"
+Rio G. do Norte,2014,Carvão,0
+Paraíba,2014,Carvão,0
+Pernambuco,2014,Carvão,0
+Alagoas,2014,Carvão,0
+Sergipe,2014,Carvão,0
+Bahia,2014,Carvão,0
+Minas Gerais,2014,Carvão,0
+Espírito Santo,2014,Carvão,0
+Rio de Janeiro,2014,Carvão,0
+São Paulo,2014,Carvão,0
+Paraná,2014,Carvão,79
+Santa Catarina,2014,Carvão,"4,986"
+Rio G. do Sul,2014,Carvão,"2,893"
+Mato G. do Sul,2014,Carvão,0
+Mato Grosso,2014,Carvão,0
+Goiás,2014,Carvão,0
+Distrito Federal,2014,Carvão,0
+BRASIL,2014,Carvão,"14,801"
+BRASIL,2013,Carvão,"14,801"
+Rondônia,2013,Carvão,0
+Acre,2013,Carvão,0
+Amazonas,2013,Carvão,0
+Roraima,2013,Carvão,0
+Pará,2013,Carvão,397
+Amapá,2013,Carvão,0
+Tocantins,2013,Carvão,0
+Maranhão,2013,Carvão,"2,276"
+Piauí,2013,Carvão,0
+Ceará,2013,Carvão,"3,181"
+Rio G. do Norte,2013,Carvão,0
+Paraíba,2013,Carvão,0
+Pernambuco,2013,Carvão,0
+Alagoas,2013,Carvão,0
+Sergipe,2013,Carvão,0
+Bahia,2013,Carvão,0
+Minas Gerais,2013,Carvão,0
+Espírito Santo,2013,Carvão,0
+Rio de Janeiro,2013,Carvão,0
+São Paulo,2013,Carvão,0
+Paraná,2013,Carvão,86
+Santa Catarina,2013,Carvão,"5,681"
+Rio G. do Sul,2013,Carvão,"3,181"
+Mato G. do Sul,2013,Carvão,0
+Mato Grosso,2013,Carvão,0
+Goiás,2013,Carvão,0
+Distrito Federal,2013,Carvão,0
+BRASIL,2013,Carvão,"8,422"
+BRASIL,2012,Carvão,"8,422"
+Rondônia,2012,Carvão,0
+Acre,2012,Carvão,0
+Amazonas,2012,Carvão,0
+Roraima,2012,Carvão,0
+Pará,2012,Carvão,412
+Amapá,2012,Carvão,0
+Tocantins,2012,Carvão,0
+Maranhão,2012,Carvão,304
+Piauí,2012,Carvão,0
+Ceará,2012,Carvão,60
+Rio G. do Norte,2012,Carvão,0
+Paraíba,2012,Carvão,0
+Pernambuco,2012,Carvão,0
+Alagoas,2012,Carvão,0
+Sergipe,2012,Carvão,0
+Bahia,2012,Carvão,0
+Minas Gerais,2012,Carvão,0
+Espírito Santo,2012,Carvão,0
+Rio de Janeiro,2012,Carvão,0
+São Paulo,2012,Carvão,0
+Paraná,2012,Carvão,86
+Santa Catarina,2012,Carvão,"4,534"
+Rio G. do Sul,2012,Carvão,"3,026"
+Mato G. do Sul,2012,Carvão,0
+Mato Grosso,2012,Carvão,0
+Goiás,2012,Carvão,0
+Distrito Federal,2012,Carvão,0
+BRASIL,2012,Carvão,"6,485"
+BRASIL,2011,Carvão,"6,485"
+Rondônia,2011,Carvão,0
+Acre,2011,Carvão,0
+Amazonas,2011,Carvão,0
+Roraima,2011,Carvão,0
+Pará,2011,Carvão,413
+Amapá,2011,Carvão,0
+Tocantins,2011,Carvão,0
+Maranhão,2011,Carvão,330
+Piauí,2011,Carvão,0
+Ceará,2011,Carvão,0
+Rio G. do Norte,2011,Carvão,0
+Paraíba,2011,Carvão,0
+Pernambuco,2011,Carvão,0
+Alagoas,2011,Carvão,0
+Sergipe,2011,Carvão,0
+Bahia,2011,Carvão,0
+Minas Gerais,2011,Carvão,0
+Espírito Santo,2011,Carvão,0
+Rio de Janeiro,2011,Carvão,0
+São Paulo,2011,Carvão,0
+Paraná,2011,Carvão,85
+Santa Catarina,2011,Carvão,"3,547"
+Rio G. do Sul,2011,Carvão,"2,110"
+Mato G. do Sul,2011,Carvão,0
+Mato Grosso,2011,Carvão,0
+Goiás,2011,Carvão,0
+Distrito Federal,2011,Carvão,
+BRASIL,2023,Gás Natural,"38,589"
+Rondônia,2023,Gás Natural,0
+Acre,2023,Gás Natural,0
+Amazonas,2023,Gás Natural,"6,479"
+Roraima,2023,Gás Natural,724
+Pará,2023,Gás Natural,0
+Amapá,2023,Gás Natural,0
+Tocantins,2023,Gás Natural,0
+Maranhão,2023,Gás Natural,"4,358"
+Piauí,2023,Gás Natural,0
+Ceará,2023,Gás Natural,185
+Rio G. do Norte,2023,Gás Natural,576
+Paraíba,2023,Gás Natural,0
+Pernambuco,2023,Gás Natural,208
+Alagoas,2023,Gás Natural,38
+Sergipe,2023,Gás Natural,27
+Bahia,2023,Gás Natural,"1,049"
+Minas Gerais,2023,Gás Natural,154
+Espírito Santo,2023,Gás Natural,"4,429"
+Rio de Janeiro,2023,Gás Natural,"16,032"
+São Paulo,2023,Gás Natural,"3,619"
+Paraná,2023,Gás Natural,341
+Santa Catarina,2023,Gás Natural,10
+Rio G. do Sul,2023,Gás Natural,186
+Mato G. do Sul,2023,Gás Natural,153
+Mato Grosso,2023,Gás Natural,0
+Goiás,2023,Gás Natural,21
+Distrito Federal,2023,Gás Natural,0
+BRASIL,2023,Gás Natural,"42,035"
+BRASIL,2022,Gás Natural,"42,035"
+Rondônia,2022,Gás Natural,0
+Acre,2022,Gás Natural,0
+Amazonas,2022,Gás Natural,"6,087"
+Roraima,2022,Gás Natural,392
+Pará,2022,Gás Natural,0
+Amapá,2022,Gás Natural,0
+Tocantins,2022,Gás Natural,0
+Maranhão,2022,Gás Natural,"4,048"
+Piauí,2022,Gás Natural,0
+Ceará,2022,Gás Natural,62
+Rio G. do Norte,2022,Gás Natural,840
+Paraíba,2022,Gás Natural,0
+Pernambuco,2022,Gás Natural,56
+Alagoas,2022,Gás Natural,39
+Sergipe,2022,Gás Natural,835
+Bahia,2022,Gás Natural,"1,589"
+Minas Gerais,2022,Gás Natural,282
+Espírito Santo,2022,Gás Natural,"4,314"
+Rio de Janeiro,2022,Gás Natural,"17,698"
+São Paulo,2022,Gás Natural,"3,688"
+Paraná,2022,Gás Natural,571
+Santa Catarina,2022,Gás Natural,11
+Rio G. do Sul,2022,Gás Natural,167
+Mato G. do Sul,2022,Gás Natural,203
+Mato Grosso,2022,Gás Natural,"1,131"
+Goiás,2022,Gás Natural,21
+Distrito Federal,2022,Gás Natural,0
+BRASIL,2022,Gás Natural,"86,861"
+BRASIL,2021,Gás Natural,"86,861"
+Rondônia,2021,Gás Natural,0
+Acre,2021,Gás Natural,0
+Amazonas,2021,Gás Natural,"7,956"
+Roraima,2021,Gás Natural,0
+Pará,2021,Gás Natural,0
+Amapá,2021,Gás Natural,0
+Tocantins,2021,Gás Natural,0
+Maranhão,2021,Gás Natural,"8,459"
+Piauí,2021,Gás Natural,0
+Ceará,2021,Gás Natural,583
+Rio G. do Norte,2021,Gás Natural,"1,144"
+Paraíba,2021,Gás Natural,0
+Pernambuco,2021,Gás Natural,"3,350"
+Alagoas,2021,Gás Natural,22
+Sergipe,2021,Gás Natural,"4,657"
+Bahia,2021,Gás Natural,"1,562"
+Minas Gerais,2021,Gás Natural,"2,302"
+Espírito Santo,2021,Gás Natural,"5,000"
+Rio de Janeiro,2021,Gás Natural,"37,872"
+São Paulo,2021,Gás Natural,"6,382"
+Paraná,2021,Gás Natural,"2,638"
+Santa Catarina,2021,Gás Natural,11
+Rio G. do Sul,2021,Gás Natural,"1,682"
+Mato G. do Sul,2021,Gás Natural,"1,878"
+Mato Grosso,2021,Gás Natural,"1,327"
+Goiás,2021,Gás Natural,36
+Distrito Federal,2021,Gás Natural,0
+BRASIL,2021,Gás Natural,"53,515"
+BRASIL,2020,Gás Natural,"53,515"
+Rondônia,2020,Gás Natural,0
+Acre,2020,Gás Natural,0
+Amazonas,2020,Gás Natural,"7,644"
+Roraima,2020,Gás Natural,0
+Pará,2020,Gás Natural,0
+Amapá,2020,Gás Natural,0
+Tocantins,2020,Gás Natural,0
+Maranhão,2020,Gás Natural,"5,851"
+Piauí,2020,Gás Natural,0
+Ceará,2020,Gás Natural,338
+Rio G. do Norte,2020,Gás Natural,"1,207"
+Paraíba,2020,Gás Natural,0
+Pernambuco,2020,Gás Natural,"2,582"
+Alagoas,2020,Gás Natural,22
+Sergipe,2020,Gás Natural,907
+Bahia,2020,Gás Natural,"1,382"
+Minas Gerais,2020,Gás Natural,920
+Espírito Santo,2020,Gás Natural,"3,696"
+Rio de Janeiro,2020,Gás Natural,"20,543"
+São Paulo,2020,Gás Natural,"4,288"
+Paraná,2020,Gás Natural,"1,633"
+Santa Catarina,2020,Gás Natural,10
+Rio G. do Sul,2020,Gás Natural,354
+Mato G. do Sul,2020,Gás Natural,997
+Mato Grosso,2020,Gás Natural,"1,106"
+Goiás,2020,Gás Natural,35
+Distrito Federal,2020,Gás Natural,0
+BRASIL,2020,Gás Natural,"60,188"
+BRASIL,2019,Gás Natural,"60,188"
+Rondônia,2019,Gás Natural,"2,525"
+Acre,2019,Gás Natural,0
+Amazonas,2019,Gás Natural,"7,257"
+Roraima,2019,Gás Natural,0
+Pará,2019,Gás Natural,0
+Amapá,2019,Gás Natural,0
+Tocantins,2019,Gás Natural,0
+Maranhão,2019,Gás Natural,"5,887"
+Piauí,2019,Gás Natural,0
+Ceará,2019,Gás Natural,"1,508"
+Rio G. do Norte,2019,Gás Natural,"1,360"
+Paraíba,2019,Gás Natural,0
+Pernambuco,2019,Gás Natural,"3,655"
+Alagoas,2019,Gás Natural,29
+Sergipe,2019,Gás Natural,34
+Bahia,2019,Gás Natural,"1,722"
+Minas Gerais,2019,Gás Natural,"1,733"
+Espírito Santo,2019,Gás Natural,"3,211"
+Rio de Janeiro,2019,Gás Natural,"22,531"
+São Paulo,2019,Gás Natural,"4,944"
+Paraná,2019,Gás Natural,538
+Santa Catarina,2019,Gás Natural,14
+Rio G. do Sul,2019,Gás Natural,397
+Mato G. do Sul,2019,Gás Natural,"1,301"
+Mato Grosso,2019,Gás Natural,"1,505"
+Goiás,2019,Gás Natural,38
+Distrito Federal,2019,Gás Natural,0
+BRASIL,2019,Gás Natural,"54,295"
+BRASIL,2018,Gás Natural,"54,295"
+Rondônia,2018,Gás Natural,0
+Acre,2018,Gás Natural,0
+Amazonas,2018,Gás Natural,"5,660"
+Roraima,2018,Gás Natural,0
+Pará,2018,Gás Natural,0
+Amapá,2018,Gás Natural,0
+Tocantins,2018,Gás Natural,0
+Maranhão,2018,Gás Natural,"5,917"
+Piauí,2018,Gás Natural,0
+Ceará,2018,Gás Natural,844
+Rio G. do Norte,2018,Gás Natural,"1,494"
+Paraíba,2018,Gás Natural,0
+Pernambuco,2018,Gás Natural,"3,846"
+Alagoas,2018,Gás Natural,30
+Sergipe,2018,Gás Natural,33
+Bahia,2018,Gás Natural,"2,265"
+Minas Gerais,2018,Gás Natural,946
+Espírito Santo,2018,Gás Natural,"3,145"
+Rio de Janeiro,2018,Gás Natural,"22,903"
+São Paulo,2018,Gás Natural,"4,755"
+Paraná,2018,Gás Natural,403
+Santa Catarina,2018,Gás Natural,14
+Rio G. do Sul,2018,Gás Natural,743
+Mato G. do Sul,2018,Gás Natural,"1,260"
+Mato Grosso,2018,Gás Natural,0
+Goiás,2018,Gás Natural,37
+Distrito Federal,2018,Gás Natural,0
+BRASIL,2018,Gás Natural,"65,591"
+BRASIL,2017,Gás Natural,"65,591"
+Rondônia,2017,Gás Natural,0
+Acre,2017,Gás Natural,0
+Amazonas,2017,Gás Natural,"3,832"
+Roraima,2017,Gás Natural,0
+Pará,2017,Gás Natural,0
+Amapá,2017,Gás Natural,0
+Tocantins,2017,Gás Natural,0
+Maranhão,2017,Gás Natural,"6,811"
+Piauí,2017,Gás Natural,0
+Ceará,2017,Gás Natural,"2,554"
+Rio G. do Norte,2017,Gás Natural,"2,008"
+Paraíba,2017,Gás Natural,0
+Pernambuco,2017,Gás Natural,"4,245"
+Alagoas,2017,Gás Natural,30
+Sergipe,2017,Gás Natural,32
+Bahia,2017,Gás Natural,"1,677"
+Minas Gerais,2017,Gás Natural,"1,826"
+Espírito Santo,2017,Gás Natural,"3,297"
+Rio de Janeiro,2017,Gás Natural,"29,586"
+São Paulo,2017,Gás Natural,"5,576"
+Paraná,2017,Gás Natural,503
+Santa Catarina,2017,Gás Natural,13
+Rio G. do Sul,2017,Gás Natural,888
+Mato G. do Sul,2017,Gás Natural,"1,698"
+Mato Grosso,2017,Gás Natural,976
+Goiás,2017,Gás Natural,37
+Distrito Federal,2017,Gás Natural,0
+BRASIL,2017,Gás Natural,"56,550"
+BRASIL,2016,Gás Natural,"56,550"
+Rondônia,2016,Gás Natural,0
+Acre,2016,Gás Natural,0
+Amazonas,2016,Gás Natural,"3,792"
+Roraima,2016,Gás Natural,0
+Pará,2016,Gás Natural,0
+Amapá,2016,Gás Natural,0
+Tocantins,2016,Gás Natural,0
+Maranhão,2016,Gás Natural,"7,969"
+Piauí,2016,Gás Natural,0
+Ceará,2016,Gás Natural,"1,988"
+Rio G. do Norte,2016,Gás Natural,"1,983"
+Paraíba,2016,Gás Natural,0
+Pernambuco,2016,Gás Natural,"4,287"
+Alagoas,2016,Gás Natural,30
+Sergipe,2016,Gás Natural,32
+Bahia,2016,Gás Natural,"2,254"
+Minas Gerais,2016,Gás Natural,"1,242"
+Espírito Santo,2016,Gás Natural,"3,250"
+Rio de Janeiro,2016,Gás Natural,"23,452"
+São Paulo,2016,Gás Natural,"4,233"
+Paraná,2016,Gás Natural,354
+Santa Catarina,2016,Gás Natural,0
+Rio G. do Sul,2016,Gás Natural,182
+Mato G. do Sul,2016,Gás Natural,"1,313"
+Mato Grosso,2016,Gás Natural,150
+Goiás,2016,Gás Natural,37
+Distrito Federal,2016,Gás Natural,0
+BRASIL,2016,Gás Natural,"79,503"
+BRASIL,2015,Gás Natural,"79,503"
+Rondônia,2015,Gás Natural,0
+Acre,2015,Gás Natural,0
+Amazonas,2015,Gás Natural,"4,199"
+Roraima,2015,Gás Natural,0
+Pará,2015,Gás Natural,0
+Amapá,2015,Gás Natural,0
+Tocantins,2015,Gás Natural,0
+Maranhão,2015,Gás Natural,"4,672"
+Piauí,2015,Gás Natural,0
+Ceará,2015,Gás Natural,"3,093"
+Rio G. do Norte,2015,Gás Natural,"2,478"
+Paraíba,2015,Gás Natural,0
+Pernambuco,2015,Gás Natural,"3,285"
+Alagoas,2015,Gás Natural,31
+Sergipe,2015,Gás Natural,38
+Bahia,2015,Gás Natural,"2,830"
+Minas Gerais,2015,Gás Natural,"2,419"
+Espírito Santo,2015,Gás Natural,"3,351"
+Rio de Janeiro,2015,Gás Natural,"34,388"
+São Paulo,2015,Gás Natural,"7,650"
+Paraná,2015,Gás Natural,"2,812"
+Santa Catarina,2015,Gás Natural,0
+Rio G. do Sul,2015,Gás Natural,"1,135"
+Mato G. do Sul,2015,Gás Natural,"3,673"
+Mato Grosso,2015,Gás Natural,"3,409"
+Goiás,2015,Gás Natural,40
+Distrito Federal,2015,Gás Natural,0
+BRASIL,2015,Gás Natural,"81,073"
+BRASIL,2014,Gás Natural,"81,073"
+Rondônia,2014,Gás Natural,0
+Acre,2014,Gás Natural,0
+Amazonas,2014,Gás Natural,"3,771"
+Roraima,2014,Gás Natural,0
+Pará,2014,Gás Natural,0
+Amapá,2014,Gás Natural,0
+Tocantins,2014,Gás Natural,0
+Maranhão,2014,Gás Natural,"6,897"
+Piauí,2014,Gás Natural,0
+Ceará,2014,Gás Natural,"3,801"
+Rio G. do Norte,2014,Gás Natural,"2,651"
+Paraíba,2014,Gás Natural,0
+Pernambuco,2014,Gás Natural,"3,870"
+Alagoas,2014,Gás Natural,31
+Sergipe,2014,Gás Natural,38
+Bahia,2014,Gás Natural,"2,579"
+Minas Gerais,2014,Gás Natural,"2,235"
+Espírito Santo,2014,Gás Natural,"3,238"
+Rio de Janeiro,2014,Gás Natural,"33,750"
+São Paulo,2014,Gás Natural,"7,527"
+Paraná,2014,Gás Natural,"3,870"
+Santa Catarina,2014,Gás Natural,0
+Rio G. do Sul,2014,Gás Natural,563
+Mato G. do Sul,2014,Gás Natural,"3,276"
+Mato Grosso,2014,Gás Natural,"2,979"
+Goiás,2014,Gás Natural,0
+Distrito Federal,2014,Gás Natural,0
+BRASIL,2014,Gás Natural,"68,942"
+BRASIL,2013,Gás Natural,"68,942"
+Rondônia,2013,Gás Natural,0
+Acre,2013,Gás Natural,0
+Amazonas,2013,Gás Natural,"4,084"
+Roraima,2013,Gás Natural,0
+Pará,2013,Gás Natural,0
+Amapá,2013,Gás Natural,0
+Tocantins,2013,Gás Natural,0
+Maranhão,2013,Gás Natural,"4,789"
+Piauí,2013,Gás Natural,0
+Ceará,2013,Gás Natural,"3,864"
+Rio G. do Norte,2013,Gás Natural,"2,056"
+Paraíba,2013,Gás Natural,0
+Pernambuco,2013,Gás Natural,"3,636"
+Alagoas,2013,Gás Natural,23
+Sergipe,2013,Gás Natural,12
+Bahia,2013,Gás Natural,"3,610"
+Minas Gerais,2013,Gás Natural,"2,295"
+Espírito Santo,2013,Gás Natural,"2,087"
+Rio de Janeiro,2013,Gás Natural,"28,529"
+São Paulo,2013,Gás Natural,"6,513"
+Paraná,2013,Gás Natural,"2,478"
+Santa Catarina,2013,Gás Natural,0
+Rio G. do Sul,2013,Gás Natural,379
+Mato G. do Sul,2013,Gás Natural,"2,517"
+Mato Grosso,2013,Gás Natural,"2,068"
+Goiás,2013,Gás Natural,0
+Distrito Federal,2013,Gás Natural,0
+BRASIL,2013,Gás Natural,"46,679"
+BRASIL,2012,Gás Natural,"46,679"
+Rondônia,2012,Gás Natural,0
+Acre,2012,Gás Natural,0
+Amazonas,2012,Gás Natural,"3,571"
+Roraima,2012,Gás Natural,0
+Pará,2012,Gás Natural,0
+Amapá,2012,Gás Natural,0
+Tocantins,2012,Gás Natural,0
+Maranhão,2012,Gás Natural,0
+Piauí,2012,Gás Natural,0
+Ceará,2012,Gás Natural,"2,115"
+Rio G. do Norte,2012,Gás Natural,"1,578"
+Paraíba,2012,Gás Natural,0
+Pernambuco,2012,Gás Natural,"2,870"
+Alagoas,2012,Gás Natural,23
+Sergipe,2012,Gás Natural,12
+Bahia,2012,Gás Natural,"2,327"
+Minas Gerais,2012,Gás Natural,"1,503"
+Espírito Santo,2012,Gás Natural,"1,142"
+Rio de Janeiro,2012,Gás Natural,"21,102"
+São Paulo,2012,Gás Natural,"4,704"
+Paraná,2012,Gás Natural,"2,463"
+Santa Catarina,2012,Gás Natural,0
+Rio G. do Sul,2012,Gás Natural,274
+Mato G. do Sul,2012,Gás Natural,"1,278"
+Mato Grosso,2012,Gás Natural,"1,716"
+Goiás,2012,Gás Natural,0
+Distrito Federal,2012,Gás Natural,0
+BRASIL,2012,Gás Natural,"25,095"
+BRASIL,2011,Gás Natural,"25,095"
+Rondônia,2011,Gás Natural,0
+Acre,2011,Gás Natural,0
+Amazonas,2011,Gás Natural,"2,423"
+Roraima,2011,Gás Natural,0
+Pará,2011,Gás Natural,0
+Amapá,2011,Gás Natural,0
+Tocantins,2011,Gás Natural,0
+Maranhão,2011,Gás Natural,0
+Piauí,2011,Gás Natural,0
+Ceará,2011,Gás Natural,"1,231"
+Rio G. do Norte,2011,Gás Natural,"1,089"
+Paraíba,2011,Gás Natural,0
+Pernambuco,2011,Gás Natural,"2,847"
+Alagoas,2011,Gás Natural,55
+Sergipe,2011,Gás Natural,14
+Bahia,2011,Gás Natural,"1,541"
+Minas Gerais,2011,Gás Natural,220
+Espírito Santo,2011,Gás Natural,648
+Rio de Janeiro,2011,Gás Natural,"12,462"
+São Paulo,2011,Gás Natural,"2,250"
+Paraná,2011,Gás Natural,148
+Santa Catarina,2011,Gás Natural,0
+Rio G. do Sul,2011,Gás Natural,117
+Mato G. do Sul,2011,Gás Natural,49
+Mato Grosso,2011,Gás Natural,3
+Goiás,2011,Gás Natural,0
+Distrito Federal,2011,Gás Natural,0
+BRASIL,2023,Gás de Coqueria,"1,328"
+Rondônia,2023,Gás de Coqueria,0
+Acre,2023,Gás de Coqueria,0
+Amazonas,2023,Gás de Coqueria,0
+Roraima,2023,Gás de Coqueria,0
+Pará,2023,Gás de Coqueria,0
+Amapá,2023,Gás de Coqueria,0
+Tocantins,2023,Gás de Coqueria,0
+Maranhão,2023,Gás de Coqueria,0
+Piauí,2023,Gás de Coqueria,0
+Ceará,2023,Gás de Coqueria,24
+Rio G. do Norte,2023,Gás de Coqueria,0
+Paraíba,2023,Gás de Coqueria,0
+Pernambuco,2023,Gás de Coqueria,0
+Alagoas,2023,Gás de Coqueria,0
+Sergipe,2023,Gás de Coqueria,0
+Bahia,2023,Gás de Coqueria,0
+Minas Gerais,2023,Gás de Coqueria,74
+Espírito Santo,2023,Gás de Coqueria,657
+Rio de Janeiro,2023,Gás de Coqueria,573
+São Paulo,2023,Gás de Coqueria,0
+Paraná,2023,Gás de Coqueria,0
+Santa Catarina,2023,Gás de Coqueria,0
+Rio G. do Sul,2023,Gás de Coqueria,0
+Mato G. do Sul,2023,Gás de Coqueria,0
+Mato Grosso,2023,Gás de Coqueria,0
+Goiás,2023,Gás de Coqueria,0
+Distrito Federal,2023,Gás de Coqueria,0
+BRASIL,2023,Gás de Coqueria,"1,514"
+BRASIL,2022,Gás de Coqueria,"1,514"
+Rondônia,2022,Gás de Coqueria,0
+Acre,2022,Gás de Coqueria,0
+Amazonas,2022,Gás de Coqueria,0
+Roraima,2022,Gás de Coqueria,0
+Pará,2022,Gás de Coqueria,0
+Amapá,2022,Gás de Coqueria,0
+Tocantins,2022,Gás de Coqueria,0
+Maranhão,2022,Gás de Coqueria,0
+Piauí,2022,Gás de Coqueria,0
+Ceará,2022,Gás de Coqueria,50
+Rio G. do Norte,2022,Gás de Coqueria,0
+Paraíba,2022,Gás de Coqueria,0
+Pernambuco,2022,Gás de Coqueria,0
+Alagoas,2022,Gás de Coqueria,0
+Sergipe,2022,Gás de Coqueria,0
+Bahia,2022,Gás de Coqueria,0
+Minas Gerais,2022,Gás de Coqueria,62
+Espírito Santo,2022,Gás de Coqueria,656
+Rio de Janeiro,2022,Gás de Coqueria,746
+São Paulo,2022,Gás de Coqueria,0
+Paraná,2022,Gás de Coqueria,0
+Santa Catarina,2022,Gás de Coqueria,0
+Rio G. do Sul,2022,Gás de Coqueria,0
+Mato G. do Sul,2022,Gás de Coqueria,0
+Mato Grosso,2022,Gás de Coqueria,0
+Goiás,2022,Gás de Coqueria,0
+Distrito Federal,2022,Gás de Coqueria,0
+BRASIL,2022,Gás de Coqueria,"1,666"
+BRASIL,2021,Gás de Coqueria,"1,666"
+Rondônia,2021,Gás de Coqueria,0
+Acre,2021,Gás de Coqueria,0
+Amazonas,2021,Gás de Coqueria,0
+Roraima,2021,Gás de Coqueria,0
+Pará,2021,Gás de Coqueria,0
+Amapá,2021,Gás de Coqueria,0
+Tocantins,2021,Gás de Coqueria,0
+Maranhão,2021,Gás de Coqueria,0
+Piauí,2021,Gás de Coqueria,0
+Ceará,2021,Gás de Coqueria,78
+Rio G. do Norte,2021,Gás de Coqueria,0
+Paraíba,2021,Gás de Coqueria,0
+Pernambuco,2021,Gás de Coqueria,0
+Alagoas,2021,Gás de Coqueria,0
+Sergipe,2021,Gás de Coqueria,0
+Bahia,2021,Gás de Coqueria,0
+Minas Gerais,2021,Gás de Coqueria,97
+Espírito Santo,2021,Gás de Coqueria,705
+Rio de Janeiro,2021,Gás de Coqueria,786
+São Paulo,2021,Gás de Coqueria,0
+Paraná,2021,Gás de Coqueria,0
+Santa Catarina,2021,Gás de Coqueria,0
+Rio G. do Sul,2021,Gás de Coqueria,0
+Mato G. do Sul,2021,Gás de Coqueria,0
+Mato Grosso,2021,Gás de Coqueria,0
+Goiás,2021,Gás de Coqueria,0
+Distrito Federal,2021,Gás de Coqueria,0
+BRASIL,2021,Gás de Coqueria,"1,435"
+BRASIL,2020,Gás de Coqueria,"1,435"
+Rondônia,2020,Gás de Coqueria,0
+Acre,2020,Gás de Coqueria,0
+Amazonas,2020,Gás de Coqueria,0
+Roraima,2020,Gás de Coqueria,0
+Pará,2020,Gás de Coqueria,0
+Amapá,2020,Gás de Coqueria,0
+Tocantins,2020,Gás de Coqueria,0
+Maranhão,2020,Gás de Coqueria,0
+Piauí,2020,Gás de Coqueria,0
+Ceará,2020,Gás de Coqueria,96
+Rio G. do Norte,2020,Gás de Coqueria,0
+Paraíba,2020,Gás de Coqueria,0
+Pernambuco,2020,Gás de Coqueria,0
+Alagoas,2020,Gás de Coqueria,0
+Sergipe,2020,Gás de Coqueria,0
+Bahia,2020,Gás de Coqueria,0
+Minas Gerais,2020,Gás de Coqueria,67
+Espírito Santo,2020,Gás de Coqueria,570
+Rio de Janeiro,2020,Gás de Coqueria,703
+São Paulo,2020,Gás de Coqueria,0
+Paraná,2020,Gás de Coqueria,0
+Santa Catarina,2020,Gás de Coqueria,0
+Rio G. do Sul,2020,Gás de Coqueria,0
+Mato G. do Sul,2020,Gás de Coqueria,0
+Mato Grosso,2020,Gás de Coqueria,0
+Goiás,2020,Gás de Coqueria,0
+Distrito Federal,2020,Gás de Coqueria,0
+BRASIL,2020,Gás de Coqueria,"1,494"
+BRASIL,2019,Gás de Coqueria,"1,494"
+Rondônia,2019,Gás de Coqueria,0
+Acre,2019,Gás de Coqueria,0
+Amazonas,2019,Gás de Coqueria,0
+Roraima,2019,Gás de Coqueria,0
+Pará,2019,Gás de Coqueria,0
+Amapá,2019,Gás de Coqueria,0
+Tocantins,2019,Gás de Coqueria,0
+Maranhão,2019,Gás de Coqueria,0
+Piauí,2019,Gás de Coqueria,0
+Ceará,2019,Gás de Coqueria,111
+Rio G. do Norte,2019,Gás de Coqueria,0
+Paraíba,2019,Gás de Coqueria,0
+Pernambuco,2019,Gás de Coqueria,0
+Alagoas,2019,Gás de Coqueria,0
+Sergipe,2019,Gás de Coqueria,0
+Bahia,2019,Gás de Coqueria,0
+Minas Gerais,2019,Gás de Coqueria,71
+Espírito Santo,2019,Gás de Coqueria,612
+Rio de Janeiro,2019,Gás de Coqueria,699
+São Paulo,2019,Gás de Coqueria,0
+Paraná,2019,Gás de Coqueria,0
+Santa Catarina,2019,Gás de Coqueria,0
+Rio G. do Sul,2019,Gás de Coqueria,0
+Mato G. do Sul,2019,Gás de Coqueria,0
+Mato Grosso,2019,Gás de Coqueria,0
+Goiás,2019,Gás de Coqueria,0
+Distrito Federal,2019,Gás de Coqueria,0
+BRASIL,2019,Gás de Coqueria,"1,620"
+BRASIL,2018,Gás de Coqueria,"1,620"
+Rondônia,2018,Gás de Coqueria,0
+Acre,2018,Gás de Coqueria,0
+Amazonas,2018,Gás de Coqueria,0
+Roraima,2018,Gás de Coqueria,0
+Pará,2018,Gás de Coqueria,0
+Amapá,2018,Gás de Coqueria,0
+Tocantins,2018,Gás de Coqueria,0
+Maranhão,2018,Gás de Coqueria,0
+Piauí,2018,Gás de Coqueria,0
+Ceará,2018,Gás de Coqueria,93
+Rio G. do Norte,2018,Gás de Coqueria,0
+Paraíba,2018,Gás de Coqueria,0
+Pernambuco,2018,Gás de Coqueria,0
+Alagoas,2018,Gás de Coqueria,0
+Sergipe,2018,Gás de Coqueria,0
+Bahia,2018,Gás de Coqueria,0
+Minas Gerais,2018,Gás de Coqueria,79
+Espírito Santo,2018,Gás de Coqueria,768
+Rio de Janeiro,2018,Gás de Coqueria,680
+São Paulo,2018,Gás de Coqueria,0
+Paraná,2018,Gás de Coqueria,0
+Santa Catarina,2018,Gás de Coqueria,0
+Rio G. do Sul,2018,Gás de Coqueria,0
+Mato G. do Sul,2018,Gás de Coqueria,0
+Mato Grosso,2018,Gás de Coqueria,0
+Goiás,2018,Gás de Coqueria,0
+Distrito Federal,2018,Gás de Coqueria,0
+BRASIL,2018,Gás de Coqueria,"1,607"
+BRASIL,2017,Gás de Coqueria,"1,607"
+Rondônia,2017,Gás de Coqueria,0
+Acre,2017,Gás de Coqueria,0
+Amazonas,2017,Gás de Coqueria,0
+Roraima,2017,Gás de Coqueria,0
+Pará,2017,Gás de Coqueria,0
+Amapá,2017,Gás de Coqueria,0
+Tocantins,2017,Gás de Coqueria,0
+Maranhão,2017,Gás de Coqueria,0
+Piauí,2017,Gás de Coqueria,0
+Ceará,2017,Gás de Coqueria,0
+Rio G. do Norte,2017,Gás de Coqueria,0
+Paraíba,2017,Gás de Coqueria,0
+Pernambuco,2017,Gás de Coqueria,0
+Alagoas,2017,Gás de Coqueria,0
+Sergipe,2017,Gás de Coqueria,0
+Bahia,2017,Gás de Coqueria,0
+Minas Gerais,2017,Gás de Coqueria,65
+Espírito Santo,2017,Gás de Coqueria,745
+Rio de Janeiro,2017,Gás de Coqueria,797
+São Paulo,2017,Gás de Coqueria,0
+Paraná,2017,Gás de Coqueria,0
+Santa Catarina,2017,Gás de Coqueria,0
+Rio G. do Sul,2017,Gás de Coqueria,0
+Mato G. do Sul,2017,Gás de Coqueria,0
+Mato Grosso,2017,Gás de Coqueria,0
+Goiás,2017,Gás de Coqueria,0
+Distrito Federal,2017,Gás de Coqueria,0
+BRASIL,2017,Gás de Coqueria,"1,042"
+BRASIL,2016,Gás de Coqueria,"1,042"
+Rondônia,2016,Gás de Coqueria,0
+Acre,2016,Gás de Coqueria,0
+Amazonas,2016,Gás de Coqueria,0
+Roraima,2016,Gás de Coqueria,0
+Pará,2016,Gás de Coqueria,0
+Amapá,2016,Gás de Coqueria,0
+Tocantins,2016,Gás de Coqueria,0
+Maranhão,2016,Gás de Coqueria,0
+Piauí,2016,Gás de Coqueria,0
+Ceará,2016,Gás de Coqueria,0
+Rio G. do Norte,2016,Gás de Coqueria,0
+Paraíba,2016,Gás de Coqueria,0
+Pernambuco,2016,Gás de Coqueria,0
+Alagoas,2016,Gás de Coqueria,0
+Sergipe,2016,Gás de Coqueria,0
+Bahia,2016,Gás de Coqueria,0
+Minas Gerais,2016,Gás de Coqueria,66
+Espírito Santo,2016,Gás de Coqueria,819
+Rio de Janeiro,2016,Gás de Coqueria,156
+São Paulo,2016,Gás de Coqueria,0
+Paraná,2016,Gás de Coqueria,0
+Santa Catarina,2016,Gás de Coqueria,0
+Rio G. do Sul,2016,Gás de Coqueria,0
+Mato G. do Sul,2016,Gás de Coqueria,0
+Mato Grosso,2016,Gás de Coqueria,0
+Goiás,2016,Gás de Coqueria,0
+Distrito Federal,2016,Gás de Coqueria,0
+BRASIL,2016,Gás de Coqueria,"1,141"
+BRASIL,2015,Gás de Coqueria,"1,141"
+Rondônia,2015,Gás de Coqueria,0
+Acre,2015,Gás de Coqueria,0
+Amazonas,2015,Gás de Coqueria,0
+Roraima,2015,Gás de Coqueria,0
+Pará,2015,Gás de Coqueria,0
+Amapá,2015,Gás de Coqueria,0
+Tocantins,2015,Gás de Coqueria,0
+Maranhão,2015,Gás de Coqueria,0
+Piauí,2015,Gás de Coqueria,0
+Ceará,2015,Gás de Coqueria,0
+Rio G. do Norte,2015,Gás de Coqueria,0
+Paraíba,2015,Gás de Coqueria,0
+Pernambuco,2015,Gás de Coqueria,0
+Alagoas,2015,Gás de Coqueria,0
+Sergipe,2015,Gás de Coqueria,0
+Bahia,2015,Gás de Coqueria,0
+Minas Gerais,2015,Gás de Coqueria,61
+Espírito Santo,2015,Gás de Coqueria,906
+Rio de Janeiro,2015,Gás de Coqueria,163
+São Paulo,2015,Gás de Coqueria,12
+Paraná,2015,Gás de Coqueria,0
+Santa Catarina,2015,Gás de Coqueria,0
+Rio G. do Sul,2015,Gás de Coqueria,0
+Mato G. do Sul,2015,Gás de Coqueria,0
+Mato Grosso,2015,Gás de Coqueria,0
+Goiás,2015,Gás de Coqueria,0
+Distrito Federal,2015,Gás de Coqueria,0
+BRASIL,2015,Gás de Coqueria,"1,345"
+BRASIL,2014,Gás de Coqueria,"1,345"
+Rondônia,2014,Gás de Coqueria,0
+Acre,2014,Gás de Coqueria,0
+Amazonas,2014,Gás de Coqueria,0
+Roraima,2014,Gás de Coqueria,0
+Pará,2014,Gás de Coqueria,0
+Amapá,2014,Gás de Coqueria,0
+Tocantins,2014,Gás de Coqueria,0
+Maranhão,2014,Gás de Coqueria,0
+Piauí,2014,Gás de Coqueria,0
+Ceará,2014,Gás de Coqueria,0
+Rio G. do Norte,2014,Gás de Coqueria,0
+Paraíba,2014,Gás de Coqueria,0
+Pernambuco,2014,Gás de Coqueria,0
+Alagoas,2014,Gás de Coqueria,0
+Sergipe,2014,Gás de Coqueria,0
+Bahia,2014,Gás de Coqueria,0
+Minas Gerais,2014,Gás de Coqueria,71
+Espírito Santo,2014,Gás de Coqueria,"1,012"
+Rio de Janeiro,2014,Gás de Coqueria,235
+São Paulo,2014,Gás de Coqueria,27
+Paraná,2014,Gás de Coqueria,0
+Santa Catarina,2014,Gás de Coqueria,0
+Rio G. do Sul,2014,Gás de Coqueria,0
+Mato G. do Sul,2014,Gás de Coqueria,0
+Mato Grosso,2014,Gás de Coqueria,0
+Goiás,2014,Gás de Coqueria,0
+Distrito Federal,2014,Gás de Coqueria,0
+BRASIL,2014,Gás de Coqueria,"1,018"
+BRASIL,2013,Gás de Coqueria,"1,018"
+Rondônia,2013,Gás de Coqueria,0
+Acre,2013,Gás de Coqueria,0
+Amazonas,2013,Gás de Coqueria,0
+Roraima,2013,Gás de Coqueria,0
+Pará,2013,Gás de Coqueria,0
+Amapá,2013,Gás de Coqueria,0
+Tocantins,2013,Gás de Coqueria,0
+Maranhão,2013,Gás de Coqueria,0
+Piauí,2013,Gás de Coqueria,0
+Ceará,2013,Gás de Coqueria,0
+Rio G. do Norte,2013,Gás de Coqueria,0
+Paraíba,2013,Gás de Coqueria,0
+Pernambuco,2013,Gás de Coqueria,0
+Alagoas,2013,Gás de Coqueria,0
+Sergipe,2013,Gás de Coqueria,0
+Bahia,2013,Gás de Coqueria,0
+Minas Gerais,2013,Gás de Coqueria,60
+Espírito Santo,2013,Gás de Coqueria,727
+Rio de Janeiro,2013,Gás de Coqueria,202
+São Paulo,2013,Gás de Coqueria,28
+Paraná,2013,Gás de Coqueria,0
+Santa Catarina,2013,Gás de Coqueria,0
+Rio G. do Sul,2013,Gás de Coqueria,0
+Mato G. do Sul,2013,Gás de Coqueria,0
+Mato Grosso,2013,Gás de Coqueria,0
+Goiás,2013,Gás de Coqueria,0
+Distrito Federal,2013,Gás de Coqueria,0
+BRASIL,2013,Gás de Coqueria,"1,058"
+BRASIL,2012,Gás de Coqueria,"1,058"
+Rondônia,2012,Gás de Coqueria,0
+Acre,2012,Gás de Coqueria,0
+Amazonas,2012,Gás de Coqueria,0
+Roraima,2012,Gás de Coqueria,0
+Pará,2012,Gás de Coqueria,0
+Amapá,2012,Gás de Coqueria,0
+Tocantins,2012,Gás de Coqueria,0
+Maranhão,2012,Gás de Coqueria,0
+Piauí,2012,Gás de Coqueria,0
+Ceará,2012,Gás de Coqueria,0
+Rio G. do Norte,2012,Gás de Coqueria,0
+Paraíba,2012,Gás de Coqueria,0
+Pernambuco,2012,Gás de Coqueria,0
+Alagoas,2012,Gás de Coqueria,0
+Sergipe,2012,Gás de Coqueria,0
+Bahia,2012,Gás de Coqueria,0
+Minas Gerais,2012,Gás de Coqueria,77
+Espírito Santo,2012,Gás de Coqueria,740
+Rio de Janeiro,2012,Gás de Coqueria,213
+São Paulo,2012,Gás de Coqueria,27
+Paraná,2012,Gás de Coqueria,0
+Santa Catarina,2012,Gás de Coqueria,0
+Rio G. do Sul,2012,Gás de Coqueria,0
+Mato G. do Sul,2012,Gás de Coqueria,0
+Mato Grosso,2012,Gás de Coqueria,0
+Goiás,2012,Gás de Coqueria,0
+Distrito Federal,2012,Gás de Coqueria,0
+BRASIL,2012,Gás de Coqueria,"1,201"
+BRASIL,2011,Gás de Coqueria,"1,201"
+Rondônia,2011,Gás de Coqueria,0
+Acre,2011,Gás de Coqueria,0
+Amazonas,2011,Gás de Coqueria,0
+Roraima,2011,Gás de Coqueria,0
+Pará,2011,Gás de Coqueria,0
+Amapá,2011,Gás de Coqueria,0
+Tocantins,2011,Gás de Coqueria,0
+Maranhão,2011,Gás de Coqueria,0
+Piauí,2011,Gás de Coqueria,0
+Ceará,2011,Gás de Coqueria,0
+Rio G. do Norte,2011,Gás de Coqueria,0
+Paraíba,2011,Gás de Coqueria,0
+Pernambuco,2011,Gás de Coqueria,0
+Alagoas,2011,Gás de Coqueria,0
+Sergipe,2011,Gás de Coqueria,0
+Bahia,2011,Gás de Coqueria,0
+Minas Gerais,2011,Gás de Coqueria,95
+Espírito Santo,2011,Gás de Coqueria,914
+Rio de Janeiro,2011,Gás de Coqueria,169
+São Paulo,2011,Gás de Coqueria,23
+Paraná,2011,Gás de Coqueria,0
+Santa Catarina,2011,Gás de Coqueria,0
+Rio G. do Sul,2011,Gás de Coqueria,0
+Mato G. do Sul,2011,Gás de Coqueria,0
+Mato Grosso,2011,Gás de Coqueria,0
+Goiás,2011,Gás de Coqueria,0
+Distrito Federal,2011,Gás de Coqueria,0
+BRASIL,2023,Óleo Combustível,"1,111"
+Rondônia,2023,Óleo Combustível,0
+Acre,2023,Óleo Combustível,0
+Amazonas,2023,Óleo Combustível,2
+Roraima,2023,Óleo Combustível,0
+Pará,2023,Óleo Combustível,116
+Amapá,2023,Óleo Combustível,0
+Tocantins,2023,Óleo Combustível,0
+Maranhão,2023,Óleo Combustível,30
+Piauí,2023,Óleo Combustível,0
+Ceará,2023,Óleo Combustível,11
+Rio G. do Norte,2023,Óleo Combustível,0
+Paraíba,2023,Óleo Combustível,57
+Pernambuco,2023,Óleo Combustível,60
+Alagoas,2023,Óleo Combustível,0
+Sergipe,2023,Óleo Combustível,0
+Bahia,2023,Óleo Combustível,119
+Minas Gerais,2023,Óleo Combustível,123
+Espírito Santo,2023,Óleo Combustível,25
+Rio de Janeiro,2023,Óleo Combustível,9
+São Paulo,2023,Óleo Combustível,109
+Paraná,2023,Óleo Combustível,57
+Santa Catarina,2023,Óleo Combustível,80
+Rio G. do Sul,2023,Óleo Combustível,84
+Mato G. do Sul,2023,Óleo Combustível,0
+Mato Grosso,2023,Óleo Combustível,0
+Goiás,2023,Óleo Combustível,230
+Distrito Federal,2023,Óleo Combustível,0
+BRASIL,2023,Óleo Combustível,"1,318"
+BRASIL,2022,Óleo Combustível,"1,318"
+Rondônia,2022,Óleo Combustível,0
+Acre,2022,Óleo Combustível,0
+Amazonas,2022,Óleo Combustível,4
+Roraima,2022,Óleo Combustível,0
+Pará,2022,Óleo Combustível,108
+Amapá,2022,Óleo Combustível,0
+Tocantins,2022,Óleo Combustível,0
+Maranhão,2022,Óleo Combustível,0
+Piauí,2022,Óleo Combustível,0
+Ceará,2022,Óleo Combustível,1
+Rio G. do Norte,2022,Óleo Combustível,0
+Paraíba,2022,Óleo Combustível,17
+Pernambuco,2022,Óleo Combustível,295
+Alagoas,2022,Óleo Combustível,0
+Sergipe,2022,Óleo Combustível,0
+Bahia,2022,Óleo Combustível,90
+Minas Gerais,2022,Óleo Combustível,106
+Espírito Santo,2022,Óleo Combustível,30
+Rio de Janeiro,2022,Óleo Combustível,14
+São Paulo,2022,Óleo Combustível,120
+Paraná,2022,Óleo Combustível,54
+Santa Catarina,2022,Óleo Combustível,75
+Rio G. do Sul,2022,Óleo Combustível,144
+Mato G. do Sul,2022,Óleo Combustível,0
+Mato Grosso,2022,Óleo Combustível,0
+Goiás,2022,Óleo Combustível,262
+Distrito Federal,2022,Óleo Combustível,0
+BRASIL,2022,Óleo Combustível,"9,665"
+BRASIL,2021,Óleo Combustível,"9,665"
+Rondônia,2021,Óleo Combustível,0
+Acre,2021,Óleo Combustível,0
+Amazonas,2021,Óleo Combustível,78
+Roraima,2021,Óleo Combustível,0
+Pará,2021,Óleo Combustível,289
+Amapá,2021,Óleo Combustível,0
+Tocantins,2021,Óleo Combustível,0
+Maranhão,2021,Óleo Combustível,"1,363"
+Piauí,2021,Óleo Combustível,0
+Ceará,2021,Óleo Combustível,288
+Rio G. do Norte,2021,Óleo Combustível,0
+Paraíba,2021,Óleo Combustível,"1,763"
+Pernambuco,2021,Óleo Combustível,"2,088"
+Alagoas,2021,Óleo Combustível,0
+Sergipe,2021,Óleo Combustível,0
+Bahia,2021,Óleo Combustível,"1,837"
+Minas Gerais,2021,Óleo Combustível,166
+Espírito Santo,2021,Óleo Combustível,"1,156"
+Rio de Janeiro,2021,Óleo Combustível,13
+São Paulo,2021,Óleo Combustível,108
+Paraná,2021,Óleo Combustível,62
+Santa Catarina,2021,Óleo Combustível,80
+Rio G. do Sul,2021,Óleo Combustível,167
+Mato G. do Sul,2021,Óleo Combustível,0
+Mato Grosso,2021,Óleo Combustível,0
+Goiás,2021,Óleo Combustível,209
+Distrito Federal,2021,Óleo Combustível,0
+BRASIL,2021,Óleo Combustível,"2,612"
+BRASIL,2020,Óleo Combustível,"2,612"
+Rondônia,2020,Óleo Combustível,0
+Acre,2020,Óleo Combustível,0
+Amazonas,2020,Óleo Combustível,110
+Roraima,2020,Óleo Combustível,0
+Pará,2020,Óleo Combustível,254
+Amapá,2020,Óleo Combustível,0
+Tocantins,2020,Óleo Combustível,0
+Maranhão,2020,Óleo Combustível,206
+Piauí,2020,Óleo Combustível,0
+Ceará,2020,Óleo Combustível,62
+Rio G. do Norte,2020,Óleo Combustível,0
+Paraíba,2020,Óleo Combustível,301
+Pernambuco,2020,Óleo Combustível,414
+Alagoas,2020,Óleo Combustível,0
+Sergipe,2020,Óleo Combustível,0
+Bahia,2020,Óleo Combustível,253
+Minas Gerais,2020,Óleo Combustível,118
+Espírito Santo,2020,Óleo Combustível,293
+Rio de Janeiro,2020,Óleo Combustível,9
+São Paulo,2020,Óleo Combustível,99
+Paraná,2020,Óleo Combustível,60
+Santa Catarina,2020,Óleo Combustível,74
+Rio G. do Sul,2020,Óleo Combustível,158
+Mato G. do Sul,2020,Óleo Combustível,0
+Mato Grosso,2020,Óleo Combustível,0
+Goiás,2020,Óleo Combustível,198
+Distrito Federal,2020,Óleo Combustível,0
+BRASIL,2020,Óleo Combustível,"2,352"
+BRASIL,2019,Óleo Combustível,"2,352"
+Rondônia,2019,Óleo Combustível,0
+Acre,2019,Óleo Combustível,0
+Amazonas,2019,Óleo Combustível,116
+Roraima,2019,Óleo Combustível,0
+Pará,2019,Óleo Combustível,273
+Amapá,2019,Óleo Combustível,0
+Tocantins,2019,Óleo Combustível,0
+Maranhão,2019,Óleo Combustível,0
+Piauí,2019,Óleo Combustível,0
+Ceará,2019,Óleo Combustível,20
+Rio G. do Norte,2019,Óleo Combustível,0
+Paraíba,2019,Óleo Combustível,452
+Pernambuco,2019,Óleo Combustível,315
+Alagoas,2019,Óleo Combustível,0
+Sergipe,2019,Óleo Combustível,0
+Bahia,2019,Óleo Combustível,350
+Minas Gerais,2019,Óleo Combustível,168
+Espírito Santo,2019,Óleo Combustível,42
+Rio de Janeiro,2019,Óleo Combustível,9
+São Paulo,2019,Óleo Combustível,108
+Paraná,2019,Óleo Combustível,55
+Santa Catarina,2019,Óleo Combustível,81
+Rio G. do Sul,2019,Óleo Combustível,164
+Mato G. do Sul,2019,Óleo Combustível,0
+Mato Grosso,2019,Óleo Combustível,0
+Goiás,2019,Óleo Combustível,198
+Distrito Federal,2019,Óleo Combustível,0
+BRASIL,2019,Óleo Combustível,"5,047"
+BRASIL,2018,Óleo Combustível,"5,047"
+Rondônia,2018,Óleo Combustível,0
+Acre,2018,Óleo Combustível,0
+Amazonas,2018,Óleo Combustível,97
+Roraima,2018,Óleo Combustível,0
+Pará,2018,Óleo Combustível,449
+Amapá,2018,Óleo Combustível,0
+Tocantins,2018,Óleo Combustível,0
+Maranhão,2018,Óleo Combustível,414
+Piauí,2018,Óleo Combustível,0
+Ceará,2018,Óleo Combustível,47
+Rio G. do Norte,2018,Óleo Combustível,0
+Paraíba,2018,Óleo Combustível,952
+Pernambuco,2018,Óleo Combustível,"1,095"
+Alagoas,2018,Óleo Combustível,0
+Sergipe,2018,Óleo Combustível,0
+Bahia,2018,Óleo Combustível,942
+Minas Gerais,2018,Óleo Combustível,163
+Espírito Santo,2018,Óleo Combustível,223
+Rio de Janeiro,2018,Óleo Combustível,9
+São Paulo,2018,Óleo Combustível,110
+Paraná,2018,Óleo Combustível,57
+Santa Catarina,2018,Óleo Combustível,91
+Rio G. do Sul,2018,Óleo Combustível,201
+Mato G. do Sul,2018,Óleo Combustível,0
+Mato Grosso,2018,Óleo Combustível,0
+Goiás,2018,Óleo Combustível,198
+Distrito Federal,2018,Óleo Combustível,0
+BRASIL,2018,Óleo Combustível,"8,021"
+BRASIL,2017,Óleo Combustível,"8,021"
+Rondônia,2017,Óleo Combustível,0
+Acre,2017,Óleo Combustível,0
+Amazonas,2017,Óleo Combustível,260
+Roraima,2017,Óleo Combustível,0
+Pará,2017,Óleo Combustível,425
+Amapá,2017,Óleo Combustível,0
+Tocantins,2017,Óleo Combustível,0
+Maranhão,2017,Óleo Combustível,796
+Piauí,2017,Óleo Combustível,0
+Ceará,2017,Óleo Combustível,91
+Rio G. do Norte,2017,Óleo Combustível,0
+Paraíba,2017,Óleo Combustível,"1,357"
+Pernambuco,2017,Óleo Combustível,"2,054"
+Alagoas,2017,Óleo Combustível,0
+Sergipe,2017,Óleo Combustível,0
+Bahia,2017,Óleo Combustível,"1,678"
+Minas Gerais,2017,Óleo Combustível,153
+Espírito Santo,2017,Óleo Combustível,590
+Rio de Janeiro,2017,Óleo Combustível,10
+São Paulo,2017,Óleo Combustível,113
+Paraná,2017,Óleo Combustível,57
+Santa Catarina,2017,Óleo Combustível,84
+Rio G. do Sul,2017,Óleo Combustível,162
+Mato G. do Sul,2017,Óleo Combustível,0
+Mato Grosso,2017,Óleo Combustível,0
+Goiás,2017,Óleo Combustível,189
+Distrito Federal,2017,Óleo Combustível,0
+BRASIL,2017,Óleo Combustível,"6,765"
+BRASIL,2016,Óleo Combustível,"6,765"
+Rondônia,2016,Óleo Combustível,0
+Acre,2016,Óleo Combustível,0
+Amazonas,2016,Óleo Combustível,263
+Roraima,2016,Óleo Combustível,0
+Pará,2016,Óleo Combustível,425
+Amapá,2016,Óleo Combustível,0
+Tocantins,2016,Óleo Combustível,0
+Maranhão,2016,Óleo Combustível,680
+Piauí,2016,Óleo Combustível,0
+Ceará,2016,Óleo Combustível,288
+Rio G. do Norte,2016,Óleo Combustível,0
+Paraíba,2016,Óleo Combustível,"1,110"
+Pernambuco,2016,Óleo Combustível,"1,764"
+Alagoas,2016,Óleo Combustível,0
+Sergipe,2016,Óleo Combustível,0
+Bahia,2016,Óleo Combustível,"1,209"
+Minas Gerais,2016,Óleo Combustível,120
+Espírito Santo,2016,Óleo Combustível,336
+Rio de Janeiro,2016,Óleo Combustível,23
+São Paulo,2016,Óleo Combustível,171
+Paraná,2016,Óleo Combustível,67
+Santa Catarina,2016,Óleo Combustível,75
+Rio G. do Sul,2016,Óleo Combustível,206
+Mato G. do Sul,2016,Óleo Combustível,0
+Mato Grosso,2016,Óleo Combustível,0
+Goiás,2016,Óleo Combustível,27
+Distrito Federal,2016,Óleo Combustível,0
+BRASIL,2016,Óleo Combustível,"15,280"
+BRASIL,2015,Óleo Combustível,"15,280"
+Rondônia,2015,Óleo Combustível,0
+Acre,2015,Óleo Combustível,0
+Amazonas,2015,Óleo Combustível,"1,046"
+Roraima,2015,Óleo Combustível,0
+Pará,2015,Óleo Combustível,453
+Amapá,2015,Óleo Combustível,0
+Tocantins,2015,Óleo Combustível,0
+Maranhão,2015,Óleo Combustível,"1,798"
+Piauí,2015,Óleo Combustível,0
+Ceará,2015,Óleo Combustível,930
+Rio G. do Norte,2015,Óleo Combustível,0
+Paraíba,2015,Óleo Combustível,"3,035"
+Pernambuco,2015,Óleo Combustível,"3,329"
+Alagoas,2015,Óleo Combustível,0
+Sergipe,2015,Óleo Combustível,0
+Bahia,2015,Óleo Combustível,"2,707"
+Minas Gerais,2015,Óleo Combustível,295
+Espírito Santo,2015,Óleo Combustível,978
+Rio de Janeiro,2015,Óleo Combustível,23
+São Paulo,2015,Óleo Combustível,203
+Paraná,2015,Óleo Combustível,77
+Santa Catarina,2015,Óleo Combustível,81
+Rio G. do Sul,2015,Óleo Combustível,226
+Mato G. do Sul,2015,Óleo Combustível,0
+Mato Grosso,2015,Óleo Combustível,0
+Goiás,2015,Óleo Combustível,100
+Distrito Federal,2015,Óleo Combustível,0
+BRASIL,2015,Óleo Combustível,"18,117"
+BRASIL,2014,Óleo Combustível,"18,117"
+Rondônia,2014,Óleo Combustível,0
+Acre,2014,Óleo Combustível,0
+Amazonas,2014,Óleo Combustível,"1,063"
+Roraima,2014,Óleo Combustível,0
+Pará,2014,Óleo Combustível,338
+Amapá,2014,Óleo Combustível,0
+Tocantins,2014,Óleo Combustível,0
+Maranhão,2014,Óleo Combustível,"1,789"
+Piauí,2014,Óleo Combustível,0
+Ceará,2014,Óleo Combustível,952
+Rio G. do Norte,2014,Óleo Combustível,0
+Paraíba,2014,Óleo Combustível,"3,116"
+Pernambuco,2014,Óleo Combustível,"4,519"
+Alagoas,2014,Óleo Combustível,0
+Sergipe,2014,Óleo Combustível,0
+Bahia,2014,Óleo Combustível,"3,593"
+Minas Gerais,2014,Óleo Combustível,888
+Espírito Santo,2014,Óleo Combustível,"1,211"
+Rio de Janeiro,2014,Óleo Combustível,38
+São Paulo,2014,Óleo Combustível,111
+Paraná,2014,Óleo Combustível,40
+Santa Catarina,2014,Óleo Combustível,86
+Rio G. do Sul,2014,Óleo Combustível,251
+Mato G. do Sul,2014,Óleo Combustível,0
+Mato Grosso,2014,Óleo Combustível,0
+Goiás,2014,Óleo Combustível,121
+Distrito Federal,2014,Óleo Combustível,0
+BRASIL,2014,Óleo Combustível,"11,245"
+BRASIL,2013,Óleo Combustível,"11,245"
+Rondônia,2013,Óleo Combustível,0
+Acre,2013,Óleo Combustível,0
+Amazonas,2013,Óleo Combustível,"1,177"
+Roraima,2013,Óleo Combustível,0
+Pará,2013,Óleo Combustível,391
+Amapá,2013,Óleo Combustível,0
+Tocantins,2013,Óleo Combustível,0
+Maranhão,2013,Óleo Combustível,851
+Piauí,2013,Óleo Combustível,0
+Ceará,2013,Óleo Combustível,698
+Rio G. do Norte,2013,Óleo Combustível,0
+Paraíba,2013,Óleo Combustível,"1,537"
+Pernambuco,2013,Óleo Combustível,"2,073"
+Alagoas,2013,Óleo Combustível,0
+Sergipe,2013,Óleo Combustível,0
+Bahia,2013,Óleo Combustível,"2,414"
+Minas Gerais,2013,Óleo Combustível,288
+Espírito Santo,2013,Óleo Combustível,907
+Rio de Janeiro,2013,Óleo Combustível,7
+São Paulo,2013,Óleo Combustível,332
+Paraná,2013,Óleo Combustível,113
+Santa Catarina,2013,Óleo Combustível,80
+Rio G. do Sul,2013,Óleo Combustível,281
+Mato G. do Sul,2013,Óleo Combustível,0
+Mato Grosso,2013,Óleo Combustível,0
+Goiás,2013,Óleo Combustível,95
+Distrito Federal,2013,Óleo Combustível,0
+BRASIL,2013,Óleo Combustível,"5,822"
+BRASIL,2012,Óleo Combustível,"5,822"
+Rondônia,2012,Óleo Combustível,16
+Acre,2012,Óleo Combustível,0
+Amazonas,2012,Óleo Combustível,"1,436"
+Roraima,2012,Óleo Combustível,0
+Pará,2012,Óleo Combustível,412
+Amapá,2012,Óleo Combustível,0
+Tocantins,2012,Óleo Combustível,0
+Maranhão,2012,Óleo Combustível,507
+Piauí,2012,Óleo Combustível,0
+Ceará,2012,Óleo Combustível,111
+Rio G. do Norte,2012,Óleo Combustível,0
+Paraíba,2012,Óleo Combustível,644
+Pernambuco,2012,Óleo Combustível,251
+Alagoas,2012,Óleo Combustível,0
+Sergipe,2012,Óleo Combustível,0
+Bahia,2012,Óleo Combustível,"1,250"
+Minas Gerais,2012,Óleo Combustível,161
+Espírito Santo,2012,Óleo Combustível,320
+Rio de Janeiro,2012,Óleo Combustível,5
+São Paulo,2012,Óleo Combustível,178
+Paraná,2012,Óleo Combustível,89
+Santa Catarina,2012,Óleo Combustível,70
+Rio G. do Sul,2012,Óleo Combustível,177
+Mato G. do Sul,2012,Óleo Combustível,0
+Mato Grosso,2012,Óleo Combustível,0
+Goiás,2012,Óleo Combustível,195
+Distrito Federal,2012,Óleo Combustível,0
+BRASIL,2012,Óleo Combustível,"3,268"
+BRASIL,2011,Óleo Combustível,"3,268"
+Rondônia,2011,Óleo Combustível,16
+Acre,2011,Óleo Combustível,0
+Amazonas,2011,Óleo Combustível,"1,898"
+Roraima,2011,Óleo Combustível,0
+Pará,2011,Óleo Combustível,353
+Amapá,2011,Óleo Combustível,0
+Tocantins,2011,Óleo Combustível,0
+Maranhão,2011,Óleo Combustível,0
+Piauí,2011,Óleo Combustível,0
+Ceará,2011,Óleo Combustível,1
+Rio G. do Norte,2011,Óleo Combustível,0
+Paraíba,2011,Óleo Combustível,20
+Pernambuco,2011,Óleo Combustível,1
+Alagoas,2011,Óleo Combustível,0
+Sergipe,2011,Óleo Combustível,0
+Bahia,2011,Óleo Combustível,129
+Minas Gerais,2011,Óleo Combustível,158
+Espírito Santo,2011,Óleo Combustível,20
+Rio de Janeiro,2011,Óleo Combustível,4
+São Paulo,2011,Óleo Combustível,206
+Paraná,2011,Óleo Combustível,76
+Santa Catarina,2011,Óleo Combustível,69
+Rio G. do Sul,2011,Óleo Combustível,121
+Mato G. do Sul,2011,Óleo Combustível,0
+Mato Grosso,2011,Óleo Combustível,0
+Goiás,2011,Óleo Combustível,195
+Distrito Federal,2011,Óleo Combustível,0
+BRASIL,2023,Óleo Diesel,"4,930"
+Rondônia,2023,Óleo Diesel,15
+Acre,2023,Óleo Diesel,231
+Amazonas,2023,Óleo Diesel,"1,753"
+Roraima,2023,Óleo Diesel,415
+Pará,2023,Óleo Diesel,315
+Amapá,2023,Óleo Diesel,58
+Tocantins,2023,Óleo Diesel,0
+Maranhão,2023,Óleo Diesel,2
+Piauí,2023,Óleo Diesel,1
+Ceará,2023,Óleo Diesel,11
+Rio G. do Norte,2023,Óleo Diesel,6
+Paraíba,2023,Óleo Diesel,1
+Pernambuco,2023,Óleo Diesel,33
+Alagoas,2023,Óleo Diesel,0
+Sergipe,2023,Óleo Diesel,3
+Bahia,2023,Óleo Diesel,7
+Minas Gerais,2023,Óleo Diesel,18
+Espírito Santo,2023,Óleo Diesel,409
+Rio de Janeiro,2023,Óleo Diesel,"1,249"
+São Paulo,2023,Óleo Diesel,273
+Paraná,2023,Óleo Diesel,28
+Santa Catarina,2023,Óleo Diesel,14
+Rio G. do Sul,2023,Óleo Diesel,68
+Mato G. do Sul,2023,Óleo Diesel,1
+Mato Grosso,2023,Óleo Diesel,11
+Goiás,2023,Óleo Diesel,7
+Distrito Federal,2023,Óleo Diesel,1
+BRASIL,2023,Óleo Diesel,"6,497"
+BRASIL,2022,Óleo Diesel,"6,497"
+Rondônia,2022,Óleo Diesel,564
+Acre,2022,Óleo Diesel,258
+Amazonas,2022,Óleo Diesel,"1,782"
+Roraima,2022,Óleo Diesel,731
+Pará,2022,Óleo Diesel,337
+Amapá,2022,Óleo Diesel,19
+Tocantins,2022,Óleo Diesel,0
+Maranhão,2022,Óleo Diesel,1
+Piauí,2022,Óleo Diesel,1
+Ceará,2022,Óleo Diesel,4
+Rio G. do Norte,2022,Óleo Diesel,7
+Paraíba,2022,Óleo Diesel,1
+Pernambuco,2022,Óleo Diesel,30
+Alagoas,2022,Óleo Diesel,0
+Sergipe,2022,Óleo Diesel,3
+Bahia,2022,Óleo Diesel,7
+Minas Gerais,2022,Óleo Diesel,17
+Espírito Santo,2022,Óleo Diesel,489
+Rio de Janeiro,2022,Óleo Diesel,"1,492"
+São Paulo,2022,Óleo Diesel,303
+Paraná,2022,Óleo Diesel,33
+Santa Catarina,2022,Óleo Diesel,17
+Rio G. do Sul,2022,Óleo Diesel,365
+Mato G. do Sul,2022,Óleo Diesel,1
+Mato Grosso,2022,Óleo Diesel,17
+Goiás,2022,Óleo Diesel,17
+Distrito Federal,2022,Óleo Diesel,1
+BRASIL,2022,Óleo Diesel,"8,579"
+BRASIL,2021,Óleo Diesel,"8,579"
+Rondônia,2021,Óleo Diesel,776
+Acre,2021,Óleo Diesel,239
+Amazonas,2021,Óleo Diesel,"1,666"
+Roraima,2021,Óleo Diesel,"1,209"
+Pará,2021,Óleo Diesel,340
+Amapá,2021,Óleo Diesel,55
+Tocantins,2021,Óleo Diesel,0
+Maranhão,2021,Óleo Diesel,5
+Piauí,2021,Óleo Diesel,1
+Ceará,2021,Óleo Diesel,300
+Rio G. do Norte,2021,Óleo Diesel,190
+Paraíba,2021,Óleo Diesel,3
+Pernambuco,2021,Óleo Diesel,731
+Alagoas,2021,Óleo Diesel,0
+Sergipe,2021,Óleo Diesel,3
+Bahia,2021,Óleo Diesel,7
+Minas Gerais,2021,Óleo Diesel,17
+Espírito Santo,2021,Óleo Diesel,477
+Rio de Janeiro,2021,Óleo Diesel,"1,455"
+São Paulo,2021,Óleo Diesel,299
+Paraná,2021,Óleo Diesel,32
+Santa Catarina,2021,Óleo Diesel,22
+Rio G. do Sul,2021,Óleo Diesel,70
+Mato G. do Sul,2021,Óleo Diesel,153
+Mato Grosso,2021,Óleo Diesel,19
+Goiás,2021,Óleo Diesel,511
+Distrito Federal,2021,Óleo Diesel,1
+BRASIL,2021,Óleo Diesel,"5,944"
+BRASIL,2020,Óleo Diesel,"5,944"
+Rondônia,2020,Óleo Diesel,354
+Acre,2020,Óleo Diesel,241
+Amazonas,2020,Óleo Diesel,"1,673"
+Roraima,2020,Óleo Diesel,"1,252"
+Pará,2020,Óleo Diesel,378
+Amapá,2020,Óleo Diesel,57
+Tocantins,2020,Óleo Diesel,0
+Maranhão,2020,Óleo Diesel,2
+Piauí,2020,Óleo Diesel,1
+Ceará,2020,Óleo Diesel,5
+Rio G. do Norte,2020,Óleo Diesel,27
+Paraíba,2020,Óleo Diesel,0
+Pernambuco,2020,Óleo Diesel,53
+Alagoas,2020,Óleo Diesel,0
+Sergipe,2020,Óleo Diesel,3
+Bahia,2020,Óleo Diesel,7
+Minas Gerais,2020,Óleo Diesel,18
+Espírito Santo,2020,Óleo Diesel,223
+Rio de Janeiro,2020,Óleo Diesel,682
+São Paulo,2020,Óleo Diesel,203
+Paraná,2020,Óleo Diesel,17
+Santa Catarina,2020,Óleo Diesel,19
+Rio G. do Sul,2020,Óleo Diesel,475
+Mato G. do Sul,2020,Óleo Diesel,1
+Mato Grosso,2020,Óleo Diesel,18
+Goiás,2020,Óleo Diesel,232
+Distrito Federal,2020,Óleo Diesel,1
+BRASIL,2020,Óleo Diesel,"5,495"
+BRASIL,2019,Óleo Diesel,"5,495"
+Rondônia,2019,Óleo Diesel,362
+Acre,2019,Óleo Diesel,243
+Amazonas,2019,Óleo Diesel,"1,695"
+Roraima,2019,Óleo Diesel,"1,101"
+Pará,2019,Óleo Diesel,364
+Amapá,2019,Óleo Diesel,55
+Tocantins,2019,Óleo Diesel,0
+Maranhão,2019,Óleo Diesel,3
+Piauí,2019,Óleo Diesel,1
+Ceará,2019,Óleo Diesel,9
+Rio G. do Norte,2019,Óleo Diesel,29
+Paraíba,2019,Óleo Diesel,4
+Pernambuco,2019,Óleo Diesel,60
+Alagoas,2019,Óleo Diesel,0
+Sergipe,2019,Óleo Diesel,3
+Bahia,2019,Óleo Diesel,8
+Minas Gerais,2019,Óleo Diesel,19
+Espírito Santo,2019,Óleo Diesel,291
+Rio de Janeiro,2019,Óleo Diesel,891
+São Paulo,2019,Óleo Diesel,229
+Paraná,2019,Óleo Diesel,21
+Santa Catarina,2019,Óleo Diesel,16
+Rio G. do Sul,2019,Óleo Diesel,61
+Mato G. do Sul,2019,Óleo Diesel,1
+Mato Grosso,2019,Óleo Diesel,17
+Goiás,2019,Óleo Diesel,10
+Distrito Federal,2019,Óleo Diesel,1
+BRASIL,2019,Óleo Diesel,"5,246"
+BRASIL,2018,Óleo Diesel,"5,246"
+Rondônia,2018,Óleo Diesel,344
+Acre,2018,Óleo Diesel,235
+Amazonas,2018,Óleo Diesel,"2,090"
+Roraima,2018,Óleo Diesel,301
+Pará,2018,Óleo Diesel,438
+Amapá,2018,Óleo Diesel,51
+Tocantins,2018,Óleo Diesel,0
+Maranhão,2018,Óleo Diesel,4
+Piauí,2018,Óleo Diesel,1
+Ceará,2018,Óleo Diesel,11
+Rio G. do Norte,2018,Óleo Diesel,33
+Paraíba,2018,Óleo Diesel,1
+Pernambuco,2018,Óleo Diesel,97
+Alagoas,2018,Óleo Diesel,0
+Sergipe,2018,Óleo Diesel,5
+Bahia,2018,Óleo Diesel,10
+Minas Gerais,2018,Óleo Diesel,28
+Espírito Santo,2018,Óleo Diesel,271
+Rio de Janeiro,2018,Óleo Diesel,886
+São Paulo,2018,Óleo Diesel,295
+Paraná,2018,Óleo Diesel,22
+Santa Catarina,2018,Óleo Diesel,18
+Rio G. do Sul,2018,Óleo Diesel,71
+Mato G. do Sul,2018,Óleo Diesel,1
+Mato Grosso,2018,Óleo Diesel,19
+Goiás,2018,Óleo Diesel,12
+Distrito Federal,2018,Óleo Diesel,2
+BRASIL,2018,Óleo Diesel,"4,890"
+BRASIL,2017,Óleo Diesel,"4,890"
+Rondônia,2017,Óleo Diesel,269
+Acre,2017,Óleo Diesel,182
+Amazonas,2017,Óleo Diesel,"1,837"
+Roraima,2017,Óleo Diesel,120
+Pará,2017,Óleo Diesel,312
+Amapá,2017,Óleo Diesel,38
+Tocantins,2017,Óleo Diesel,0
+Maranhão,2017,Óleo Diesel,6
+Piauí,2017,Óleo Diesel,2
+Ceará,2017,Óleo Diesel,88
+Rio G. do Norte,2017,Óleo Diesel,49
+Paraíba,2017,Óleo Diesel,16
+Pernambuco,2017,Óleo Diesel,138
+Alagoas,2017,Óleo Diesel,0
+Sergipe,2017,Óleo Diesel,5
+Bahia,2017,Óleo Diesel,10
+Minas Gerais,2017,Óleo Diesel,28
+Espírito Santo,2017,Óleo Diesel,277
+Rio de Janeiro,2017,Óleo Diesel,965
+São Paulo,2017,Óleo Diesel,300
+Paraná,2017,Óleo Diesel,19
+Santa Catarina,2017,Óleo Diesel,19
+Rio G. do Sul,2017,Óleo Diesel,167
+Mato G. do Sul,2017,Óleo Diesel,1
+Mato Grosso,2017,Óleo Diesel,25
+Goiás,2017,Óleo Diesel,16
+Distrito Federal,2017,Óleo Diesel,2
+BRASIL,2017,Óleo Diesel,"5,443"
+BRASIL,2016,Óleo Diesel,"5,443"
+Rondônia,2016,Óleo Diesel,606
+Acre,2016,Óleo Diesel,221
+Amazonas,2016,Óleo Diesel,"1,995"
+Roraima,2016,Óleo Diesel,144
+Pará,2016,Óleo Diesel,445
+Amapá,2016,Óleo Diesel,60
+Tocantins,2016,Óleo Diesel,0
+Maranhão,2016,Óleo Diesel,10
+Piauí,2016,Óleo Diesel,1
+Ceará,2016,Óleo Diesel,11
+Rio G. do Norte,2016,Óleo Diesel,69
+Paraíba,2016,Óleo Diesel,12
+Pernambuco,2016,Óleo Diesel,148
+Alagoas,2016,Óleo Diesel,0
+Sergipe,2016,Óleo Diesel,5
+Bahia,2016,Óleo Diesel,10
+Minas Gerais,2016,Óleo Diesel,33
+Espírito Santo,2016,Óleo Diesel,276
+Rio de Janeiro,2016,Óleo Diesel,962
+São Paulo,2016,Óleo Diesel,300
+Paraná,2016,Óleo Diesel,20
+Santa Catarina,2016,Óleo Diesel,20
+Rio G. do Sul,2016,Óleo Diesel,55
+Mato G. do Sul,2016,Óleo Diesel,1
+Mato Grosso,2016,Óleo Diesel,26
+Goiás,2016,Óleo Diesel,11
+Distrito Federal,2016,Óleo Diesel,2
+BRASIL,2016,Óleo Diesel,"10,427"
+BRASIL,2015,Óleo Diesel,"10,427"
+Rondônia,2015,Óleo Diesel,"1,890"
+Acre,2015,Óleo Diesel,260
+Amazonas,2015,Óleo Diesel,"2,580"
+Roraima,2015,Óleo Diesel,139
+Pará,2015,Óleo Diesel,435
+Amapá,2015,Óleo Diesel,396
+Tocantins,2015,Óleo Diesel,0
+Maranhão,2015,Óleo Diesel,1
+Piauí,2015,Óleo Diesel,15
+Ceará,2015,Óleo Diesel,50
+Rio G. do Norte,2015,Óleo Diesel,409
+Paraíba,2015,Óleo Diesel,1
+Pernambuco,2015,Óleo Diesel,830
+Alagoas,2015,Óleo Diesel,0
+Sergipe,2015,Óleo Diesel,5
+Bahia,2015,Óleo Diesel,167
+Minas Gerais,2015,Óleo Diesel,29
+Espírito Santo,2015,Óleo Diesel,273
+Rio de Janeiro,2015,Óleo Diesel,835
+São Paulo,2015,Óleo Diesel,340
+Paraná,2015,Óleo Diesel,20
+Santa Catarina,2015,Óleo Diesel,36
+Rio G. do Sul,2015,Óleo Diesel,604
+Mato G. do Sul,2015,Óleo Diesel,1
+Mato Grosso,2015,Óleo Diesel,58
+Goiás,2015,Óleo Diesel,"1,051"
+Distrito Federal,2015,Óleo Diesel,2
+BRASIL,2015,Óleo Diesel,"13,412"
+BRASIL,2014,Óleo Diesel,"13,412"
+Rondônia,2014,Óleo Diesel,"2,072"
+Acre,2014,Óleo Diesel,243
+Amazonas,2014,Óleo Diesel,"2,583"
+Roraima,2014,Óleo Diesel,204
+Pará,2014,Óleo Diesel,494
+Amapá,2014,Óleo Diesel,"1,197"
+Tocantins,2014,Óleo Diesel,1
+Maranhão,2014,Óleo Diesel,1
+Piauí,2014,Óleo Diesel,98
+Ceará,2014,Óleo Diesel,217
+Rio G. do Norte,2014,Óleo Diesel,426
+Paraíba,2014,Óleo Diesel,5
+Pernambuco,2014,Óleo Diesel,"1,195"
+Alagoas,2014,Óleo Diesel,1
+Sergipe,2014,Óleo Diesel,9
+Bahia,2014,Óleo Diesel,493
+Minas Gerais,2014,Óleo Diesel,40
+Espírito Santo,2014,Óleo Diesel,246
+Rio de Janeiro,2014,Óleo Diesel,789
+São Paulo,2014,Óleo Diesel,240
+Paraná,2014,Óleo Diesel,22
+Santa Catarina,2014,Óleo Diesel,20
+Rio G. do Sul,2014,Óleo Diesel,"1,135"
+Mato G. do Sul,2014,Óleo Diesel,1
+Mato Grosso,2014,Óleo Diesel,60
+Goiás,2014,Óleo Diesel,"1,618"
+Distrito Federal,2014,Óleo Diesel,3
+BRASIL,2014,Óleo Diesel,"10,978"
+BRASIL,2013,Óleo Diesel,"10,978"
+Rondônia,2013,Óleo Diesel,"1,231"
+Acre,2013,Óleo Diesel,226
+Amazonas,2013,Óleo Diesel,"3,157"
+Roraima,2013,Óleo Diesel,126
+Pará,2013,Óleo Diesel,502
+Amapá,2013,Óleo Diesel,"1,221"
+Tocantins,2013,Óleo Diesel,1
+Maranhão,2013,Óleo Diesel,1
+Piauí,2013,Óleo Diesel,109
+Ceará,2013,Óleo Diesel,298
+Rio G. do Norte,2013,Óleo Diesel,248
+Paraíba,2013,Óleo Diesel,1
+Pernambuco,2013,Óleo Diesel,546
+Alagoas,2013,Óleo Diesel,0
+Sergipe,2013,Óleo Diesel,9
+Bahia,2013,Óleo Diesel,265
+Minas Gerais,2013,Óleo Diesel,37
+Espírito Santo,2013,Óleo Diesel,92
+Rio de Janeiro,2013,Óleo Diesel,"1,145"
+São Paulo,2013,Óleo Diesel,138
+Paraná,2013,Óleo Diesel,9
+Santa Catarina,2013,Óleo Diesel,23
+Rio G. do Sul,2013,Óleo Diesel,656
+Mato G. do Sul,2013,Óleo Diesel,1
+Mato Grosso,2013,Óleo Diesel,51
+Goiás,2013,Óleo Diesel,882
+Distrito Federal,2013,Óleo Diesel,3
+BRASIL,2013,Óleo Diesel,"10,471"
+BRASIL,2012,Óleo Diesel,"10,471"
+Rondônia,2012,Óleo Diesel,"1,676"
+Acre,2012,Óleo Diesel,371
+Amazonas,2012,Óleo Diesel,"3,232"
+Roraima,2012,Óleo Diesel,84
+Pará,2012,Óleo Diesel,452
+Amapá,2012,Óleo Diesel,"1,308"
+Tocantins,2012,Óleo Diesel,0
+Maranhão,2012,Óleo Diesel,6
+Piauí,2012,Óleo Diesel,53
+Ceará,2012,Óleo Diesel,133
+Rio G. do Norte,2012,Óleo Diesel,175
+Paraíba,2012,Óleo Diesel,3
+Pernambuco,2012,Óleo Diesel,375
+Alagoas,2012,Óleo Diesel,4
+Sergipe,2012,Óleo Diesel,10
+Bahia,2012,Óleo Diesel,119
+Minas Gerais,2012,Óleo Diesel,57
+Espírito Santo,2012,Óleo Diesel,98
+Rio de Janeiro,2012,Óleo Diesel,987
+São Paulo,2012,Óleo Diesel,189
+Paraná,2012,Óleo Diesel,29
+Santa Catarina,2012,Óleo Diesel,45
+Rio G. do Sul,2012,Óleo Diesel,396
+Mato G. do Sul,2012,Óleo Diesel,6
+Mato Grosso,2012,Óleo Diesel,23
+Goiás,2012,Óleo Diesel,639
+Distrito Federal,2012,Óleo Diesel,2
+BRASIL,2012,Óleo Diesel,"8,970"
+BRASIL,2011,Óleo Diesel,"8,970"
+Rondônia,2011,Óleo Diesel,"2,297"
+Acre,2011,Óleo Diesel,196
+Amazonas,2011,Óleo Diesel,"3,173"
+Roraima,2011,Óleo Diesel,90
+Pará,2011,Óleo Diesel,462
+Amapá,2011,Óleo Diesel,"1,008"
+Tocantins,2011,Óleo Diesel,0
+Maranhão,2011,Óleo Diesel,7
+Piauí,2011,Óleo Diesel,0
+Ceará,2011,Óleo Diesel,8
+Rio G. do Norte,2011,Óleo Diesel,9
+Paraíba,2011,Óleo Diesel,3
+Pernambuco,2011,Óleo Diesel,26
+Alagoas,2011,Óleo Diesel,4
+Sergipe,2011,Óleo Diesel,10
+Bahia,2011,Óleo Diesel,125
+Minas Gerais,2011,Óleo Diesel,62
+Espírito Santo,2011,Óleo Diesel,100
+Rio de Janeiro,2011,Óleo Diesel,968
+São Paulo,2011,Óleo Diesel,203
+Paraná,2011,Óleo Diesel,32
+Santa Catarina,2011,Óleo Diesel,44
+Rio G. do Sul,2011,Óleo Diesel,55
+Mato G. do Sul,2011,Óleo Diesel,6
+Mato Grosso,2011,Óleo Diesel,25
+Goiás,2011,Óleo Diesel,54
+Distrito Federal,2011,Óleo Diesel,2
+BRASIL,2023,Outras Não Renováveis,"9,057"
+Rondônia,2023,Outras Não Renováveis,0
+Acre,2023,Outras Não Renováveis,0
+Amazonas,2023,Outras Não Renováveis,20
+Roraima,2023,Outras Não Renováveis,0
+Pará,2023,Outras Não Renováveis,89
+Amapá,2023,Outras Não Renováveis,0
+Tocantins,2023,Outras Não Renováveis,0
+Maranhão,2023,Outras Não Renováveis,31
+Piauí,2023,Outras Não Renováveis,0
+Ceará,2023,Outras Não Renováveis,53
+Rio G. do Norte,2023,Outras Não Renováveis,0
+Paraíba,2023,Outras Não Renováveis,0
+Pernambuco,2023,Outras Não Renováveis,273
+Alagoas,2023,Outras Não Renováveis,0
+Sergipe,2023,Outras Não Renováveis,0
+Bahia,2023,Outras Não Renováveis,851
+Minas Gerais,2023,Outras Não Renováveis,917
+Espírito Santo,2023,Outras Não Renováveis,"1,707"
+Rio de Janeiro,2023,Outras Não Renováveis,"2,843"
+São Paulo,2023,Outras Não Renováveis,"1,269"
+Paraná,2023,Outras Não Renováveis,218
+Santa Catarina,2023,Outras Não Renováveis,0
+Rio G. do Sul,2023,Outras Não Renováveis,698
+Mato G. do Sul,2023,Outras Não Renováveis,0
+Mato Grosso,2023,Outras Não Renováveis,0
+Goiás,2023,Outras Não Renováveis,87
+Distrito Federal,2023,Outras Não Renováveis,0
+BRASIL,2023,Outras Não Renováveis,"9,796"
+BRASIL,2022,Outras Não Renováveis,"9,796"
+Rondônia,2022,Outras Não Renováveis,0
+Acre,2022,Outras Não Renováveis,0
+Amazonas,2022,Outras Não Renováveis,22
+Roraima,2022,Outras Não Renováveis,0
+Pará,2022,Outras Não Renováveis,0
+Amapá,2022,Outras Não Renováveis,0
+Tocantins,2022,Outras Não Renováveis,0
+Maranhão,2022,Outras Não Renováveis,36
+Piauí,2022,Outras Não Renováveis,0
+Ceará,2022,Outras Não Renováveis,91
+Rio G. do Norte,2022,Outras Não Renováveis,0
+Paraíba,2022,Outras Não Renováveis,0
+Pernambuco,2022,Outras Não Renováveis,7
+Alagoas,2022,Outras Não Renováveis,0
+Sergipe,2022,Outras Não Renováveis,0
+Bahia,2022,Outras Não Renováveis,738
+Minas Gerais,2022,Outras Não Renováveis,994
+Espírito Santo,2022,Outras Não Renováveis,"1,704"
+Rio de Janeiro,2022,Outras Não Renováveis,"4,239"
+São Paulo,2022,Outras Não Renováveis,"1,055"
+Paraná,2022,Outras Não Renováveis,234
+Santa Catarina,2022,Outras Não Renováveis,0
+Rio G. do Sul,2022,Outras Não Renováveis,588
+Mato G. do Sul,2022,Outras Não Renováveis,0
+Mato Grosso,2022,Outras Não Renováveis,0
+Goiás,2022,Outras Não Renováveis,89
+Distrito Federal,2022,Outras Não Renováveis,0
+BRASIL,2022,Outras Não Renováveis,"10,173"
+BRASIL,2021,Outras Não Renováveis,"10,173"
+Rondônia,2021,Outras Não Renováveis,0
+Acre,2021,Outras Não Renováveis,0
+Amazonas,2021,Outras Não Renováveis,20
+Roraima,2021,Outras Não Renováveis,0
+Pará,2021,Outras Não Renováveis,0
+Amapá,2021,Outras Não Renováveis,0
+Tocantins,2021,Outras Não Renováveis,0
+Maranhão,2021,Outras Não Renováveis,36
+Piauí,2021,Outras Não Renováveis,0
+Ceará,2021,Outras Não Renováveis,151
+Rio G. do Norte,2021,Outras Não Renováveis,0
+Paraíba,2021,Outras Não Renováveis,0
+Pernambuco,2021,Outras Não Renováveis,47
+Alagoas,2021,Outras Não Renováveis,0
+Sergipe,2021,Outras Não Renováveis,0
+Bahia,2021,Outras Não Renováveis,703
+Minas Gerais,2021,Outras Não Renováveis,"1,137"
+Espírito Santo,2021,Outras Não Renováveis,"1,831"
+Rio de Janeiro,2021,Outras Não Renováveis,"4,330"
+São Paulo,2021,Outras Não Renováveis,"1,135"
+Paraná,2021,Outras Não Renováveis,190
+Santa Catarina,2021,Outras Não Renováveis,0
+Rio G. do Sul,2021,Outras Não Renováveis,547
+Mato G. do Sul,2021,Outras Não Renováveis,0
+Mato Grosso,2021,Outras Não Renováveis,0
+Goiás,2021,Outras Não Renováveis,46
+Distrito Federal,2021,Outras Não Renováveis,0
+BRASIL,2021,Outras Não Renováveis,"9,379"
+BRASIL,2020,Outras Não Renováveis,"9,379"
+Rondônia,2020,Outras Não Renováveis,0
+Acre,2020,Outras Não Renováveis,0
+Amazonas,2020,Outras Não Renováveis,17
+Roraima,2020,Outras Não Renováveis,0
+Pará,2020,Outras Não Renováveis,69
+Amapá,2020,Outras Não Renováveis,0
+Tocantins,2020,Outras Não Renováveis,0
+Maranhão,2020,Outras Não Renováveis,24
+Piauí,2020,Outras Não Renováveis,0
+Ceará,2020,Outras Não Renováveis,174
+Rio G. do Norte,2020,Outras Não Renováveis,0
+Paraíba,2020,Outras Não Renováveis,0
+Pernambuco,2020,Outras Não Renováveis,47
+Alagoas,2020,Outras Não Renováveis,0
+Sergipe,2020,Outras Não Renováveis,0
+Bahia,2020,Outras Não Renováveis,515
+Minas Gerais,2020,Outras Não Renováveis,954
+Espírito Santo,2020,Outras Não Renováveis,"1,479"
+Rio de Janeiro,2020,Outras Não Renováveis,"4,201"
+São Paulo,2020,Outras Não Renováveis,"1,094"
+Paraná,2020,Outras Não Renováveis,169
+Santa Catarina,2020,Outras Não Renováveis,0
+Rio G. do Sul,2020,Outras Não Renováveis,587
+Mato G. do Sul,2020,Outras Não Renováveis,0
+Mato Grosso,2020,Outras Não Renováveis,0
+Goiás,2020,Outras Não Renováveis,46
+Distrito Federal,2020,Outras Não Renováveis,0
+BRASIL,2020,Outras Não Renováveis,"10,338"
+BRASIL,2019,Outras Não Renováveis,"10,338"
+Rondônia,2019,Outras Não Renováveis,0
+Acre,2019,Outras Não Renováveis,0
+Amazonas,2019,Outras Não Renováveis,17
+Roraima,2019,Outras Não Renováveis,0
+Pará,2019,Outras Não Renováveis,73
+Amapá,2019,Outras Não Renováveis,0
+Tocantins,2019,Outras Não Renováveis,0
+Maranhão,2019,Outras Não Renováveis,25
+Piauí,2019,Outras Não Renováveis,0
+Ceará,2019,Outras Não Renováveis,193
+Rio G. do Norte,2019,Outras Não Renováveis,0
+Paraíba,2019,Outras Não Renováveis,0
+Pernambuco,2019,Outras Não Renováveis,184
+Alagoas,2019,Outras Não Renováveis,0
+Sergipe,2019,Outras Não Renováveis,0
+Bahia,2019,Outras Não Renováveis,631
+Minas Gerais,2019,Outras Não Renováveis,"1,058"
+Espírito Santo,2019,Outras Não Renováveis,"1,589"
+Rio de Janeiro,2019,Outras Não Renováveis,"4,435"
+São Paulo,2019,Outras Não Renováveis,"1,324"
+Paraná,2019,Outras Não Renováveis,176
+Santa Catarina,2019,Outras Não Renováveis,0
+Rio G. do Sul,2019,Outras Não Renováveis,571
+Mato G. do Sul,2019,Outras Não Renováveis,0
+Mato Grosso,2019,Outras Não Renováveis,0
+Goiás,2019,Outras Não Renováveis,62
+Distrito Federal,2019,Outras Não Renováveis,0
+BRASIL,2019,Outras Não Renováveis,"10,412"
+BRASIL,2018,Outras Não Renováveis,"10,412"
+Rondônia,2018,Outras Não Renováveis,0
+Acre,2018,Outras Não Renováveis,0
+Amazonas,2018,Outras Não Renováveis,17
+Roraima,2018,Outras Não Renováveis,0
+Pará,2018,Outras Não Renováveis,80
+Amapá,2018,Outras Não Renováveis,0
+Tocantins,2018,Outras Não Renováveis,0
+Maranhão,2018,Outras Não Renováveis,28
+Piauí,2018,Outras Não Renováveis,0
+Ceará,2018,Outras Não Renováveis,168
+Rio G. do Norte,2018,Outras Não Renováveis,0
+Paraíba,2018,Outras Não Renováveis,0
+Pernambuco,2018,Outras Não Renováveis,98
+Alagoas,2018,Outras Não Renováveis,0
+Sergipe,2018,Outras Não Renováveis,0
+Bahia,2018,Outras Não Renováveis,650
+Minas Gerais,2018,Outras Não Renováveis,"1,202"
+Espírito Santo,2018,Outras Não Renováveis,"1,549"
+Rio de Janeiro,2018,Outras Não Renováveis,"4,517"
+São Paulo,2018,Outras Não Renováveis,"1,336"
+Paraná,2018,Outras Não Renováveis,189
+Santa Catarina,2018,Outras Não Renováveis,0
+Rio G. do Sul,2018,Outras Não Renováveis,513
+Mato G. do Sul,2018,Outras Não Renováveis,0
+Mato Grosso,2018,Outras Não Renováveis,0
+Goiás,2018,Outras Não Renováveis,65
+Distrito Federal,2018,Outras Não Renováveis,0
+BRASIL,2018,Outras Não Renováveis,"10,474"
+BRASIL,2017,Outras Não Renováveis,"10,474"
+Rondônia,2017,Outras Não Renováveis,0
+Acre,2017,Outras Não Renováveis,0
+Amazonas,2017,Outras Não Renováveis,18
+Roraima,2017,Outras Não Renováveis,0
+Pará,2017,Outras Não Renováveis,80
+Amapá,2017,Outras Não Renováveis,0
+Tocantins,2017,Outras Não Renováveis,0
+Maranhão,2017,Outras Não Renováveis,28
+Piauí,2017,Outras Não Renováveis,0
+Ceará,2017,Outras Não Renováveis,10
+Rio G. do Norte,2017,Outras Não Renováveis,0
+Paraíba,2017,Outras Não Renováveis,0
+Pernambuco,2017,Outras Não Renováveis,59
+Alagoas,2017,Outras Não Renováveis,0
+Sergipe,2017,Outras Não Renováveis,0
+Bahia,2017,Outras Não Renováveis,666
+Minas Gerais,2017,Outras Não Renováveis,922
+Espírito Santo,2017,Outras Não Renováveis,"1,845"
+Rio de Janeiro,2017,Outras Não Renováveis,"4,566"
+São Paulo,2017,Outras Não Renováveis,"1,438"
+Paraná,2017,Outras Não Renováveis,202
+Santa Catarina,2017,Outras Não Renováveis,0
+Rio G. do Sul,2017,Outras Não Renováveis,574
+Mato G. do Sul,2017,Outras Não Renováveis,0
+Mato Grosso,2017,Outras Não Renováveis,0
+Goiás,2017,Outras Não Renováveis,65
+Distrito Federal,2017,Outras Não Renováveis,0
+BRASIL,2017,Outras Não Renováveis,"10,709"
+BRASIL,2016,Outras Não Renováveis,"10,709"
+Rondônia,2016,Outras Não Renováveis,0
+Acre,2016,Outras Não Renováveis,0
+Amazonas,2016,Outras Não Renováveis,18
+Roraima,2016,Outras Não Renováveis,0
+Pará,2016,Outras Não Renováveis,80
+Amapá,2016,Outras Não Renováveis,0
+Tocantins,2016,Outras Não Renováveis,0
+Maranhão,2016,Outras Não Renováveis,28
+Piauí,2016,Outras Não Renováveis,0
+Ceará,2016,Outras Não Renováveis,9
+Rio G. do Norte,2016,Outras Não Renováveis,0
+Paraíba,2016,Outras Não Renováveis,0
+Pernambuco,2016,Outras Não Renováveis,60
+Alagoas,2016,Outras Não Renováveis,0
+Sergipe,2016,Outras Não Renováveis,0
+Bahia,2016,Outras Não Renováveis,746
+Minas Gerais,2016,Outras Não Renováveis,827
+Espírito Santo,2016,Outras Não Renováveis,"2,127"
+Rio de Janeiro,2016,Outras Não Renováveis,"4,598"
+São Paulo,2016,Outras Não Renováveis,"1,384"
+Paraná,2016,Outras Não Renováveis,195
+Santa Catarina,2016,Outras Não Renováveis,0
+Rio G. do Sul,2016,Outras Não Renováveis,571
+Mato G. do Sul,2016,Outras Não Renováveis,0
+Mato Grosso,2016,Outras Não Renováveis,0
+Goiás,2016,Outras Não Renováveis,65
+Distrito Federal,2016,Outras Não Renováveis,0
+BRASIL,2016,Outras Não Renováveis,"10,890"
+BRASIL,2015,Outras Não Renováveis,"10,890"
+Rondônia,2015,Outras Não Renováveis,0
+Acre,2015,Outras Não Renováveis,0
+Amazonas,2015,Outras Não Renováveis,26
+Roraima,2015,Outras Não Renováveis,0
+Pará,2015,Outras Não Renováveis,89
+Amapá,2015,Outras Não Renováveis,0
+Tocantins,2015,Outras Não Renováveis,0
+Maranhão,2015,Outras Não Renováveis,31
+Piauí,2015,Outras Não Renováveis,0
+Ceará,2015,Outras Não Renováveis,15
+Rio G. do Norte,2015,Outras Não Renováveis,0
+Paraíba,2015,Outras Não Renováveis,0
+Pernambuco,2015,Outras Não Renováveis,1
+Alagoas,2015,Outras Não Renováveis,0
+Sergipe,2015,Outras Não Renováveis,0
+Bahia,2015,Outras Não Renováveis,760
+Minas Gerais,2015,Outras Não Renováveis,"1,608"
+Espírito Santo,2015,Outras Não Renováveis,"1,786"
+Rio de Janeiro,2015,Outras Não Renováveis,"3,849"
+São Paulo,2015,Outras Não Renováveis,"1,664"
+Paraná,2015,Outras Não Renováveis,277
+Santa Catarina,2015,Outras Não Renováveis,0
+Rio G. do Sul,2015,Outras Não Renováveis,707
+Mato G. do Sul,2015,Outras Não Renováveis,12
+Mato Grosso,2015,Outras Não Renováveis,0
+Goiás,2015,Outras Não Renováveis,65
+Distrito Federal,2015,Outras Não Renováveis,0
+BRASIL,2015,Outras Não Renováveis,"10,781"
+BRASIL,2014,Outras Não Renováveis,"10,781"
+Rondônia,2014,Outras Não Renováveis,0
+Acre,2014,Outras Não Renováveis,0
+Amazonas,2014,Outras Não Renováveis,26
+Roraima,2014,Outras Não Renováveis,0
+Pará,2014,Outras Não Renováveis,89
+Amapá,2014,Outras Não Renováveis,0
+Tocantins,2014,Outras Não Renováveis,0
+Maranhão,2014,Outras Não Renováveis,31
+Piauí,2014,Outras Não Renováveis,0
+Ceará,2014,Outras Não Renováveis,15
+Rio G. do Norte,2014,Outras Não Renováveis,0
+Paraíba,2014,Outras Não Renováveis,0
+Pernambuco,2014,Outras Não Renováveis,0
+Alagoas,2014,Outras Não Renováveis,0
+Sergipe,2014,Outras Não Renováveis,0
+Bahia,2014,Outras Não Renováveis,736
+Minas Gerais,2014,Outras Não Renováveis,"1,680"
+Espírito Santo,2014,Outras Não Renováveis,"1,408"
+Rio de Janeiro,2014,Outras Não Renováveis,"3,864"
+São Paulo,2014,Outras Não Renováveis,"1,921"
+Paraná,2014,Outras Não Renováveis,294
+Santa Catarina,2014,Outras Não Renováveis,0
+Rio G. do Sul,2014,Outras Não Renováveis,640
+Mato G. do Sul,2014,Outras Não Renováveis,12
+Mato Grosso,2014,Outras Não Renováveis,0
+Goiás,2014,Outras Não Renováveis,65
+Distrito Federal,2014,Outras Não Renováveis,0
+BRASIL,2014,Outras Não Renováveis,"10,350"
+BRASIL,2013,Outras Não Renováveis,"10,350"
+Rondônia,2013,Outras Não Renováveis,0
+Acre,2013,Outras Não Renováveis,0
+Amazonas,2013,Outras Não Renováveis,9
+Roraima,2013,Outras Não Renováveis,0
+Pará,2013,Outras Não Renováveis,70
+Amapá,2013,Outras Não Renováveis,0
+Tocantins,2013,Outras Não Renováveis,0
+Maranhão,2013,Outras Não Renováveis,29
+Piauí,2013,Outras Não Renováveis,0
+Ceará,2013,Outras Não Renováveis,0
+Rio G. do Norte,2013,Outras Não Renováveis,0
+Paraíba,2013,Outras Não Renováveis,0
+Pernambuco,2013,Outras Não Renováveis,0
+Alagoas,2013,Outras Não Renováveis,0
+Sergipe,2013,Outras Não Renováveis,0
+Bahia,2013,Outras Não Renováveis,833
+Minas Gerais,2013,Outras Não Renováveis,"1,446"
+Espírito Santo,2013,Outras Não Renováveis,"1,015"
+Rio de Janeiro,2013,Outras Não Renováveis,"3,480"
+São Paulo,2013,Outras Não Renováveis,"2,263"
+Paraná,2013,Outras Não Renováveis,373
+Santa Catarina,2013,Outras Não Renováveis,0
+Rio G. do Sul,2013,Outras Não Renováveis,769
+Mato G. do Sul,2013,Outras Não Renováveis,6
+Mato Grosso,2013,Outras Não Renováveis,0
+Goiás,2013,Outras Não Renováveis,57
+Distrito Federal,2013,Outras Não Renováveis,0
+BRASIL,2013,Outras Não Renováveis,"8,320"
+BRASIL,2012,Outras Não Renováveis,"8,320"
+Rondônia,2012,Outras Não Renováveis,0
+Acre,2012,Outras Não Renováveis,0
+Amazonas,2012,Outras Não Renováveis,11
+Roraima,2012,Outras Não Renováveis,0
+Pará,2012,Outras Não Renováveis,50
+Amapá,2012,Outras Não Renováveis,0
+Tocantins,2012,Outras Não Renováveis,0
+Maranhão,2012,Outras Não Renováveis,17
+Piauí,2012,Outras Não Renováveis,0
+Ceará,2012,Outras Não Renováveis,0
+Rio G. do Norte,2012,Outras Não Renováveis,0
+Paraíba,2012,Outras Não Renováveis,0
+Pernambuco,2012,Outras Não Renováveis,0
+Alagoas,2012,Outras Não Renováveis,0
+Sergipe,2012,Outras Não Renováveis,0
+Bahia,2012,Outras Não Renováveis,855
+Minas Gerais,2012,Outras Não Renováveis,"1,415"
+Espírito Santo,2012,Outras Não Renováveis,"1,030"
+Rio de Janeiro,2012,Outras Não Renováveis,"2,306"
+São Paulo,2012,Outras Não Renováveis,"1,742"
+Paraná,2012,Outras Não Renováveis,228
+Santa Catarina,2012,Outras Não Renováveis,0
+Rio G. do Sul,2012,Outras Não Renováveis,609
+Mato G. do Sul,2012,Outras Não Renováveis,0
+Mato Grosso,2012,Outras Não Renováveis,0
+Goiás,2012,Outras Não Renováveis,56
+Distrito Federal,2012,Outras Não Renováveis,0
+BRASIL,2012,Outras Não Renováveis,"7,806"
+BRASIL,2011,Outras Não Renováveis,"7,806"
+Rondônia,2011,Outras Não Renováveis,0
+Acre,2011,Outras Não Renováveis,0
+Amazonas,2011,Outras Não Renováveis,5
+Roraima,2011,Outras Não Renováveis,0
+Pará,2011,Outras Não Renováveis,50
+Amapá,2011,Outras Não Renováveis,0
+Tocantins,2011,Outras Não Renováveis,0
+Maranhão,2011,Outras Não Renováveis,13
+Piauí,2011,Outras Não Renováveis,0
+Ceará,2011,Outras Não Renováveis,0
+Rio G. do Norte,2011,Outras Não Renováveis,0
+Paraíba,2011,Outras Não Renováveis,0
+Pernambuco,2011,Outras Não Renováveis,0
+Alagoas,2011,Outras Não Renováveis,0
+Sergipe,2011,Outras Não Renováveis,0
+Bahia,2011,Outras Não Renováveis,756
+Minas Gerais,2011,Outras Não Renováveis,"1,219"
+Espírito Santo,2011,Outras Não Renováveis,"1,267"
+Rio de Janeiro,2011,Outras Não Renováveis,"2,305"
+São Paulo,2011,Outras Não Renováveis,"1,343"
+Paraná,2011,Outras Não Renováveis,188
+Santa Catarina,2011,Outras Não Renováveis,0
+Rio G. do Sul,2011,Outras Não Renováveis,596
+Mato G. do Sul,2011,Outras Não Renováveis,0
+Mato Grosso,2011,Outras Não Renováveis,0
+Goiás,2011,Outras Não Renováveis,63
+Distrito Federal,2011,Outras Não Renováveis,0
