@@ -76,7 +76,7 @@ area_chart = alt.Chart(df_long).mark_area().encode(
              alt.Tooltip('tipo_energia:N', title='Tipo de Energia'),
              alt.Tooltip('percentual:Q', title='Percentual', format='.2f')]  # Formatando o percentual
 ).properties(
-    width=1200,
+    width=1000,
     height=800,
     title=f'Geração de Energia por Tipo em {estado_selecionado} (%)'
 )
